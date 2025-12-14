@@ -1,0 +1,102 @@
+---
+title: "Game Semantics and Game Theory"
+author: "Brad Venner"
+date: "10/20/2025"
+output: html_document
+---
+
+I'd like to focus on acceptance sampling and focus on trying to clarify the distinction, if any, between quality control and acceptance sampling viewed as single agent and dual agent processes, respectively. I'd like to reconstruct this in a very basic way so that I'm not skipping over areas that are somewhat foggy. This will help me explain these ideas to my non-statistical clients. But I'd also like to understand how this fits into my larger project of "computational socialism" (or "cybersocialism" or "technosocialism" or "digital socialism") which means exploring some of the related literature in computer science and (philosophical) logic (in the computational trinitarian tradition) with the eventual goal of improving institutional analysis and design.
+
+Starting from the beginning means looking at games. Game theory was developed for economic applications and is unavoidable when looking at mathematical social science. The assymmetric notion of player and environment is present from the beginning in classical Bayesian decision theory, or in other words as a game between a player and an opponent that is not playing strategically. The extension to "two Bayesians" is already potentially beyond rational choice theory as various forms of robustness can be motivated from this viewpoint. The class of priors used in robust Bayesian analysis can be interpreted as covering all "reasonable" prior distributions. But these theories tend to emphasize multiple agents making a single decison and less on the problem of multiple agents interacting to share information in a dynamic environment that needs to be considered in "multi-agent systems," broadly considered. 
+
+In addition to computational implementations of classical game and decision theory, there are at least three other important paradigms using the term "game" in computer science. The most obvious one are "video games," which have developed their own approaches to implementation of games. So many practical problems has been solved in video game systems that it would be a major mistake to ignore this literature. A less obvious one concerns agents, both as agent-based models and multi-agent systems. Sometimes these are based in classical game/decision theory, but there is a wide variety of non-classical systems considered under this banner. A third area is in theoretical computer science, particularly game semantics but also in broader issues around concurrency. As Hodges noted, game semantics has traditionally only considered a pretty narrow range of mathematical games, but concurrency theory has considered the actor model of (concurrent) computation and work in areas such as developing multi-party session types for the actor model.  
+
+By considering the notion of an agent, we are already in thirdness. Peirce almost defines pragmatism as a theory of agency, since the pragmatic test defines the meaning of a concept via the relation of the two gates of perception and purposeful action. Peirce later refines this to distinguish between purpose as the logical interpretant and action as the "energetic" interpretant. These concepts are defined in the "speculative grammar". Peirce also develops a game-theoretic notion of "logical critic" with the quantifiers representing different moves by agents. But there is some notion that the single agent view, with the primary division as agent/environment with the opposing agent split from the environment.   
+
+An ongoing theme in this work will be thinking about game theory from a "trinitarian" perspective, from a logical, mathematical and computational perspectives. The computational perspective would be game semantics, the logical perspective would be "dialogical logic" and the mathematical perspective would be category theory, particularly double and multiple category theory. This classification means rethinking traditional "game theory" from these different perspectives, as well as from itself.  
+
+I've been thinking about the relationship between Mellies' game semantics of homotopy type theory  
+
+LR defines three game forms: extensive, normal and the "characteristic function". It's interesting the parallels with the semantics of linear logic distinction of sequential, asynchronous and "relational" models.
+
+Mellies defines a template game as a category $A$ equipped with a functor from $A$ to the *template of games*, which is the category with two objects. This seems like a categorical generalization of the "characteristic function" that defines a proposition, i.e. a map from a type to $2$. Mellies draws the analogy with the coloring of a graph with two colors, which in general gives a bipartite graph. Since bipartite graphs are also used in Petri nets, does this mean that there is a close relationship between template games and Petri nets?
+
+In this model, an object $x$ in the category $A$ is a position in the game space. An object in the functor category $x \rightarrow t$ is an object that is labeled as "player" or "opponent". A trajectory in the game space is a morphism between objects. Mellies does not really define the relations in the functor category but presumably these are straightforwad to define  
+
+The notion of strategy relates two games $A$ and $B$, and not necessarily relationships between trajectories. Instead, strategies are related to spans between games that additionally have a map to the *template of strategies* . 
+
+The intuition behind our definition of strategy $σ : A → B$ is that every trajectory $f : x → y$ in the support $S$ of the strategy induces a pair of trajectories.
+
+A strategy looks like a 2-cell in a double category that relates two spans: the span defined by the support and two projections to the span defined by the *template of strategies* and the projections to two *templates of games*. So would it be possible to map the double categorical model for message-passing to the template game model? Perhaps more generally, could the template game model be mapped to categorical systems theory? Game systems?
+
+In the more general development beginning in Section 2, the development is in the bicategory of spans. These results should be readily extendible to the double category of spans. 
+
+Another possibility could be to develop these notions within a category enriched in the *template of games*. Then a game could be defined as an enriched profunctor between a presheaf and a co-presheaf, considered as a player and their opponent. A strategy would then be a 2-cell between games. This doesn't appear to capture the notion of a *template of strategies* in Mellies' formulation, but it does resemble Bart Jacob's development of probability theory, where there is a special role for the object $1 + 1$. This object has a different shape than the *template of games* and these are probably not equivalent formulations. It would be an interesting problem to relate the two approaches, as non-determinism is a central issue in any concurrency formulation.
+
+The Gemini answer to the query "profunctors games category theory" gave a very rich overview of the use of profunctors in game semantics. One link was to a paper by Glynn Winskel titled *From Strategies to Profunctors*, which explicitly attempts to link game semantics and profunctors. Winskel characterizes these as parallel traditions:
+
+> Profunctors themselves provide a rich framework in which to generalize domain theory in a way that is arguably closer to that initiated by Dana Scott than game semantics; we refer the reader to Hyland's case for such a generalization [4] and to the relevance of presheaf categories and profunctors to concurrent computation [5].
+
+4. Hyland, M.: Some reasons for generalising domain theory. Mathematical Structures in Computer Science 20(2) (2010) 239265
+
+5. Cattani, G.L., Winskel, G.: Profunctors, open maps and bisimulation. Mathematical Structures in Computer Science 15(3) (2005) 553614
+
+Winskel links these structures by a lax functor between bicategories. These should be able to be generalized to double categories, which could translate this model to categorical systems theory.
+
+Winskel gave a talk at the Topos Institute in 2022 titled "Making concurrency functional". This talk began with distinguishing between "two major paradigms in computation" - the functional and the interactive. These two paradigms strike me as very similar to the distinction drawn by ??? in their discussion of the relational turn in sociology.
+
+Winskel introduces event structures that include both a causal dependency relation and a conflict relation. Reminds me of a similar structure in the categorical design literature. Event structures include the notion of configuration, which are consistent (no events in conflict) and downward-closed (all previous events that are causally related to the "current" state are included). The conflict relation seems to be used like "exclusive or" in game trees.
+
+Parallel composition of event structures places them side by side as in parallel composition in monoidal categories. can be generalized as two party games.
+
+Games as a model for interactive computing.
+
+Does message passing enter into this model? Can it be generalized to n-party games as in game theory? A related question - can n-party games be generalized to message passing structures? Must understanding "characteristic functions" in game theory be a major focus?
+
+Winskel's model represents games as event structures with polarity. Very similar to Mellies' work. There is a lot of parallel between this talk and Mellies' work. Composition of strategies is like parallel composition with hiding. Mellies says that the move from event structures to small categories was required to allow for "synchonous copycat".
+
+Slide on "For copycat to be identity w.r.t. composition" shows two figures that look very much like completions in the double category of relations. I wish I could remember the author's name - they were at a Swiss technical university - it's probably in Seven Sketches.
+
+Winskel's talk develops functional approaches to concurrency from the composition of game strategies. He derives lenses, optics and dependent optics as special cases of the general composition of strategies. Would template games be able to produce many of the same results, or is the "asynchronous composition" 
+
+Like many of Mellies' papers, this one has a very clearly written and enjoyable introduction followed by a thicket of much heavier category theory, where it turns out the introduction was just a simple example of the more abstract results of the paper.
+
+Extensive forms are the classic structure in game and decision theory. A game is represented as a labelled directed acyclic graph. Nodes represent "states" and arrow represent moves.  
+
+## Probabilistic event structures
+
+This paper by Winskel looks interesting. But it gives me a sense of the too many formalisms problem in theoretical computer science. In mathematical category theory, there is a general complaint that any category theoretic concept may be derived from another category theory concept, and that there does not seem to be any "foundation." This seems to be even more problematic in concurrency theory, where there are many different possible formalisms. There are individual papers relating different formalisms (i.e. event structures and Petri nets, session types and game semantics, game semantics and game theory, etc.) but it's hard to get an overall impression of the situation. It's probable that theoretical computer science is even less amenable to a "one mind" understanding than mathematics.
+
+# Note on personal knowledge methods 
+
+I would like to avoid the "one more paper" mistake I made when I was working on Aplexys. It's easy and fun to read another paper, particularly on a morning where I'm not feeling very inspired. One obvious solution is to only pursue theoretical work when I feel compelled to do so (i.e. make EPA work the default). Other options are to work on solving problems on the computer using existing formalisms.  
+
+# Note on coalitional strategies
+
+Coincidentally, in the last 24 hours I read in an article on Verso discussing Poulantis theory of the state and in The Daily Blast episode this morning (29 Oct 2025) the notion that in two opposed coalitions the goal is both to disrupt the opposing coalition and to strengthen your own. I hadn't heard this stated explicitly before, although it makes perfect sense. I wonder if this is a general principle in cooperative game theory or whether there is a common root.  
+
+# Seiller on mathematical informatics
+
+I know I wrote a little bit on this paper earlier, but the "abstract model of computation" as the action of a monoid on a "configuration space" reminds me of a similar pattern that Lawvere developed where a intensive quantity can act on an extensive quantity. 
+
+# Double operadic systems theory
+
+A recent paper by Libkind and Myers attempts to unify the operadic and "process" approaches in categorical systems theory. Is this a promising approach to measurement systems theory?
+
+A "system" is defined as a horizontal morphism in a double category between an object and an interface. This fits Mari's "objects" and "properties" ontology pretty well. On the other hand, it seems less fundamental than the "space" and "quantity" approach by Lawvere but could be formally the same by using the double category of profunctors. The "object" seems to be a distinguished object in that the vertical arrow between this "object" in the "system map" is always an identity. This appears to me to rule out "signal transduction" between systems.
+
+I'm concerned with how complex this model is. On the other hand, they do use the formalism to unify a variety of existing theories. They also seem to claim that "symmetric monoidal loose right modules on symmetric monoidal double categories" is a *formal category theory*. This seems like quite a claim. How would this be related to the formal category theory of *virtual augmented double categories*? Pare's defense of double category theory relies upon universal property arguments to justify their use. Nasu has developed a type theory (a syntax) for virtual double categories and Patterson has also developed an approach using lax functors from double theories and has operationalized this approach in CatColab. 
+
+Winskel also derived "functional" approaches to concurrency from an "interactional" approach to concurrency in his Topos Institute talk. Seiller seems to take a similar approach of starting with behavior and moving to types. The "categorical systems theory" approach seems to completely neglect concurrency theory, which seems strange sinc the latter is fundamentally about composition (or distribution) of multiple computing machines.
+
+Any socialist should be happy to follow Lawvere down his various rabbit holes in order to try to understand his perspective on dialectical philosophy.
+
+If Isbell duality between space and quantity is used as a model of object and property, so that profunctors are types of "proposition," then can signal transduction be modeled as natural transformations?
+
+Since profunctors are generalizations of relations, it should be possible to include most of "representational measurement theory" as a special case.
+
+Can this "structural view" be understood from an "interactive view" as outlined by Winskel?
+
+The Wikipedia article brings up heteromorphisms. This reminds me of Ellerman's work in this area. It probably would be a good idea to revisit this article.
+
+Is sampling a special case of the mass noun/count noun adjunction proposed by Reyes? 

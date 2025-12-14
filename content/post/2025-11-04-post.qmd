@@ -1,0 +1,20 @@
+---
+title: "Axiomatic method and formal category theory"
+author: "Brad Venner"
+date: "11/04/2025"
+output: html_document
+---
+
+Andrei Rodin, a philosopher of mathematics, wrote a fascinating book called *Axiomatic Method and Category Theory* that reviews the history and philosophy of the axiomatic method, with major emphasis on Euclid, Hilbert, Lawvere and  Voevodsky [@rodin:2012:axiomatic]. The book begins with a "controversial quote" from (Vladimir Arnold)[https://en.wikipedia.org/wiki/Vladimir_Arnold]:
+
+> Mathematics is the part of physics where experiments are cheap.
+
+Rodin states that this view of mathematics is the main goal of the book.
+
+Why am I reading this? I still have vague amibitions to develop "categorical semiotics" or perhaps a specialized version in "categorical measurement systems."
+
+In the last part of the book, Rodin outlines a "new axiomatic method" that develops a similar understanding of axiomatic method that resonates with "virtual augmented double category theory". Rodin develops some of these ideas within a single category. Rodin develops the idea that objects are maps. In double category theory, a term is a morphism and types are objects. Rodin emphasizes that the roles of spaces and types are more interchangeable than emphasized in more "foundational" approaches where there is a more essentially assymetric understanding of this relationship (e.g. matter and form). The notion of morphism is also understood as "representation." 
+
+Rodin also seems to interpret morphisms that compose with a given object "from the left" as having the same type and objects that compose with a given object "from the right" as having the same space. It's interesting that he does not develop Lawvere's idea of a space as a presheaf and a quantity (type?) as a copresheaf, and a proposition as their product (i.e. as a profunctor). This has a similar pattern where a presheaf models a space - the Yoneda embedding maps objects in a base category to the morphisms that map into the object. Similarly, a copresheaf models a "type" (Lawvere uses quantity) - the co-Yoneda embedding maps object to the morphisms that map out of the object. It may be that Rodin's model works exactly when considering the (co)Yondeda embedding on morphisms in the base category. 
+
+Since the space/quantity construction works across enriched categories, the special role of the enriching category gives an overall square relationship with a base category, an enriching category and the adjoint functor categories between them.

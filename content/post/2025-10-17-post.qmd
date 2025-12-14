@@ -1,0 +1,52 @@
+---
+title: "Relational quantum mechanics and semiotics"
+author: "Brad Venner"
+date: "10/17/2025"
+output: html_document
+---
+
+Today's coincidence: debating quantum mechanics with Nic, identifying relational EPR paper by Rovelli, reading Peirce-L entry that cites the relational interpretation. So I am dedicating this week to the study of relational quantum mechanics and the possible relationship to "relationalism" as developed by Poinsot and perhaps at the core of Peirce's conceptions as well.
+
+# Quantum Peirce for Dummies
+
+Stephen Jarosek submitted this post to Peirce-L. The idea sketched out in the paper is that association plays a role of downward causation. His example is the relationship between atoms and molecules, with water as a representative. Because this example can be treated with quantum chemistry, this imples
+
+My guess from analogy with double category theory is that function is like causation and relation is like constraint. This fits Pattee's idea of the distinction between process and constraints and that life manipulates constraint. Bich develops their theory of biological organization along similar lines to Patee, but also develops the notion of processes between constraints.
+
+# Association as Downward Causation
+
+Jarosek defines association as what Peirce would call an irreducibly triadic relationship, and what I've hypothesized to be a triple category but which leaves traces in double category theory. Jarosek states that association is a principle of causation and thus takes causation as a primary principle, against Peirce's statement that causation was not a primitive principle in his system.
+
+Jarosek's stated monism seems at odds with Peirce. Jarosek takes triadic relation as axiomatic, again against a Peirce's notion that the emergence of law must be somehow evolutionary and against the biosemiotic assumption that triadic relation coemerged with life. The extension of "agency" to "particles" would also be a bridge to far for Nic. Jarosek's treatment of relational quantum mechanics is extremely breezy and doesn't offer much insight.
+
+Jarosek does rely upon Terrance Deacon, and it would be interesting to dive more deeply into thier work. Perhaps this would be a better use of my time than Castoriadis (or TV). 
+
+Based on these problems, I'm going to shelve this paper and focus directly on relational quantum mechanics.
+
+# Relational EPR
+
+If many of the properties of quantum mechanics can truly be developed within relations, as developed by Ellerman, then does this hold in general double categories, or perhaps more restrictively in the double categories of relations. 
+
+> From the relational perspective, the apparent “quantum non-locality” is a mistaken illusion caused by the error of disregarding the quantum nature of all physical systems.
+
+> The price for saving locality is the weakening of realism, which is at the core of relational quantum mechanics
+
+> On the other hand, the Kochen-Specker theorem [16] has questioned the very possibility of uncritically ascribing “properties” to a quantum system.
+
+The Wikipedia article explains the theorem by showing that there is no way to assign "properties" to 9 independent orthogonal bases in a four-dimensional Hilbert space. There are 36 cells in the table with each vector ocurring twice, given the 18 vectors mentioned in the title of Cabello's articles cited in Wikipedia. One way out of this proof is called quantum contextuality, since difference columns in the table correspond to different measurement arrangements.
+
+## Wikipedia article on relational quantum mechanics
+
+The extremely well done article on the Kochen-Specker theorem sent me to the Wikepedia article on relational quantum mechanics, since every investigation of any topic should begin with the Wikipedia article.
+
+## Relational quantum mechanics at the crossroads
+
+(Article)[https://link.springer.com/article/10.1007/s10701-024-00810-5] in Foundations of Physics. Develops history of RQM since it's introduction by Rovelli in 1990. Credits it with the "epistemological turn" in QM with a number of different varieties. Develops some of the issues with RQM, including lots of additional complexities. Doesn't fill me with confidence that this is the right direction to go.
+
+## Categorical quantum mechanics
+
+The key notion in categorical quantum mechanics is a dagger compact category. Wikipedia has an article on (these)[https://en.wikipedia.org/wiki/Dagger_compact_category]. But some of the examples given for these categories are also key double category examples, including Span and Rel.
+
+Googling around gave me a paper from Baez from 2007 called (Spans in Quantum Theory)[http://math.ucr.edu/home/baez/span/], which explicitly develops the relationship between the categories of spans, finite-dimensional Hilbert spaces, and cobordisms, which were also mentioned in the Wikipedia article.
+
+So how are the concepts of "dagger compact categories" and "double categories" related? Are double categories too "rigid" for categorical quantum mechanics? Is the category of profunctors also dagger compact? Can this be used to understand the duality of space and quantity?

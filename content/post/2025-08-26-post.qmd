@@ -1,0 +1,19 @@
+---
+title: "Transdisciplinarity, democracy, semiotics"
+author: "Brad Venner"
+date: "8/26/2025"
+output: html_document
+---
+
+The term "transdisciplinarity" or "transdisciplinary research" is a competitor to "citizen science" and considered an example of "post-normal science." There seem to be science-focused forms, recalling former efforts at the unity of science. There also seems to be a more fundamental rethinking of the relationship between science and society, with the goal of transdisciplinarity more effective solutions to "wicked problems." Much practical work has focused on sustainability, but there have been other research efforts on "digital sovereignty" and I'm sure I can find work on solidarity as well. 
+
+Dewey's *The Public and its Problems* is clearly an important precursor to these efforts. I found one paper on transdisciplinarity that cited this work, but only in a footnote. I should assign myself the challenge of writing a paper that compares these approaches. I found myself underwhelmed when I read this book on the Alaska cruise. Dewey also wrote an article on the unity of science for Neurath's encyclopedia and also considered the general problem of inquiry in his book on logic. 
+
+There is an aspect to this debate that reminds me of the XKCD cartoon on standards, where a new standard is introduced to unify 15 competing standards, resulting in 16 standards. The creation of "transdisciplinarity" could merely result in the creation of an additional discipline.
+
+Gare has advocated for the discipline of philosophy to act as a bridge between science and the humanities. Since Aristotle, philosophy has played an active role in the "unity of knowledge". So a discipline to transcend disciplines has already been created. Gare critiques philosophy for failing at this mission and devolving into a series of specialized knowledge domains.
+
+The second Trump administration has definitely challenged the institutional relationship between "democracy" and "expertise". But Trump has no clear institutional project to replace the bureaucracy. The neoliberal era was marked by the creation of independent institutions that were not subject to democratic accountability. Trump is destroying these institutions in order to replace them with a "personalist" regime that only responds to him. His bet seems to be on the illiberal approaches to ruling known as "competitive authoritarianism" and in his ability to overcome the shaky but long-standing democratic institutions.
+
+Is the goal of transdisciplinarity to avoid accountability of experts? Few of the activist campaigners focused on poisoning of communities believe that this is fundamentally a "knowledge" problem. Castoriadis did discuss the problem of experts in his general approach to collective autonomy. Athens visited severe punishments on military experts for failing in their duty. Rule by experts would be a form of "heteronomy".
+

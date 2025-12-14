@@ -1,0 +1,10 @@
+---
+title: "Socialist informatics"
+author: "Bradley Venner"
+date: "11/10/2025"
+output: html_document
+---
+
+I've been mulling over this phrase as a unification of various threads I've been thinking about related to political action. Nic makes phun of me for obsessing over names but I probably just have to accept that my mind works like this, but I believe that this term can serve as both as a genuine conceptual unification and also as a timely political intervention.
+
+Althouh I can secretly substitute "semiotics" for "informatics" while thinking about the conceptual unification, it seems clear to me that the latter term should be more potent as a political intervention. There is an implied engineering/design component to "informatics". There was already a technology working group in DSA when I was active there and an informatics working group could still consider using information technology for internal purposes while also having a larger focus on governance applications.   

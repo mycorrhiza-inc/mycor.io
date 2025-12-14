@@ -1,0 +1,16 @@
+---
+title: "Notes on Beyond Bayesian Accuracy"
+author: "Bradley Venner"
+date: "11/13/2025"
+output: html_document
+---
+
+This paper by Ahti-Veikko Pietarinen and Majid Beni is a follow-up to their previous paper comparing active inference a la Friston with Peice's pragmatism. This paper considers the particular subject of skill and accuracy.
+
+> Good statistical inference subjects propositions to severe testing. 
+
+An obvious question is whether these ideas can be generalized to continuous measurements and thus be useful in analytical chemistry. The difference between verification and validation seems closely related to the distinction between accuracy and skill.
+
+I'm pretty sure that this paper does not achieve it's objectives, as it's not clear to me how the proposed synthesis between the free energy principle and pragmatism would work outside of the binary classifier special case.
+
+https://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/PASS/Acceptance_Sampling_for_Attributes_with_Optimum_Number_of_Nonconformities.pdf

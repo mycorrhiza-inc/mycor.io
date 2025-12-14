@@ -1,0 +1,6 @@
+Exergy is a very important concept for the energy transition.
+
+port-Hamiltonian systems (PHS)
+
+Exergetic PHS can be represented with a graphical, compositional modeling language called EPHS.
+  
