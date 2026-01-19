@@ -1,0 +1,14 @@
+---
+title: Notes on Scientists Warning on Affluence
+author: Bradley Venner
+date: '2022-04-02'
+slug: notes-scientists-warning-affluence
+tags:
+  - semiotics-values
+---
+
+Julia Stienbrener's paper that introduces ecosocialism to Nature (the journal). She generously credited the lead authors of this paper in her in YouTube interview on the podcast Metabolism of Cities.
+
+Stienbrener's advocacy for a degrowth perspective has been persuasive to me that this perspective needs to be taken seriously. Electricity modeling shows that nightime electricity demand drives fossil fuel development. Bellofiore's work shows that Minsky's critique of Keynesianism focuses on the need to input into supply decisions and that mere focus on investment can lead to poor outcomes. All these point to a more democratic approach to 'systems of provision', of which electricity is an absolutely crucial system.
+
+I'm not sure what I got out of this paper, most likely because I'm not its intended audience. It seems like it's geared towards scientists that recognize resource consumption issues but have never heard of eco-socialism.

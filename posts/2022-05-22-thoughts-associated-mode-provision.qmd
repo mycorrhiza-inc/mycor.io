@@ -1,0 +1,10 @@
+---
+title: Thoughts on the Associated Mode of Provision
+author: Bradley Venner
+date: '2022-04-03'
+slug: thoughts-associated-mode-provision
+tags:
+  - semiotics-values
+---
+
+The term "provision" or "system of provision" encompases the production and distribution system 

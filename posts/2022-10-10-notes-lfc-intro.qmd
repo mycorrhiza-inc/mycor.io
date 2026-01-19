@@ -1,0 +1,14 @@
+---
+title: Notes on the Logical Foundations of Cognition
+author: Bradley Venner
+date: '2022-10-10'
+slug: notes-logical-foundations-cognitions
+tags:
+  - categorical-semiotics
+---
+
+I purchased this book early on in the Aplexsys project. The relationship between logic and cognitive science seems important, and I'm increasingly drawn towards foundational questions in statistics and logic.
+
+> We regard the attempts of the classical logicians to treat all these kinds as predicates of a universal kind THING as misguided and misleading. p. 7
+
+Brentano is cited as playing an important role in the project. Deely also referenced Brentano and wrote an entire book comparing Brentano's notion of "intentionality" with semiotics.

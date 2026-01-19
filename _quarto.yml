@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ecology, Society, Democracy"
+  site-url: https://bvenner.github.io/ecosocdem
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: quotes.qmd
+        text: Quotes
+    right:
+      - icon: twitter
+        href: https://twitter.com/BradVenner
+      - icon: github
+        href: https://github.com/bvenner
+
+  page-footer:
+    center: "Copyright 2016-2025, Brad Venner"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+execute:
+  freeze: auto

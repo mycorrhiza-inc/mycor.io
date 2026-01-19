@@ -1,9 +1,0 @@
----
-title: Thoughts on Analytical Quality by Design
-author: Bradley Venner
-date: '2022-08-07'
-slug: thoughts-analytical-quality-by-design
-tags: semiotics-values 
----
-
-Taguchi parameter design 

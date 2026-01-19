@@ -1,0 +1,20 @@
+---
+title: Notes on Discursive Habits
+author: Bradley Venner
+date: '2022-03-29'
+slug: notes-discursive-habits
+tags:
+  - cognitive-semiotics
+---
+
+I'm not sure why I started reading Legg's paper *Making It Explicit and Clear*. [legg:2008:making]. The subject matter of this paper compared the strong inferentialism of Robert Brandom and the *hyper inferentialism* of Peirce. This caught my eye because of the reference in Rahman's work on constructive type theory to Brandom's inferentialism. Underlying this connection is the potential connection between semiotics, logic and phenomenology. 
+
+The present paper is Legg's attempt to link semiotics and enactivism. The latter term comes from cognitive science (one of the four E's) and has been linked strongly to pragmatism, but usually through Dewey. This is territory squarely within the domain of "categorical semiotics", although perhaps closer to the metaphysical.
+
+> Thus, a key enactivist theme has been a so-called Life-Mind Continuity Thesis (Godfrey-Smith 1996; Wheeler 1997), which holds that the basic structures which create life are the basic structures which create mind. (See (Thompson 2007, 128-9) for a useful overview.) [legg:2019:discursive, p. 3]
+
+The footnote is to Evan Thompson's book *The Embodied Mind*, from the Mind & Life institute.
+
+Although Legg advocates for a semiotic approach to enactivism, she doesn't connect her work to other currents. They explicity rule out Dewey's work rather than trying to relate Dewey or Peirce. They also don't (explicity) connect to biosemiotics, where many of these issues have been developed. The main stated influence is Frederik Stjernfelt's book *Natural Propositions*, which sadly is not available on libgen. [I probably should read this - Ahti gave it a nice review that is available on ResearchGate. It is amazing to me that author's still feel comfortable publishing on anything related to the philosophy of knowledge while keeping their book private. Does Denmark need to pay their faculty more?] Ahti's review claims that Stjernfelt makes links to biosemiotics, but Ahti also mentions that Stjernfelt doesn't connect to "teleosemantics", a partial target of Legg.
+
+Ultimately, this points back to the origin of life problem, which points to the importance of "inorganic" metabolism. It would be interesting to connect the inorganic metabolic networks developed by Eric Smith with Rosen's categorical understanding of closure. It would also be interesting to link these to accounting notions - could a Julia project for accounting also be used for these models, in a similar way that SciML could be used for both biochemical networks and control theory? The structure/agency tensions inherent in origin of life work seem like a very nice framework for thinking about these problems away from the complexity of social interactions.
