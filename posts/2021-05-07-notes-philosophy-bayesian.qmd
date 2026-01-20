@@ -1,6 +1,8 @@
 ---
 title: "Notes on  Philosophy and the practice of Bayesian statistics"
-output: html_notebook
+author: "Bradley Venner"
+date: "05/07/2021"
+output: html
 ---
 
 Andrew Gelman attempts to place Bayesian statistics within the 'hypothetical deductive' framework of the philosophy of science.  This raises a couple questions:

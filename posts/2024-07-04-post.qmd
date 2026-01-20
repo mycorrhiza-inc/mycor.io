@@ -1,6 +1,7 @@
-7---
+---
 title: "Thoughts on systems, semiotics, dialectics"
 author: "Brad Venner"
+date: "04/07/2024"
 format: html
 ---
 

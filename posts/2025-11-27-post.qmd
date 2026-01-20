@@ -1,3 +1,10 @@
+---
+title: "Generalized Constrained Dynamic Modeling for the Energy Transition"
+author: "Bradley Venner"
+date: "11/27/2025"
+output: html_document
+---
+
 After looking at this more deeply, I think the specific formulation of Richter et. al. is not the best path for formalizing accounting systems. However, it probably is possible to describe power systems using classical mechanics, so it's probably possible to describe the technical system using a physical model. The REA framework is about describing "economic events" that relate the exchange of physical and economic resources between "agents". What is the relationship between these two domains? The fact that both systems could be described within a generalized Lagrangian framework   
 
 The accounting model that describes the corresponding economic flows , in part because "hydraulic macroeconomics" is over 70 years old. However, the basic critique of static equilibrium models seems valuable and the economic modeling language should be some ability to represent underlying physical systems. But I believe that the interface between the physical and monetary systems should start at cost accounting. Are Richter's earlier effort on combining stock-flow consistent and environmentally extended input-output models more promising?   

@@ -1,6 +1,0 @@
-q' = qpq
-show: q' p q' = q'
-qpq p qpq = qpq
-q (pqp)qpq
-q(pqp)q
-qpq = q'

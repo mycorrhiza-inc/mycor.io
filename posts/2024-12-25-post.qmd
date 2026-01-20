@@ -1,6 +1,7 @@
 ---
 title: "Thoughts on the purpose of purpose"
 author: "Brad Venner"
+date: "12/24/2024"
 format: html
 ---
 

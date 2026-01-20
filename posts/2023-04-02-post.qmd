@@ -1,7 +1,7 @@
 ---
-title: Post
-author: Brad Venner
-date: 2023-04-02
+title: "Logic in color" 
+author: "Brad Venner"
+date: "2023-04-02"
 ---
 
 # Logic in color and categorical systems theory

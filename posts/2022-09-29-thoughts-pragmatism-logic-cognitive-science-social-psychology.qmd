@@ -4,35 +4,16 @@ author: "Brad Venner"
 date: "09/29/2022"
 output: html_document
 ---
-# Introduction
 
-4 fields, choose 2, 6 combinations
-| First | Pragmatism | Logic | Cognitive Science | Social Psychology |
-|---|---|---|---|---|---|
-| Pragmatism | | Logic as Inquiry | Cognitive Science | Human Nature and Conduct|
-| Logic | | |Logical foundations of cognition | ? |
-Cognitive Science | | | |Social cognition, cognitive sociology |
+# Reinforcement learning
 
 Classical pragmatism ranges over Dewey, Peirce, James
 
 Other pragmatists may increase in importance for connecting cognitive science with pragmatism, since cognitive science appears as a separate discipline only after WW2. 
 
-The link between logic and cognitive science is addressed broadly and is not restricted to self-identified pragmatists. Logic has usually been understood to have a normative component within philosophy, although mathematical logic has a more ambiguous status as a normative discipline. Cognitive science endeavors to be "value nu
+The link between logic and cognitive science is addressed broadly and is not restricted to self-identified pragmatists. Logic has usually been understood to have a normative component within philosophy, although mathematical logic has a more ambiguous status as a normative discipline. Cognitive science endeavors to be "value neutral".
 
 Small logic (mathematical logic) and big logic (theory of inquiry). Dewey's notion of logic as the theory of inquiry is social almost by definition. 
-
-# Pragmatism and logic
-# Pragmatism and cognitive science
-## Dewey
-## Peirce
-
-# Pragmatism and social psychology
-
-# Logic and cognitive science
-
-## Logical foundations of cognition
-
-## Reinforcement learning
 
 > Over the past half century, the fields of psychology and artificial intelligence (AI) have jointly developed
 a normative theory, known as reinforcement learning (RL), that is founded on the reward hypothesis
@@ -53,11 +34,5 @@ I'd be somewhat surprised if HRRL is anything close to novel in the stochastic o
 
 Karl Friston has proposed active inference as an alternative to reinforcement learning that can reproduce the results of policies selected by RL [@friston:2009:reinforcement]
 
-# Cognitive science and social psychology
-
-
-Viewing reinforcement learning as a particular the of logic, the link between 
-
-## Logic and social psychology
 
 

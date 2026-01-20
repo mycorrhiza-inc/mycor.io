@@ -1,5 +1,5 @@
 ---
-title: "Journal Entry"
+title: "Municipal digital socialism"
 author: "Brad Venner"
 date: "05/20/2023"
 output: html_document

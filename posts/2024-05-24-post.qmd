@@ -1,7 +1,7 @@
-7---
+---
 title: "Notes on Enactivism and Pragmatism"
 author: "Brad Venner"
-format: revealjs
+format: html
 draft: true
 ---
 

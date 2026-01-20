@@ -1,3 +1,9 @@
+---
+title: "Notes on Marxian Naturalism"
+author: "Brad Venner"
+date: "06/06/2022"
+output: html_document
+---
 
 Source: From Z.A. Jordan’s book “The Evolution of Dialectical Materialism,” published by Macmillan, 1967. This chapter of the book is reproduced for non-commercial, educational purposes only, and no permission is granted to reproduce the text.
 

@@ -1,8 +1,7 @@
 ---
-title: Notes on Pragmatism and Idealism
-author: Bradley Venner
-date: '2021-11-102'
-slug: notes-pragmatism-idealism
+title: "Notes on Pragmatism and Idealism"
+author: "Bradley Venner"
+date: "2021-11-12"
 ---
 Pragmatism and socialism (particularly Marxism) have been presented as competing traditions with little in common by authors such as Elizabeth Anderson and Cornell West. However, there appears to be a fair amount of scholarly effort relating pragmatism and German idealism. The multi-author volume *Pragmatism and Idealism* was published in 2018 and edited by Robert Stern.
 

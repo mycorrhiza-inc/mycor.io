@@ -2,22 +2,37 @@
 /docs/
 /_freeze/
 /.quarto/
+**/*.quarto_ipynb
+
+# Archive
+/_archive/
 
 # R
 .Rhistory
 .RData
 .Rproj.user/
 
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
 # OS
 .DS_Store
 ._*
+Thumbs.db
 
-# personal authentication tokens
+# Editor/IDE
+*.swp
+*.swo
+*~
+
+# Personal authentication tokens
 github-pat*
 
-# devenv
+# devenv/direnv
 .devenv/
 devenv.lock
 .direnv/
-
-**/*.quarto_ipynb

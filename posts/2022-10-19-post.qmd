@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Implementing Category Theory"
 author: "Brad Venner"
 date: "10/19/2022"
 output: html_document

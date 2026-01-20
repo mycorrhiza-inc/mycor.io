@@ -1,3 +1,10 @@
+---
+title: "Sovereignty, Solidarity, Sustainability"
+author: "Bradley Venner"
+date: "11/28/2025"
+output: html_document
+---
+
 Sovereignty, solidarity, and sustainability: interconnected concepts for a better world
 
 Sovereignty, solidarity, and sustainability are three interconnected concepts that are increasingly crucial for addressing global challenges and building a more just and thriving world. 

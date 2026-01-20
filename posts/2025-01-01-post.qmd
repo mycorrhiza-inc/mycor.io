@@ -1,6 +1,7 @@
 ---
 title: "Resolutions on New Year's Day"
 author: "Brad Venner"
+date: "01/01/2025"
 format: html
 ---
 
