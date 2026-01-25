@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Dynamic epistemic logic in modal homotopy type theory
 author: Brad Venner
 date: 2018-03-26

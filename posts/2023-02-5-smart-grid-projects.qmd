@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Energy democracy and digital socialism
 author: Brad Venner
 date: 2016-01-19

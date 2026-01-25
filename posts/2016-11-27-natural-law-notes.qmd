@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Natural Law
 date:  2016-11-27
 slug: notes-natural-law-notes

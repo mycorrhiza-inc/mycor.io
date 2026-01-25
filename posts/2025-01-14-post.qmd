@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Technology as Capital"
 author: "Brad Venner"
 date: "1/14/2025"

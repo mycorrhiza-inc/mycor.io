@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Political Economy of Car Dependence
 author: Bradley Venner
 date: '2022-02-27'

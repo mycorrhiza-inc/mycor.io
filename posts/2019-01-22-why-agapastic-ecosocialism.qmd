@@ -1,4 +1,5 @@
 ---
+draft: true
 title: why agapastic ecosocialism
 author: Brad Venner
 date: '2019-01-22'

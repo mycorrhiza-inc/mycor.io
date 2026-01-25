@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Pragmatism and Idealism"
 author: "Bradley Venner"
 date: "2021-11-12"

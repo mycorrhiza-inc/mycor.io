@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on The Semiotic Roots of Worldviews"
 author: "Brad Venner"
 date: "10/29/2024"

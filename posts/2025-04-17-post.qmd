@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on A Relational Theory of Measurement"
 author: "Brad Venner"
 date: "4/17/2025"

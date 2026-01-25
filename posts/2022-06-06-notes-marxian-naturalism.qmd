@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Marxian Naturalism"
 author: "Brad Venner"
 date: "06/06/2022"

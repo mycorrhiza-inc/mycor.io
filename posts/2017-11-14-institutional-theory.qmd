@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Notes on Stakeholder Theory
 date:  2017-11-14
 author:  Brad Venner

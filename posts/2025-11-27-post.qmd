@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Generalized Constrained Dynamic Modeling for the Energy Transition"
 author: "Bradley Venner"
 date: "11/27/2025"

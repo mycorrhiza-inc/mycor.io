@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Viable systems, biological organization, message passing"
 author: "Brad Venner"
 date: "4/14/2025"

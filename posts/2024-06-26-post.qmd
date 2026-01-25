@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on agency"
 author: "Brad Venner"
 date: "6/26/2024"

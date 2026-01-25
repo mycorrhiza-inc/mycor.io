@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Logic, Natural, and Social Philosophy Interacting in Hegel
 date: 2018-05-21
 author:  Brad Venner

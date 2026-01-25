@@ -1,4 +1,5 @@
 ---
+draft: true
 title: capitalism-as-cancer
 author: Brad Venner
 date: '2019-04-06'

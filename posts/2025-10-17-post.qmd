@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Relational quantum mechanics and semiotics"
 author: "Brad Venner"
 date: "10/17/2025"

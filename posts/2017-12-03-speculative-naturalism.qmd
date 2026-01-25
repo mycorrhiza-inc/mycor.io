@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Gare on speculative-naturalism
 author:  Brad Venner
 date:  2017-12-03

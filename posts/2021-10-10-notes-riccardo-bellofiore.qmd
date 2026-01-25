@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Riccardo Bellofiore
 author: Bradley Venner
 date: '2021-10-10'

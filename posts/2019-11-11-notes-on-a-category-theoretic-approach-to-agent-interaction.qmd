@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on A category-theoretic approach to agent interaction
 author: Brad Venner
 date: '2019-11-11'

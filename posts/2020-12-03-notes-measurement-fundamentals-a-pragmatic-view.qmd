@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Measurement Fundamentals: A Pragmatic View"
 author: Bradley Venner
 date: '2020-12-02'

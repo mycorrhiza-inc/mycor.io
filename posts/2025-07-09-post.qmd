@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Compositionality in actor-based informatics"
 author: "Brad Venner"
 date: "7/09/2025"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on functional programming for modular bayesian inference
 author: Bradley Venner
 date: '2019-05-24'

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Resources, Concurrency and Local Reasoning
 author: Bradley Venner
 date: '2021-01-23'

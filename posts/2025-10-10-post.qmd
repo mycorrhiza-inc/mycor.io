@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Transdisciplinarity, Institutional Analysis, Adversarial Risk Analysis"
 author: "Brad Venner"
 date: "10/10/2025"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thoughts on Nature, Society and Justice in the Anthropocene
 author: Bradley Venner
 date: '2020-11-21'

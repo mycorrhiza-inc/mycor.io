@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Critique of Heaven and Earth
 author: Bradley venner
 date: '2018-11-24'

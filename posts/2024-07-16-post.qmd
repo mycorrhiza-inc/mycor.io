@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Measurement Across the Sciences, Chapter 2"
 author: "Brad Venner"
 date: "7/16/2024"

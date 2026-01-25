@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Thoughts on The Big Picture"
 author: "Brad Venner"
 date: "4/21/2025"

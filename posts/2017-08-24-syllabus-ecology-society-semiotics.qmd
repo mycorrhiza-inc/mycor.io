@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Syllabus:  Ecology, Society,  Semiotics"
 author: Brad Venner
 date: 2017-08-24

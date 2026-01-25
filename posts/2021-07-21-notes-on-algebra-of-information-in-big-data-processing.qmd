@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Notes on Algebra of Information in Big Data Processing
 author:  Bradley Venner
 date: 2021 Jul 21

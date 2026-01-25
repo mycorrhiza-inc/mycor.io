@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Axiomatic method and formal category theory"
 author: "Brad Venner"
 date: "11/04/2025"

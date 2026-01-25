@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Aquinas in the Development of Semiotics
 author: Brad Venner
 date: '2018-12-04'

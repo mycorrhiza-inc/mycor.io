@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Accounting, measurement, valuation"
 author: "Brad Venner"
 date: "6/10/2025"

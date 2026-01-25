@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Functorality and Grammatical Role in Syllogisms
 author: Bradley Venner
 date: '2018-11-18'

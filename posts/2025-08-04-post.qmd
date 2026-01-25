@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Parallels between govern and measure"
 author: "Brad Venner"
 date: "8/4/2025"

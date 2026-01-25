@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on From Commodity Production to Sign Production
 author: Bradley Venner
 date: '2022-07-30'

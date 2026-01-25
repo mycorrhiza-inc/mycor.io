@@ -1,4 +1,5 @@
 ---
+draft: true
 title: notes on hegel's theory of the syllogism
 author: Brad Venner
 date: '2019-03-10'

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Spans, Relations, Graphs"
 author: "Brad Venner"
 date: "1/24/2024"

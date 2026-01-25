@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Semiotics and socialism
 author: Bradley Venner
 date: '2018-12-11'

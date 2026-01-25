@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on measurement systems project"
 author: "Brad Venner"
 date: "7/9/2024"

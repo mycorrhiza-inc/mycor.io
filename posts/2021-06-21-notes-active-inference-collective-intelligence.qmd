@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Generative Mechanisms
 author: Bradley Venner
 date: '2021-06-21'

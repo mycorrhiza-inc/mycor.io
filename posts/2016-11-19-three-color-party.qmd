@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Towards the Three Color Platform
 author: Brad Venner
 date: 2016-11-19

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Game Semantics and Game Theory"
 author: "Brad Venner"
 date: "10/20/2025"

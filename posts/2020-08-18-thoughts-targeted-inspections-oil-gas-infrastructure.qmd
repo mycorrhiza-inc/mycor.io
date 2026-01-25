@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thoughts on cocategorical spatial data
 author: Bradley Venner
 date: '2020-08-18'

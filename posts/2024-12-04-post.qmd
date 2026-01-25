@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Representing Knowledge and Querying Data using Double-Functorial Semantics"
 author: "Brad Venner"
 date: "12/04/2024"

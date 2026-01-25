@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Quality of Measurement Results
 author: Bradley Venner
 date: '2020-11-21'

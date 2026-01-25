@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Speech on Xcel rate case
 author: Brad Venner
 date: '2019-11-02'

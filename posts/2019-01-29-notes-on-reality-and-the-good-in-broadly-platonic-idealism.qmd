@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Reality and the Good in Broadly Platonic Idealism
 author: Bradley Venner
 date: '2019-01-29'

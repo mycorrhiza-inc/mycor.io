@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Notes on Categorical Origins of Entropy
 author: Bradley Venner
 date:   8/6/2021

@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Notes on *Ecological Macroeconomic Models*
 date: 2018-03-11
 author:  Bradley Venner

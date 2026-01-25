@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Towards a formal framework for describing collective intelligence knowledge creation processes that ‘use-the-future’
 author: Bradley Venner
 date: '2020-06-02'

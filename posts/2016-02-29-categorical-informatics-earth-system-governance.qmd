@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Categorical Informatics in Earth System Governance
 author: Brad Venner
 date: 2016-02-29

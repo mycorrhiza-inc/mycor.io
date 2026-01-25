@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Sociotechnical Systems Design
 author: Bradley Venner
 date: '2018-11-09'

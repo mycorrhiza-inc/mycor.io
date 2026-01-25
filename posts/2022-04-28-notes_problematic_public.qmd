@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Notes on The Problematic Public
 author:  Bradley Venner
 date: 2022 Apr 28

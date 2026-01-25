@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Weakly Informative Priors Random Effects"
 author: "Brad Venner"
 date: "4/29/2021"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on The Evolution of Semiotic Self-Control"
 author: "Bradley Venner"
 date: "05/09/2025"

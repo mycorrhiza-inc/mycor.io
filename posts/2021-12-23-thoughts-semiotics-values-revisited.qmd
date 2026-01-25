@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thoughts on Semiotics and Values Revisited
 author: Bradley Venner
 date: '2022-02-05'

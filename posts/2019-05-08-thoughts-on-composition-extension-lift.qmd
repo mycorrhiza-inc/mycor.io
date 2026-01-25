@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thoughts on composition extension lifting
 author: Bradley Venner
 date: '2019-05-08'

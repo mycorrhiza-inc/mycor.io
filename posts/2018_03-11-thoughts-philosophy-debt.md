@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Thoughts on concepts of debt
 date: 2018-03-11
 author:  Bradley Venner

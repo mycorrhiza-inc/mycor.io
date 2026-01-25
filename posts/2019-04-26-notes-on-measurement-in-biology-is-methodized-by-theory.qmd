@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on measurement in biology is methodized by theory
 author: Bradley Venner
 date: '2019-04-26'

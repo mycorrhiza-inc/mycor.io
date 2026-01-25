@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thoughts-not-in-any-sense-a-marxist
 author: Bradley Venner
 date: '2019-08-19'

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on I that is We
 author: Brad Venner
 date: '2019-02-06'

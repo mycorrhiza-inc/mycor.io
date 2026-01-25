@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Modeling abductive reasoning
 date: 2018-07-09
 author:  Brad Venner

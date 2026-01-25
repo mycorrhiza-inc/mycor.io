@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Reflections on the meta-project *Ecology, Society, Semiotics*
 author: Bradley Venner
 date: '2019-08-16'

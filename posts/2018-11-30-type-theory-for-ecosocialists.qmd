@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Type theory for ecosocialists
 author: Bradley Venner
 date: '2018-11-30'

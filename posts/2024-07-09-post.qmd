@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on systemics"
 author: "Brad Venner"
 date: "7/9/2024"

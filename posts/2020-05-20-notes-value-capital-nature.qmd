@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on value, capital and nature
 author: Bradley Venner
 date: '2020-05-16'

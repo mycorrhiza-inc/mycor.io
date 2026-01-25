@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Technical Infrastructure for Energy Modeling"
 author: "Brad Venner"
 date: "3/30/2024"

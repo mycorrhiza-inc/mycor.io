@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Term and Propositional Logic
 author: Bradley Venner
 date: '2018-12-20'

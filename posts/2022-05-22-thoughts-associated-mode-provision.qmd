@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thoughts on the Associated Mode of Provision
 author: Bradley Venner
 date: '2022-04-03'

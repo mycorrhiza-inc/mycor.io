@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Does the road to categorical semiotics run through Hegel?
 author:  Brad Venner
 date:  2018-03-26

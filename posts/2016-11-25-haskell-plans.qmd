@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Haskell plans
 date:  2016-11-25
 slug: haskell-plans

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Adjoint logic and digital municipal socialism"
 author: "Brad Venner"
 date: "7/28/2025"

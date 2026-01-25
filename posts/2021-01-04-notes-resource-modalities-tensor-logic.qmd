@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Resource Modalities in Tensor Logic
 author: Bradley Venner
 date: '2021-01-04'

@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Thoughts on Citizen Science, Risk Management, Collective Intelligence, and Social Inquiry
 author: Bradley Venner
 date:   7/14/2021

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Night at the Black Rose
 author: Brad Venner
 date: '2018-10-13'

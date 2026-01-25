@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notes on Semiotic Information Quality"
 author: "Brad Venner"
 date: "4/15/2025"

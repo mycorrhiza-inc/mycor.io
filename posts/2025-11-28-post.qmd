@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Sovereignty, Solidarity, Sustainability"
 author: "Bradley Venner"
 date: "11/28/2025"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Notes on Bayesian Updates Compose Optically
 author:  Bradley Venner
 date: 2022 Apr 10

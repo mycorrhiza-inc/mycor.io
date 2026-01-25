@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Socialist informatics"
 author: "Bradley Venner"
 date: "11/10/2025"

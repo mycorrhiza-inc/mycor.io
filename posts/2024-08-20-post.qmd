@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Thoughts on critical accounting"
 author: "Brad Venner"
 date: "8/20/2024"

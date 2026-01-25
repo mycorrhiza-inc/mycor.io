@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Idealism, Materialism, Semiotics
 author: Bradley Venner
 date: '2018-10-11'

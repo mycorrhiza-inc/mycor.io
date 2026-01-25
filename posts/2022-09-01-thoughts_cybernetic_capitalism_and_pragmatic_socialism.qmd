@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Thoughts on Cybernetic Capitalism and Pragmatic Socialism"
 author: "Brad Venner"
 date: "09/02/2022"

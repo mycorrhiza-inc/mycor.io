@@ -1,4 +1,5 @@
 ---
+draft: true
 title: DSA Membership Committees
 author: Brad Venner
 date: '2018-10-07'

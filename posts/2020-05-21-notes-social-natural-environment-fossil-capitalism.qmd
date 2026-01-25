@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on The Social and Natural Environment of Fossil Capitalism
 author: Bradley Venner
 date: '2020-05-21'

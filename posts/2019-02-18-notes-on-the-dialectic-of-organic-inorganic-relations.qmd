@@ -1,4 +1,5 @@
 ---
+draft: true
 title: notes on the dialectic of organic/inorganic relations
 author: Brad Venner
 date: '2019-02-18'

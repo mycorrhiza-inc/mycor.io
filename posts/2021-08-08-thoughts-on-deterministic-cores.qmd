@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Thoughts on Deterministic Cores
 author: Bradley Venner
 date:   7/8/2021

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thoughts on product and function
 author: Brad Venner
 date: '2019-10-28'

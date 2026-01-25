@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Notes on Active Inference Demystified
 author: Bradley Venner
 date:   6/1/2021

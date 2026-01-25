@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Discursive Habits
 author: Bradley Venner
 date: '2022-03-29'

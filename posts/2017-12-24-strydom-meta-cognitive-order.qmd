@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Strydom on the meta-cognitive order
 date: 2017-12-24
 author:  Brad Venner

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on Philosophical Anthropology, Ethics and Policital Philosophy in an Age of Impending Catastrophe
 author: Bradley Venner
 date: '2020-12-12'

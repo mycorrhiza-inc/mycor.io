@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Agapastic Ecosocialism
 author: Bradley Venner
 date: '2018-10-24'

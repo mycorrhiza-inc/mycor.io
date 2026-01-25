@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The Arbinger Institute and Vulgar Pragmatism"
 author: "Brad Venner"
 date: "10/16/2024"

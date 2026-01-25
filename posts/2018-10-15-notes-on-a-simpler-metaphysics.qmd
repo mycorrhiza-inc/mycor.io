@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Notes on A Less Simplistic Metaphysics
 author: Brad Venner
 date: '2018-10-15'

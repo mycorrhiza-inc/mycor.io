@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Dewey's identification of democracy, intelligence and science"
 author: "Brad Venner"
 date: "3/12/2024"

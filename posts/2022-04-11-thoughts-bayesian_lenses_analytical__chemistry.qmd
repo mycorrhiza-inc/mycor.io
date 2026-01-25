@@ -1,4 +1,5 @@
 ---
+draft: true
 title:  Thoughts on Bayesian Optics for Analytical Chemistry
 author:  Bradley Venner
 date: 2022 Apr 11
