@@ -4,12 +4,12 @@
       vars = {
   version = "1.11.2";
   system = "x86_64-linux";
-  devenv_root = "/home/brad/Projects/ecosocdem";
-  project_input_ref = "path:/home/brad/Projects/ecosocdem";
-  devenv_dotfile = "/home/brad/Projects/ecosocdem/.devenv";
+  devenv_root = "/home/brad/Projects/ecosocdem.github.io";
+  project_input_ref = "path:/home/brad/Projects/ecosocdem.github.io";
+  devenv_dotfile = "/home/brad/Projects/ecosocdem.github.io/.devenv";
   devenv_dotfile_path = ./.devenv;
   devenv_tmpdir = "/run/user/1000";
-  devenv_runtime = "/run/user/1000/devenv-a282d4d";
+  devenv_runtime = "/run/user/1000/devenv-9b96a2f";
   devenv_istesting = false;
   devenv_direnvrc_latest_version = 1;
   container_name = null;
@@ -17,7 +17,7 @@
   ];
   hostname = "mina-rau";
   username = "brad";
-  git_root = "/home/brad/Projects/ecosocdem";
+  git_root = "/home/brad/Projects/ecosocdem.github.io";
   secretspec = null;
 };
     in
@@ -41,12 +41,12 @@
       vars = {
   version = "1.11.2";
   system = "x86_64-linux";
-  devenv_root = "/home/brad/Projects/ecosocdem";
-  project_input_ref = "path:/home/brad/Projects/ecosocdem";
-  devenv_dotfile = "/home/brad/Projects/ecosocdem/.devenv";
+  devenv_root = "/home/brad/Projects/ecosocdem.github.io";
+  project_input_ref = "path:/home/brad/Projects/ecosocdem.github.io";
+  devenv_dotfile = "/home/brad/Projects/ecosocdem.github.io/.devenv";
   devenv_dotfile_path = ./.devenv;
   devenv_tmpdir = "/run/user/1000";
-  devenv_runtime = "/run/user/1000/devenv-a282d4d";
+  devenv_runtime = "/run/user/1000/devenv-9b96a2f";
   devenv_istesting = false;
   devenv_direnvrc_latest_version = 1;
   container_name = null;
@@ -54,7 +54,7 @@
   ];
   hostname = "mina-rau";
   username = "brad";
-  git_root = "/home/brad/Projects/ecosocdem";
+  git_root = "/home/brad/Projects/ecosocdem.github.io";
   secretspec = null;
 };
       devenv =
