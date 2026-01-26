@@ -3,7 +3,7 @@ draft: true
 title: "Speculative grammar in reflexive graphs"
 author: "Brad Venner"
 date: "05/21/2023"
-output: html_document
+engine: julia
 ---
 ```{julia}
 using Catlab.Graphs, Catlab.CategoricalAlgebra
