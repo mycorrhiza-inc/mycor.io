@@ -5,6 +5,7 @@ project:
     - "*.qmd"
     - "posts/*.qmd"
     - "posts/*.md"
+    - "!posts/2022-05-25-notes-model-based-epistemology-measurement.qmd"
     - "!posts/2023-05-21-julia.qmd"
 
 website:
