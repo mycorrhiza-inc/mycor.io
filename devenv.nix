@@ -9,4 +9,8 @@
     enable = true;
     package = pkgs.R;
   };
+
+  languages.julia = {
+    enable = true;
+  };
 }
