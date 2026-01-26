@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "posts/*.qmd"
+    - "posts/*.md"
+    - "!posts/2023-05-21-julia.qmd"
 
 website:
   title: "Ecology, Society, Democracy"
