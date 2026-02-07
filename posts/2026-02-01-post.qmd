@@ -1,0 +1,127 @@
+---
+draft: true
+title: "Organizational Knowledge Engineering, Context Engineering, and Self-Organizing Multi-Agent Systems"
+author: "Brad Venner"
+date: "02/01/2026"
+format: html
+---
+
+## 1. Organisms, Machines, Thunderstorms, Agents?
+
+Does the emergence of agentic AI force us to revisit fundamental questions about self-organization? The deployment of AI agents within organizations—agents that model their environment, act upon it, and adapt to its responses—creates a form of mutual constitution that existing frameworks struggle to capture. To understand what is at stake, it helps to trace the contested history of "self-organization" itself.
+
+Evelyn Fox Keller's two-part analysis "Organisms, Machines and Thunderstorms" (2008-2009) identifies three distinct phases in which self-organization has been understood, each associated with a different disciplinary matrix and a different answer to what distinguishes living systems from non-living ones.
+
+### Phase One: The Biological (1790)
+
+Kant introduced the term "self-organization" in his *Critique of Judgment* (1790) precisely to demarcate organisms from machines. For Kant, an organism is "an organized and self-organizing being"—not merely assembled from pre-existing parts like a watch, but a system in which "the parts should so combine in the unity of a whole that they are reciprocally cause and effect of each other's form." The organism produces itself: it is simultaneously cause and effect of its own existence. This recursive causality—what Kant called "natural purpose"—was exactly what machines, by definition, could not possess. A machine's organization is imposed from without; an organism's organization emerges from within.
+
+This distinction served a critical philosophical function: it allowed Kant to acknowledge the apparent purposiveness of living systems without invoking vitalism or supernatural designers. But it also left a puzzle. If self-organization is what distinguishes life, how do we explain it scientifically without reducing it to mechanism?
+
+### Phase Two: The Engineering (1940s-1960s)
+
+The cybernetics movement of the mid-twentieth century proposed a radical answer: there is no fundamental distinction. Norbert Wiener's *Cybernetics* (1948) declared that "the newer study of automata, whether in the metal or in the flesh, is a branch of communication engineering." Organisms and machines were homologous—both were information-processing systems governed by feedback. W. Ross Ashby's homeostat (1952) demonstrated that a simple electromechanical device could exhibit adaptive, self-stabilizing behavior indistinguishable from biological homeostasis.
+
+This phase effectively dissolved Kant's distinction by showing that machine-like mechanisms could produce organism-like behaviors. Self-organization became an engineering principle rather than a biological mystery. Yet by the mid-1960s, the cybernetics program had largely collapsed—not refuted exactly, but abandoned as its practitioners dispersed into artificial intelligence, cognitive science, and systems theory. The promise of a unified science of organisms and machines remained unfulfilled.
+
+### Phase Three: The Physical (1970s-present)
+
+The third phase assimilated self-organization to physics. Ilya Prigogine's theory of dissipative structures showed how complex patterns could emerge spontaneously in far-from-equilibrium thermodynamic systems. Hermann Haken's synergetics explored cooperative phenomena in lasers, fluids, and chemical reactions. The Santa Fe Institute developed theories of self-organized criticality, complex adaptive systems, and emergence. Organisms, on this view, are not fundamentally different from thunderstorms, Bénard cells, or avalanches—all are instances of order arising spontaneously from nonlinear dynamics.
+
+But Keller argues that this third phase, for all its mathematical sophistication, loses something essential. Thunderstorms and organisms may both exhibit spontaneous pattern formation, but organisms do something thunderstorms do not: they function, they pursue goals, they maintain themselves against perturbation over time. The shift from cybernetics to physics replaced the organism-machine question with the organism-thunderstorm question—and in doing so, it set aside precisely those features (agency, purpose, anticipation) that made self-organization interesting in the first place.
+
+### A Neglected Precursor: Tektology
+
+Keller's historiography, illuminating as it is, omits an important precursor. Alexander Bogdanov's *Tektology: Universal Organizational Science* (1913-1922) attempted a general theory of organization decades before cybernetics. Where Kant asked what distinguishes organisms from machines, and Wiener asked how machines could exhibit organism-like behavior, Bogdanov asked a more fundamental question: what are the general principles of organization as such, applicable to physical, biological, and social systems alike?
+
+Bogdanov developed concepts that anticipate both cybernetics and systems theory: organizational complexes as structured wholes with emergent properties, equilibrium and crisis as organizational dynamics, and "bi-regulation"—mutual adjustment between system and environment. His work was largely neglected in the West for political reasons (his rivalry with Lenin led to suppression in the Soviet Union, and Cold War dynamics limited Western reception). Yet *Tektology* represents perhaps the most sustained pre-cybernetic attempt to theorize organization itself, rather than self-organization as a property that distinguishes one class of systems from another.
+
+This matters for our purposes because Bogdanov's focus on *organization*—not organisms, not machines, not physical patterns, but organization as a general phenomenon—aligns with the question posed by agentic AI. When we ask how AI agents and human organizations mutually constitute each other, we are asking about organizational dynamics that cannot be reduced to any of Keller's three phases. Bogdanov's neglected project suggests that a general science of organization has been attempted before, and that its revival may be overdue.
+
+### Ecosystems and the Problem of Agency
+
+But Keller herself identified a category that resists assimilation to any of these three phases. In "Ecosystems, Organisms and Machines" (2005), she observed that ecosystems are "provocatively hybrid entit[ies] that [are] part organism, part machine, and perhaps even part thunderstorm." Ecosystems incorporate both living and nonliving elements, exhibit both designed and spontaneous order, and display both the stable patterns of dissipative structures and the goal-directed behavior of organisms. They transcend the boundaries that each phase of self-organization theory had drawn.
+
+Keller's solution was radical: drop the question of intentionality and focus instead on *agency*. Agency, she argued, is "an attribute we clearly share with many if not with all other organisms, and one that is, both scientifically and philosophically, surely problem enough." The key insight is that agency need not imply conscious intention—beaver dams, termite mounds, and bird nests are all products of agency without requiring that their builders have explicit plans. What matters is that activities are "generated inside individual components, with effects manifested externally to themselves, but all the while remaining inside the composite self that defines the larger system."
+
+This reframing transforms the question. Instead of asking whether a system is an organism, a machine, or a thunderstorm, we ask: what kinds of selves participate in this system, and what kinds of agency do they exercise? As Keller put it, "the most interesting kinds of self-organizing systems are those that require the participation and interaction of many different kinds of selves." The heterogeneity of selves—and the heterogeneity of their agencies—becomes the central problem.
+
+### Agentic AI as Boundary-Crossing
+
+Agentic AI systems cross boundaries in a manner strikingly parallel to ecosystems. Like ecosystems, they are hybrid entities: part machine (they are computational artifacts), part organism (they exhibit adaptive, goal-directed behavior), and part thunderstorm (their behavior emerges from complex dynamics that no designer fully controls). An AI agent embedded in a human organization participates in a system that includes human selves, institutional procedures, technical infrastructures, and emergent social dynamics—a heterogeneous assemblage of agencies.
+
+But agentic AI forces the question of agency in a way that ecosystems do not. When an AI agent acts within an organization, it exercises something that looks very much like agency: it models its environment, anticipates consequences, selects actions, and adapts to feedback. Yet this agency is of a different kind than either human intentionality or the distributed agency of ecosystems. The agent's "self" is partially constructed (by training), partially emergent (through interaction), and partially delegated (by human principals who authorize its actions). It is neither the self-generating self of Kant's organism nor the engineered self of Ashby's homeostat nor the emergent pattern of Prigogine's dissipative structure.
+
+This suggests that agentic AI will force a deeper engagement with the concept of agency itself—not as a property that systems either have or lack, but as a relational and heterogeneous phenomenon that admits of degrees, kinds, and compositions. The question is no longer "Is this system self-organizing?" but "What kinds of agency participate in this system, how do they interact, and what kinds of organization emerge from their interaction?"
+
+### Toward a Theory of Organizational Agents
+
+This paper explores formal frameworks that might capture the agent-organization coupling, drawing on Rosen's anticipatory systems, coalgebraic methods in computer science, and recent work in categorical cybernetics. The central claim is that the relationship between an AI agent and its organizational environment is fundamentally *co-recursive*: it cannot be built up from base cases but must be characterized by its unfolding behavior over time. The agent and the organization are mutually constituting—the agent models the organization, acts upon it, and thereby changes the very thing it models, while the organization simultaneously models the agent through its policies, procedures, and expectations.
+
+This mutual constitution is what Keller's concept of heterogeneous agency helps us see. An organization with embedded AI agents is not simply a machine (designed from without), an organism (self-generating from within), or a thunderstorm (emerging from nonlinear dynamics). It is, in Keller's terms:
+
+> [A] system in which the entire system is shaped by the combined activities of all the individual components—activities that are generated inside individual components, with effects manifested externally to themselves, but all the while remaining inside the composite self that defines the larger system.
+
+Recent work has begun to recognize this need. Miehling et al. (2025) argue that "the development of agentic AI requires a holistic, systems-theoretic perspective to fully understand their capabilities and mitigate emergent risks." They propose a notion of "functional agency"—the capacity to generate goal-directed actions, model outcomes, and adapt behavior when the action-outcome relationship changes—and argue that agentic systems can exhibit collective agency exceeding that of their individual components. Drawing on cybernetics (Wiener, Ashby), predictive processing (Friston), and embodied cognition, they outline mechanisms by which causal reasoning and metacognitive awareness might emerge from simpler agent-environment interactions. Yet their account remains conceptual; they explicitly acknowledge that their definition of agency is "stated relatively informally" and do not develop the mathematical apparatus that would make these ideas precise.
+
+This paper aims to provide such apparatus. Where Miehling et al. identify the *need* for a systems theory of agentic AI, we propose specific formal frameworks—coalgebras, anticipatory systems, categorical cybernetics—that can capture the co-recursive structure of agent-organization coupling. The goal is not merely to describe emergence but to characterize it mathematically in ways that support analysis, design, and verification.
+
+It is an ecosystem of agencies—human, artificial, and institutional—whose self-organization cannot be understood without attending to the different kinds of selves that participate in it and the different kinds of modeling relations they maintain with one another.
+
+## 2. Background: Three Converging Disciplines
+
+- **Organizational knowledge engineering**: explicit/tacit knowledge, organizational memory, knowledge graphs
+- **Context engineering**: RAG, memory systems, prompt/context management for AI agents
+- **SOMAS**: emergence, stigmergy, coordination without central control
+
+## 3. The Modeling Relation and Anticipatory Systems
+
+- Rosen's modeling relation: a system S contains a predictive model M of its environment E
+- The agent's context window/memory as a partial model of the organization
+- Key insight: the organization is also modeling the agent (through policies, procedures, expectations)
+- This suggests a **symmetric anticipatory relationship** rather than unidirectional
+
+## 4. Recursive vs Co-recursive Characterization
+
+I'd argue this is fundamentally **co-recursive** (coalgebraic):
+
+- Recursive structures are built up from base cases (finite, well-founded)
+- Co-recursive structures are observed/unfolded over time (potentially infinite, productive)
+- The agent-organization relationship has no natural "base case" - both are ongoing processes
+- **Coalgebras** in category theory formalize this: the system's behavior is characterized by its observations and state transitions, not its construction
+- Bisimulation as the appropriate equivalence relation (behavioral equivalence rather than structural)
+
+## 5. Formal Framework Candidates
+
+Consider comparing:
+
+- **Coalgebraic semantics**: systems as coalgebras for an endofunctor, capturing observable behavior
+- **Chu spaces**: symmetric two-player game structure, might capture agent-organization duality
+- **Double categories / fibrations**: separate the "vertical" (modeling) and "horizontal" (action) relationships
+- **Operads / opetopes**: for compositional multi-agent interactions
+
+## 6. The Self-Reference Problem
+
+- When the agent acts on the organization, it invalidates its own model
+- This resembles Löb's theorem / self-referential reasoning in logic
+- Also connects to Ashby's law of requisite variety: can the agent's model have sufficient variety?
+- Possible resolution: **structural coupling** (Maturana/Varela) - the agent doesn't model the organization per se, but maintains a history of interactions
+
+## 7. Implications for Context Engineering
+
+- Context isn't just retrieved, it's co-produced through agent-organization interaction
+- The "context window" is better understood as a **lens** (in the categorical sense) into organizational state
+- Organizational knowledge engineering becomes the design of this lens
+
+## 8. Conclusion: Toward a Categorical Theory of Organizational Agents
+
+## Key References to Consider
+
+- Bogdanov: *Tektology: Universal Organizational Science* (1913-1922)
+- Keller: *Organisms, Machines and Thunderstorms* (Parts 1 & 2, 2008-2009); *Ecosystems, Organisms and Machines* (2005)
+- Miehling et al.: *Agentic AI Needs a Systems Theory* (arXiv:2503.00237, 2025)
+- Rosen: *Anticipatory Systems*, *Life Itself*
+- Rutten: *Universal coalgebra: a theory of systems*
+- Maturana/Varela: *Autopoiesis and Cognition*
+- Goguen: work on institutions and algebraic semiotics
+- Recent work on categorical cybernetics (Smithe, Capucci, et al.)
