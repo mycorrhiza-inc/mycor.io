@@ -1,0 +1,91 @@
+---
+draft: true
+title: "Organized and Self-Organizing"
+author: "Brad Venner"
+date: "2016-01-30"
+---
+
+One does not need to move in socialist circles very long before one hears the term "organizing." For example, "the organized working class" is the "subject of history". But the long 20th century reveals potential problems with the naive application of this slogan. For example, in 1959 Castoriadis says:
+
+> The organizations created by the working class for it's liberation have become cogs in the system of exploitation. [@castoriadis:1959:working, p. 1]
+
+Castoriadis spent the rest of his career working out the consequences of this observation. Later, he advocated that the solution must involve the concept of "autonomy".
+
+Relationship between agency and self-organization. Are they synonymous? Does this definition rule out ecosystems as agents? Gemini thinks that ecosystems are both self-organizing and have agency, although this requires expanding the notion of agency beyound "anthropocentric" view. In typical Gemini fashion, this avoids the question of an organism-centered view of agency.
+
+Semiotic agency: Alexi Sharov & 
+
+What animals can do: agency, mutuality and adaptation. Catherine Read and Agnes Szokolszky. *Biological Theory* (2024) 19:198-208
+
+Organisms, machines and thunderstorms. (Evelyn Fox Keller)[https://en.wikipedia.org/wiki/Evelyn_Fox_Keller]. Parts I and II. Evelyn Fox Keller wrote these articles in 2008 and 2009. 
+
+Ecosystems, organisms and machines. Evelyn Fox Keller.
+
+> But this is just to sidestep the issue of whether agency, or intentional design, can be brought into our concept of a self-organized system, in whatever form that concept takes.
+
+> Let's drop the question of intentionality (after all, this too, like free will, may turn out to be an illusion) and focus instead on agency---an attribute we clearly share with many if not with all other organisms, and one that is, both scientifically and philosophically, surely problem enough.
+
+## Agency via Systems, Semiotics and Dialectics
+
+Keller traces what could be considered the "systems" pathway to agency. But is this traditional narrative approach to intellectual history the best way to organize a knowledge base on self-organization? Would a better approach be to develop a knowledge graph that connects the key concepts and thinkers in this area? Such a knowledge graph could be both created by a "self-organizing" process but also used for context engineering to support the development of self-organizing systems.  
+
+Anyway, there are at least two additional narrative paths through self-organization: semiotics-pragmatics and dialectics-tektology. Both of these traditions have interesting perspectives on the "origin of life" question that places an emergent threshold here. Dewey is an interesting boundary figure here, who combines pragmatism with a Hegelian approach in an attempt to naturalize Hegel that runs parallel to the Marxist approach. 
+
+Another narrative to trace out is the dualistic tradition around agency. Aristotle proposed a ubiquitous teleology This approach posits a dualism between the organizer and the organized. Although Kant introduces self-organization as a way to transcend this dualism, this path is not necessarily followed by either later thinkers or the "zeitgiest". This dualism is clearly present in a lot of thinking about AI, with the leap between existing systems and "artificial general intelligence" being posited in almost mythical terms. It's also present in our treatment of animals, which fell on the machine side of the divide in Decartes' framing, alowing humans as organizers to treat them as mere things.
+
+Does neo-classical economics contain this dualism in the theory of the "rational actor"? On one hand, this model is based on Newtonian mechanics, which is the paradigm of the mechanical philosophy. On the other hand, the "rational actor" is able to see the future with perfect clarity and is a free actor within the constraints of the market system. 
+
+According to Deely, this dualism is central to modern philosophy and originates with the realism-nominalism debate. Self-organization can be seen as a way to bridge this dualism, by positing systems that are both organized and organizers. 
+
+Keller's narrative ignores the Hegel-Marx-Bogdanov path, probably due to political bias at the time she was writing. 
+
+The idea that dialectical materialism provides a framework for understanding self-organization is at least as old as Engels' *Dialectics of Nature* (1883). Bogdanov's *Tektology* (1912) is an early systems theory that also incorporates dialectical principles. The fact that Bellamy Foster wrote "The Dialectics of Ecology" shows that 
+
+## Modal type theory on the nlab
+
+The nlab article on (necessity and possibliity)[https://ncatlab.org/nlab/show/necessity+and+possibility] discusses the relationship between various flavors of modal type theory, also developing the relationship with Kripke's analysis of modality. Epistemic modal logic seems like it will be particularly relevant to context engineering, since this involves the development of a context that contains sufficient information on an organization to have an orientation while still fitting an organizational model within a context window. This requires orienting an AI agent within a task-specific context. 
+
+The article also has some intriguing pointers to the relationship between actuality and potentiality that could possibly be used to formalize Mari's measurement systems theory. In particular, their discussion of general vs individual quantities that I didn't understand very well may be formalized with this modal framework. It makes sense that modal logic could be applied to measurement systems theory, since it fundamentally is about obtaining knowledge through the interaction of physical systems.
+
+Another interesting idea is the relationship between S4 and S5 modal logics as epistemic modal logics. S4 is interpreted as "knowledge that is true in all accessible worlds", while S5 is "knowledge that is true in all possible worlds". This seems to correspond to the difference between context-specific knowledge and universal knowledge. The difference between them is whether the accessibility relation is reflexive and transitive (S4) or an equivalence relation (S5). The article states that computer scientists favor the use of S5 while philosophers tend to prefer S4. Peirce may have preferred S4, chosing to take implication as the logical primitive, corresponding to a reflexive and transitive accessibility relation. I had to Google that this is the notion of a preorder, not necessarily a reflexive graph, since a reflexive graph is not necessarily transitive.
+
+Since S4 can be interpreted topologically, with the box operator corresponding to the interior operator and the diamond operator corresponding to the closure operator, then is epistemic modal logic the "topology of knowledge"? This can be related to Heyting mereology, which can be used to analyze the part-whole relationship. Lawvere did some work on co-Heyting algebras that may be relevant here. Seems like domain theory may also be relevant, since this already uses a notion of topology and relates it to computation.
+
+## Agency in inquiry and action
+
+Dewey's concept of inquiry seems to depend upon a heterogeneous notion of agency. Inquiry takes place in a community of inquirers. So who is the agent of inquiry? Is it the individual inquirer, the community of inquirers, or some combination of both? Dewey seems to imply that agency is distributed across the community of inquirers, since knowledge is produced by this community. But at the same time, individual inquirers have agency in their own right, since they can choose to pursue certain lines of inquiry over others. There are certainly historical examples of entire research programs originating from the work of a single individual, such as Newton or Einstein. Dewey himself originated several important ideas that subsequently were taken up into a community of inquirers. 
+
+Both Castoriadis and Peirce stress the importance of the imagination in inquiry. Peirce explicitly includes creativity in his theory of deduction, disinguishing between corrolarial and theorematic deduction. The latter involves the imaginative transformation of a diagram that goes beyond the diagram that represents the premises, which requires the use of imagination.
+
+Castoriadis also emphasizes the role of the imagination in the creation of new social institutions. But his notion of "institutional closure" happens at a much larger scale than a diagram, which seems to posit an explicit sensual existence. Institutional closure restricts the realm of the possible itself, visualized as a "social imaginary". The social imaginary is a shared set of "abductions" that shapes the way people think and act. To the extent that this is a logical realm, it is governed by the logic of abduction, of possibility, which does not follow the "law of contradiction". Since the social imaginary often operates on a pre-cognitive level, raising it up to examination within a logic of possibility already moves it into a cognitive realm. But this step is crucial for deliberate transformation of social institutions that depend upon acceptance of a social imaginary for their legitimacy. 
+
+This brings us back to Dewey's notion of inquiry as a "directed transformation of an indeterminate situation into a determinate one". If a community of inquiry shares a "social imaginary", then lifting this imaginary into a "logic of possibility" for cognitive examination by a community through a creative act of imagination does not necessarily seem like a "directed transformation". This may be unfair to Dewey, who probably drew the boundaries of inquiry as already within the cognitive realm, but it does raise the question of what is an "indeterminate situation"? Dewey probably addressed this question in some detail somewhere, so it's probably a good time to look more deeply into how he answered this question.
+
+In a related note, I downloaded the book *A Relational Approach to Governing Wicked Problems* who's subtitle is "From Governance Failure to Failure Governance". Is an "indeterminate situation" a situation of failure? Dewey was clearly influcenced by Peirce's doubt-belief model, and nothing brings about doubt more than failure. So one way of understaning an "indeterminate situation" would be a situation of failure. I wish I could remember the Star Trek episode where Spock describes the feeling of a Vulcan culture prior to their extermination as one of "surprise." A conventional notion of failure does not seem to capture this idea, where the "failure" is not just a failure to achieve a goal, but an appearance of a situation that was thought to be impossible. An inductive logic may stay within a defined space of possibility, looking for a solution within this space, and where failure is the inability to find a solution within this space. But a deeper failure is to experience the impossible. In this way "failure governance" requires expansion of a shared social imaginary to include the former impossibility. The abstract hints at this type of understanding:
+
+> What needs to be rethought is not so much the specific tools or resources of governance, but the very issue of whether governance should be seen in terms of tools and resources in the first place.
+
+Since the book is based upon relational sociology, which is motivated by Dewey's transactional theory of experience, it should take on this question of the duality between governor and governed, where the governor uses a tool to govern the governed. But this brings us back around to the question of agency. It's not simply that the governed have agency, but that self-governance requires a social theory of agency. The "ecology society democracy" framework would imply that this social theory of agency emerges out of type of agency embodied by an ecosystem. Hayek called this type of agency "spontaneous order" and it is explicitly distinguished from a "designed order" and is lacking in a defined purpose. So two questions arise. 
+
+1. Is an ecosystem an example of a spontaneous order?
+
+2. If so, are there "emergent properties" of a social spontaneous order that distinguish them from an ecosystem?
+
+This is where the notion of "community" becomes important. Does ecology study "ecosystems" or "ecological communities"? These terms are often used interchangeably, but they have very different connotations around the notion of agency. Using Keller's classification of theories of self-organization, the term "system" has connotations of the engineering understanding, whereas "community" has a more of an organic understanding. Wikipedia distinguishes an "ecological community" as only including living organisms (biological factors) while an "ecosystem" includes both living organisms and non-living factors (abiotic factors). But this distinction does not solve the problem of agency, since a community of organisms falls far short of our understanding of a human community. The imaginary of a "lion lying down with the lamb" points to both a desire for non-human nature to look more like a human community and also for the "wicked world" of human society to look more like a community. The "global community" has not ever looked like smaller scale notions of community, as presently captured in the phrase the "anarchy of the international system". 
+
+Gemini answered my question "do ecological communities have agency" with "Ecological communities are increasingly recognized as having a form of relational agency". This is a nice term to capture Keller's idea of the type of agency present in an ecosystem and also ties in the relational sociology approach to wicked problems discussed above. What is the relationship between "relational ecological agency" and "relational human agency", if the latter is typified by a community? Is there a continuum of relational agency from an ecological community to a human community so that the latter can be viewed as emergent from the former, or are they simply incomparable? 
+
+An aside: I keep dropping out of the text editor to do internet searches on terms such as "relational agency". A Claude-code like "tool for inquiry" would allow me to do these searches without leaving the text editor. Would I get anything done with such a tool? This would imply the ability to convey the purpose of an inquiry and to allow a reasonable pruning so that I'm not simply squirling. The above writing process that led to the concept of "relational agency" seems fruitful as the extra friction of manual internet searches helped slow down the squirling so that a productive line of thought could be followed. Can a tool for inquiry be designed to have a similar effect? Nic pointed out that LLM's wont tell you that an idea is bad and will happily follow you down bad architectural decisions. A difficult problem.
+
+A few papers on relational agency:
+
+Managing the anthropocene: relational agency and the politics of collective action under climate change. @doi:10.1080/09644016.2017.1397463
+
+The agency problem: from individual to relational agencies in ecological economics. [@roncanio:2023:agency].
+
+Relational sociology, pragmatism, transactions and social fields. [@dépelteau:2015:relational]
+
+> In this logic, the full potential of relational sociology resides in its capacity to help us, interdependent human beings, to develop our social intelligence by directing our complex social experiences according to some chosen goals.[@dépelteau:2015:relational, p. 6]
+
+
+```
