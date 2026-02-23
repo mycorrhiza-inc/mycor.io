@@ -1,13 +1,21 @@
 {
   "name": "ecosocdem.github.io",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",
+  "version": "0.0.1",
+  "packageManager": "pnpm@10.28.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "packageManager": "pnpm@10.28.0"
+  "dependencies": {
+    "astro": "^5.17.1",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/vite": "^4.0.0",
+    "daisyui": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0"
+  }
 }

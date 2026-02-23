@@ -1,16 +1,8 @@
 { pkgs, ... }:
-
 {
-  packages = [
-    pkgs.quarto
-  ];
-
-  languages.r = {
+  languages.javascript = {
     enable = true;
-    package = pkgs.R;
-  };
-
-  languages.julia = {
-    enable = true;
+    package = pkgs.nodejs_22;
+    corepack.enable = true;
   };
 }

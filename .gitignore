@@ -1,38 +1,25 @@
-# Quarto
-/docs/
-/_freeze/
-/.quarto/
-**/*.quarto_ipynb
+# build output
+dist/
+# generated types
+.astro/
 
-# Archive
-/_archive/
+.devenv
+# dependencies
+node_modules/
 
-# R
-.Rhistory
-.RData
-.Rproj.user/
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-# Python
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-.venv/
-venv/
 
-# OS
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
 .DS_Store
-._*
-Thumbs.db
 
-# Editor/IDE
-*.swp
-*.swo
-*~
-
-# Personal authentication tokens
-github-pat*
-
-# devenv/direnv
-.devenv/
-devenv.lock
-.direnv/
+# jetbrains setting folder
+.idea/

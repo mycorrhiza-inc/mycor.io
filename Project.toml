@@ -1,4 +1,0 @@
-[deps]
-Catlab = "134e5e36-593f-5add-ad60-77f754baafbe"
-DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-QuartoNotebookRunner = "4c0109c6-14e9-4c88-93f0-2b974d3468f4"

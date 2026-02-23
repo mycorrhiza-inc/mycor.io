@@ -1,8 +1,0 @@
----
-title: "Ecology, Society, Democracy"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  page-size: 6
----
