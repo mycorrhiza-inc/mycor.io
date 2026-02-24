@@ -1,0 +1,52 @@
+---
+author: Bradley Venner
+date: '2022-04-10'
+draft: true
+title: Notes on Bayesian Updates Compose Optically
+---
+
+As I noted in yesterday's entry, Smithe's paper on categorical active inference [smithe:2021:compositional] is a heavy lift. The paper *Bayesain Updates Compose Optically*, [@smithe:2020:bayesian] is written in a more introductory style and hopefully is a good primer for the later paper. 
+
+But first, a note on economics, recording a thought I had on listening to *The Dig*. If prices are a language, then like language they can be used to lie and to tell the truth. In this sense, value behaves like a cartesian category, while prices behave like a monoidal category (in Pavlovic's terms, logic and process). 
+
+Smithe states that this paper is "embedded in the nascent discipline of categorical cybernetics." (p. 1) Lenin stated that socialism was accounting and control. The latter is the home of categorical cybernetics. How would the former, categorical accounting, be realted to cybernetics. Is there (non-categorical) literature that relates the two concepts?   
+
+> We think of a cybernetic system as being embedded in some environment, and aiming to control some aspect of that environment—such as its habitability.
+
+The accounting parallel structure would be: we think of an accounting system as being embedded in some environment, and aiming to control some aspect of that environment — such as its value. The "cartesian" category is the "control" category and the "monoidal" category is the environment.
+
+> Lenses were originally developed in database theory [5] (p.2)
+
+One appealing aspect of lenses and optics are that they place both databases and probability in the same framework. Could this be a foundation for "computing with data" as expressed by Chambers when he developed S?
+
+What is the potential for application of "categorical cybernetics" within electricity systems? Could "autonomous energy systems" be expressed in such a framework? How about "integrated decentralized electricity systems", the (simpler) formulation by Kristov?
+
+> We can write $P_π(A)$ to denote the probability of A according to the state π.
+
+The mapping from events to numbers is mediated the state.
+
+> Similarly, we can write $P_c(B|A)$ to denote the probability of B given A according to the channel c, where the channel c takes events A as inputs and emits states c(A) as outputs. This means that we can alternatively write $P_c(B|A) = P_{c(A)}(B)$.
+
+If a state is a row in the channel, the "undependent" state is a 1 x N matrix, while the "dependent" state selects a row m from an M x N matrix. This also implies that a state can be obtained from a channel by "pre-multiplying" a map 1 -> M that selects a particular event A. This map acts like a 1 x M matrix on the channel matrix to get a state, a one-row channel.
+
+> By composing c and π to form a state c • π on Y, 
+
+I'm not sure how he got to the idea that states compose, but it does seem like the matrix multiplication described above.
+
+It seems like this development is missing the role of the "identity" channel $C(X,X)$, which is like an unconditional distribution (or undependent state). This maps events to the probability of the event. Maybe think of this as vector-vector multiplication, where the event $A: 1 -> X$ acts on the "row" π to select a probability $P_π(A)$. 
+
+> Identity morphisms $id_X : X -> D(X)$ in Kℓ(D) take points to ‘Dirac distributions’: /$id_X := x → 1 |x; these are the unit maps ηX of the monad structure on D.
+
+These are the "identity rows" discussed above.
+
+The Chapman-Kolmogorov equations look a lot like relational composition. Probably identical under the correct definition of "sum". Peirce originally used this "relational sum" notation directly.
+
+I don't trust the distribution monad construction at all. I simply don't see how you get from sets to basis elements weighted by real numbers that sum to one. It's like a horse and buggy, but where the buggy is nuclear powered. Or where you take an elevator, and you wind up somewhere in the multiverse. 
+
+For the "distribution monad", it seems like vector spaces are the more natural setting. Many of the monoidal constructions seem to make more sense if a single real number is the "unit". Then an "effect" is a mapping to a real number. Maybe some of the problem is that Set is considered to include the real numbers, so a "singleton" real number makes sense. 
+
+The "linear" setting also harkens back to quantum mechanics (complex probability) and perhaps to linear logic.  
+
+What type of construction would be possible within FiniteSet? How could the combinatorial combinations that describe cards be described within this categorical probability setting?
+
+The notion of mixed or profunctor optics reminds me of Vaughn Pratt's paper where he considered profunctors. I need to see if I can find this again.

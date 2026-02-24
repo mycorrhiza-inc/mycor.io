@@ -1,0 +1,36 @@
+---
+author: Brad Venner
+date: '2019-01-09'
+draft: true
+title: Notes on Meaning of Category Theory for 21st Century Philosophy
+---
+
+Alberto Peruzzi published this paper in 2008.  As of 2019, it was ited by 13 papers, according to Google Scholar.  It is addressed to analytic philosophers.  It is a dense paper, full of interesting ideas.  It cites Lawvere and Bell extensively.  It is organized around applications of category theory in three areas:  language, science and mind.  Although it cites Lawvere's Hegelian work (i.e. objective logic), it does not explicitly draw upon Hegel's philosophy.  Although it has a similar structure to Peirce's logic (grammar, critic, rhetoric) and endorses an 'embodied mind' that is reminiscent of pragmaticism, Peruzzi does not address Peirce's philosophy.   
+
+In his analysis of language, Peruzzi builds upon the tension between intension and extension (sorry, had to go there).  Of particular interest to my [Semiotics of Values project](https://github.com/bvenner/semiotics-values) is the notion that
+
+> each intrinsic form of extensionality acts (to adapt a phrase by Grothendieck) as a *measuring stick* for *I* in relation to each universe of discourse.  The particular form of extensionality involved then depends on which generalized elements have to be considered in order to prove intrinsically that two parallel maps are equal.
+
+This suggests an application of category theory to metrology, and thus possibly to a semiotics of value.  The 'absolute' notion of metrology that dominates the GUM could be relativized to a more local metrology more applicable to measurement applications in economics.
+
+In his analysis of science, Peruzzi proposes functorial semantics, but does not build upon his previous analysis of language.  It would have been nice to extend his analysis of language to the scientific case.
+
+In his analysis of mind, Peruzzi points to 'conceptual lifting,' which is
+
+> how it is possible for an embodied mind to transfer, metaphorically, the basic patterns of spatial intuition (as inbuilt sensory-motor schemata of perception and kinaesthesis) to the linguistic representation of abstract domains.
+
+This has a strong resonance with Peirce's 'second' formulation of the pragmatic maxim:
+
+> The elements of every concept enter into logical thought at the gate of perception and make their exit at the gate of purposive action; and whatever cannot show its passports at both of those two gates is to be arrested as unauthorized by reason. (EPII: 241)
+
+It also resonates with the introduction to *Iconicity and Abduction* [caterina:2016:iconicity]:
+
+> the core method of category theory, which lifts properties characterizing individual objects to structural properties characterizing systems of relations linking individuals to one another, helps to illuminate the creative, context-dependent and tenative nature of abductive inference.
+
+Peruzzi states that *conceptual lifting* is strictly related to *entwined naturalism*, but that the latter is not the same as an identity theory between mind and brain.
+
+Peruzzi defers discussion until 'a future occasion'.  He also drops a reference to Longo!  
+
+Peruzzi wrote a paper in 2017 called *What is Behind Meaning* [peruzzi:2017:what], which cited the current paper, and seems to explore the notion of 'conceptual lifting'.
+
+Peruzzi identifies the study of meaning with semantics.  He identifies 'cognitive semantics' with the 'embodied mind' approach.  He intends to link this with the category-theoretic view of the foundations of mathematics.

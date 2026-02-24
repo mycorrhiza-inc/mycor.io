@@ -1,0 +1,40 @@
+---
+author: Bradley Venner
+date: '2019-10-25'
+draft: true
+title: Notes on Critical Theory and Cognitive Sociology
+---
+
+I first encountered Piet Strydom's work in his moving tribute to Karl-Otto Apel.  This paper [@strydom:2019:critical] is a summary of his work on cognitive sociology, which he states
+
+> has been intentionally designed to complement Critical Theory by potentially enhancing its analytical and defining critical capacity.
+
+One of the hallmarks of critical theory is its intended integration with social science, and Strydom tries to develop the social science aspect.
+
+Frega locates pragmatism between critical theory and liberalism, but does not emphasize the natural dimension as much [@frega:2018:pragmatism].  Frega's 'social ontology' of pragmatism should be compared to Strydom's cognitive sociology.  My intuition is that this will lead to some sort of Dewey/Peirce confrontation that must be resolved. From what I've read, Strydom's work is closer to Peirce than Dewey.  Strydom does cite Dewey in his creatively titled Cognition and Recognition, a discussion of Honneth's theory of recognition [@strydom:2012:cognition].  This article should to next on the stack.  This title reminds me of Peirce's analysis of equational logic, stating that the sign of ilation is prior to the sign of equality.  The analogy is that cognition is prior to recognition.  Adding now - will return to this entry.
+
+In Peirce's classification of philosophy,  physics and psychics are two of the three divisions of metaphysics, with ontology, or general metaphysics the third branch [@nubiola:2012:what].   So in Peircean terms, Strydom's intention would be to develop a 'psychic' that can be reconciled with 'physics' that is compatible with normative philosophy, Peirce's third branch of philosophy.
+
+This reminds me that 'transcendental semiotics' was defined by Apel as the third major phase of 'first philosophy'.
+
+Nubiola provides an overview of Peirce's project in metaphyics.  Some quotes below.  
+
+> Peirce rejected the idea that science and metaphysics are radically opposed. Instead, he
+argued for a 'scientific metaphysics'", that is, a metaphysics developed through the scientific
+method and with the scientific attitude, paying attention to "the most general features of
+reality and real objects" (CP 6.6, c.1903), as an observational science upon everyday
+experience (De Waal 2001, 62, and ch. 6). [cited in @nubiola:2012:scientific]
+
+Nubiola then quotes Haack:
+
+> Scientific philosophy, as Peirce conceives it, is an observational science, differing from the other sciences not in its method but in its reliance on aspects of experience so familiar, so ubiquitous, that the difficulty is to become distinctly aware of them (Haack 2003, 776).
+
+Strydom attempts to reconcile the natural and social domains with the concept of 'weak naturalism'.
+
+Could Kravchenko statement about cognitive linguistics be applied to cognitive sociology:
+
+> In this paper I want to show that the time has indeed come for cognitive linguistics
+and semiotics to embrace each other in reunion like the siblings that have been held
+apart far too long. [@kravchenko:2005:cognitive , p. 3]
+
+Kravchenko uses biology of cognition and autopoesis as an ambidextrous object to relate the two.

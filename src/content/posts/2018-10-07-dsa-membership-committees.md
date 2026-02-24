@@ -1,0 +1,30 @@
+---
+author: Brad Venner
+date: '2018-10-07'
+draft: true
+title: DSA Membership Committees
+---
+
+#[East Bay Member Engagement Committee](http://www.eastbaydsa.org/about/committees)
+
+The Membership Engagement Committee exists to encourage East Bay DSA members to sustain active participation in our organization. Through our mobilizer network, new member on-boarding processes, neighborhood organizing groups, and membership retention efforts, the Membership Engagement Committee enlists East Bay DSA members in the project of building our organization into a fighting force for working class politics that will stand the test of time.
+
+#[LA Membership Committee](https://www.dsa-la.org/membership_resource_committee_platform)
+## [Contact]()
+The mission of the Membership Committee is internal and external. In our internal capacity, the Membership Committee will work to retain and activate existing members to contribute their time and skills to committee work, campaigns, direct actions and other DSA efforts. Our external mission is to develop and implement strategies, processes and resources that will lead to growth in membership, particularly organizing new members not well-represented within the current membership.
+
+#[Orange County:  No]
+
+#[Sacramento:  No]
+
+#[San Diego:  No]
+
+#[Washington DC Events and Logistics Committee]()
+
+##[Contact](admin@mdcdsa.org)
+
+Since the election, membership in Democratic Socialists of America has exploded both nationally and locally! Our events and logistics Committee assists our growing chapter in the transition from a small and dedicated group of activists to a mass movement capable of affecting substantive change in the Washington, DC, metro area and nationally. Made up of both enthusiastic new members just becoming involved in progressive politics as well as seasoned members who have been advancing socialism for years, this committee is working to chart the new directions and strategies for Metro DC Democratic Socialists so that we can successfully mobilize our rapidly growing membership. The events and logistics Committee plans protests, marches and rallies around local and national issues and also provides support to our local’s other issue-based committees. If you would like to learn more about the events and logistics committee, please contact admin@mdcdsa.org.
+
+#[Tampa Bay](https://www.tampabaydsa.org/working-groups/)
+
+##

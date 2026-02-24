@@ -1,0 +1,16 @@
+---
+author: Brad Venner
+date: '2019-01-07'
+draft: true
+title: Notes on How to Be an Anticapitalist
+---
+
+Erik Olin Wright has released a draft of his upcoming book [*How to Be an Anticapitalist for the 21st Century*](https://www.ssc.wisc.edu/~wright/Anticapitalism.html) on his [website](https://www.ssc.wisc.edu/~wright/).  He states that an alternative title would substitute "democratic socialist" for "anti-capitalist."
+
+In Chapter 1, Wright states that
+
+> Three clusters of values are central to the moral critique of capitalism:  equality/fairness, democracy/freedom, and community/solidarity.
+
+This is an interesting place to start, in that it assumes a normative stance that is itself denied by capitalism.  Saito establishes that Marx's project was to establish the conscious control of the relationship between nature and humanity.  Critical theory has worked hard to justify the "critical" or "normative" stance and the relationship of this stance to the "human sciences."     
+
+Wright brings in the notion of sustainability in his notion of equality/fairness, in the sense of inter-generational equity.

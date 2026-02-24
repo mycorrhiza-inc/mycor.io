@@ -1,0 +1,21 @@
+---
+author: Bradley Venner
+date: '2019-12-23'
+draft: true
+title: Thoughts on Open Energy Analysis
+---
+
+What is the role of Idris in energy systems analysis?  Python seems to dominate the existing open source modeling framework, while the DOE national labs have developed in Julia.  
+
+# Units
+As painful as it is, I believe that Clack et. al. are justified in their critiques of Jacobson's modeling.  Could a strongly-typed system help avoid such errors?  Even more important could be an open energy model, where all data and assumptions are available.
+
+I'm particularly eager to have strongly typed units, since I've found such modeling errors to be easy to make and hard to detect.  
+
+# Sequential decision
+
+It strikes me that much of the pain of 100 percent renewables scenarios comes from the optimization framework.  A sequential decision framework allows for less contentious issues.  Rather than arguing about whether 100 percent is feasible, we should focus on what can be done in the near term, with the understanding that present decisions still have profound future impacts.  
+
+# Categorical informatics and ontology
+
+Maybe less Idris-related,  

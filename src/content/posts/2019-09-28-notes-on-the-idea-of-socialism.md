@@ -1,0 +1,8 @@
+---
+author: Bradley Venner
+date: '2019-09-28'
+draft: true
+title: Notes on The Idea of Socialism
+---
+
+Axel Honneth is a third-generation critical theorist.  His book 'The Idea of Socialism' [@honneth:2016:idea] attempts to revive the idea of socialism by removing its focus on the economic sphere only.  Honneth identifies the motivating norm behind socialism as 'social freedom' and states that this was a reconciliation of the ideals of 'freedom' and 'solidarity' from the French Revolution, which never successfully reconciled these ideas.  Honneth blames early socialists for focusing exclusively on the economic sphere as the main impediment to social freedom, but allows that this assumption made more sense in the early industrial era then our present era.  

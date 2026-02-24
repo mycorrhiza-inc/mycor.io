@@ -1,0 +1,10 @@
+---
+author: Brad Venner
+date: '2026-02-07'
+draft: true
+title: Processual-relational models of organization
+---
+
+There is a parallel construction between Kant's "organized and self-organizing" and Dewey's "knower and the known." An exact parallel would be "known and self-knowing". But unlike the more "ontological" notion of "self-organized", the concept of "self-knowing" seems to miss part of what is included in the concept "knower." Unraveling this problem is explicitly part of the "Knower and the Known" and less explictly part of "Logic: The Theory of Inquiry". 
+
+More recent work in "relational sociology" builds upon this framework. Mustafa Emirbayer's "Manifesto for a Relational Sociology" specifically targeted "substantialism" that conceives of reality as things with their processes.  

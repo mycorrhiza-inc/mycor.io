@@ -1,0 +1,16 @@
+---
+author: Bradley Venner
+date: '2019-09-04'
+draft: true
+title: Letter-to-cory-johnson
+---
+
+I've included a link to the draft Chapter 4 to Corfield's book:  http://philsci-archive.pitt.edu/15260/.  If you are short on time, skip to page 27, where Corfield outlines his program to link MoHOTT and the gamma graphs.  
+
+This page has a link to two previous papers that he's proposing for Chapter 3 and Chapter 5.  I'm most looking forward to Chapters 1 and 2, which are not published yet - these should lay out the basic idea of modal homotopy type theory as 'speculative grammar'.
+
+I don't have anything better in terms of software for any of the alpha graphs.  I go back and forth between trying to understand Peirce from a category-theory perspective and trying to understand category theory from a Peircean perspective.  I'm sure that this process will not converge in my lifetime.  In the former perspective, I've tended to start with string diagrams from category theory, which are like the Beta part without cuts, and then add typed "cuts" to this theory as a category-theoretic generalization of the tinctured gamma graphs.  Since monoidal categories can be represented as string diagrams, then boxes around string diagrams can represent modalities.  Boxes are monoidal functors between monoidal categories. Paul-André Melliès gives a nice discussion and visualization of this idea, which I've copied below.  The original is here.  I'd really like to better understand the link between this 'monoidal functor' perspective and the interpretation modalities as 'adjoint cylinders' being developed by Corfield, above.  So much to do, so little time ...
+
+Although there are tons of interesting interpretations of string diagrams out there (e.g. https://graphicallinearalgebra.net/), I haven't found links between proof assistants and visual representation via string diagrams that could automate their generation.  I'm hopeful that the software developed by Statebox might help, but I'm not holding my breath.
+
+For your VR idea, I love the idea of eventually using VR to visualize the Gamma graphs.  Perice's idea that the gamma graphs are sheets of assertions collected into a book of assertions could be generalized to 'spaces of assertions' and passages between spaces via 'geometric morphisms'.  But that's way past both my skill set and understanding.  

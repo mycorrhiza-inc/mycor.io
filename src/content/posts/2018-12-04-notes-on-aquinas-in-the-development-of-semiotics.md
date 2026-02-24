@@ -1,0 +1,14 @@
+---
+author: Brad Venner
+date: '2018-12-04'
+draft: true
+title: Notes on Aquinas in the Development of Semiotics
+---
+
+Deely marks the importance of Aquinas' thought in the development of Latin thought [deely:2004:role], as a midpoint in the development that was crucial to Poinsot's development of the doctrine of signs.
+
+This paper was somewhat dissapointing.  The quotes from Aquinas are pretty thin and I'm not sure that they support Deely's notion that Aquinas is a central figure in the development of semiotics.  
+
+The paper also does not develop the 'ens primum cognitum' notion from Aquinas.  Hegel and Peirce have very different notions of the first category - Hegel describes it as the most abstract, while Peirce describes it as the most immediate.  It seems like the scholastic solution would be closest to the Peirce, as 'apprehension' is the first activity of the intellect in Poinsot.
+
+The last paragraph reminded me of Brian Kemple's work on 'Ens Primum Cognitum', which is now available on Amazon.  Brian is starting a 'personal philosopher' consulting service, which is something that I should consider.

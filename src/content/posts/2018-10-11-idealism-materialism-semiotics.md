@@ -1,0 +1,38 @@
+---
+author: Bradley Venner
+date: '2018-10-11'
+draft: true
+title: Idealism, Materialism, Semiotics
+---
+
+I'm currently toggling between reading two books - Graeber's *Towards an Anthropological Theory of Value* [@graber:2001:towards] and Wood's *Democracy Against Capitalism* [@wood:1995:democracy].  It just happens that in early chapters both are critical towards structuralism, with Graeber addressing anthropology and Wood addressing Marxist theory.  But so far neither author discusses the roots of structuralism in semiology, and the potential for a semiotic theory to contribute to their projects.
+
+Graeber locates anthropology in a division of "psychics" into psychology, sociology and anthropology, which he marks as a traditional division but does not attribute it to anyone in particular.  In this division of labor, anthropology occupies the analysis of culture.  (I remember anthropology divided into physical and cultural, and it appears that there are overlapping but competing traditions of social and cultural anthropology)  This calls to mind Murphy's distinction between natural, conventional and stipulated signs and the tendency to collapse this division into a dualism.  Anyway, Graeber's project is to extend Marx's theory of value as a general theory of value that could be used in anthropology.  So far his focus is on pre-state societies, so his value theory hasn't yet addressed the economic vs political division that occupies Wood.
+
+(Go back and read Graeber's comments on structuralism)
+
+Deely places semiology squarely in the tradition of modern philosophy, with the dualistic notion of sign corresponding to modern philosophical dualism.  Wood's critique of structural Marxism (as developed by Althusser) has a strong parallel with Deely's analysis, with a distinction between structures and contingency.  Structures play the role of Platonic forms (or more kindly invariants in cultural dynamics) and contingency the role of matter.  Structural Marxism holds up the traditional Marxist distinction between base and superstructure, with structures corresponding with the economic base and contingent historical events the role of superstructure.  Althusser's work was a reaction to Western cultural Marxism, which wanted to reverse the causality between base and superstructure.
+
+Strydom [@strydom:2018:origin] locates the origin of metarepresentational thinking at the middle to upper Paleolithic transition, which also corresponds to the 'cultural explosion.'  Deely's concept of the *semiotic animal* seems closely related, with the notion that all animals use signs but only humans know that there are signs.  So the identity of semiotics, culture and cognition would be justified by these ideas.  Strydom argues that 'visual symbolization' was the first consolidating move of the cultural explosion.  Does this correspond to Peirce's notion of aesthetics as the firstness of normative science?  Strydom describes the event as
+
+>the civilisation-founding cognitive-cultural achievement of the Paleolithic period - namely, the continuous accomplishment and permanent sustaining of the distance between humans and the world ... that can be regarded as the evolutionary origin of the concept of immanent transcendence.
+
+Strydom's notion of opening the distance between humans and the world, the idea of the creation of the cognitive space implied by the use of the term "distance", has parallels with Wood's discussion of the importance of experience as mediation between the Marxist twists on nature and culture as structure and contingency, the turn to Kantian dualism as developed by Althusser.  Wood tries to rescue Marx (and Marxism) from the accusations of historical determinism.  The term "experience" calls to mind pragmatic critiques of philosophy.  Wood also critiques the "selectionist" story of the development of capitalism as being already present in the interstices of feudalism (what Taylor called a "subtraction story").  This Darwinian model of cultural evolution "begs the question" in that it assumes that capitalism always already exists when discussing the origin of capitalism.  Non-Darwinian models of evolution, such as developed by Longo, where "novelty" introduces a symmetry break in the evolutionary dynamics, seem critical.  But can a rigorous link be made between these non-Darwinian models and Peirce's agapist evolutionary models?  
+
+The metaphor of cognitive space is a promising one for categorical semiotics, as modal homotopy type theory was called by Shulman the "logic of space".  Zalamea develops the notion of "horotic" as the notion of opening a boundary space between analysis and synthesis, and his "logic of continuity" begs for development within modal homotopy type theory, given the importance of the synthetic continuum within this work.  This could imply the identity of "horotics" with the "unity of opposites" - the Hegelian/Lawverain notion of adjuction of adjunctions.
+
+> From the very beginning of Peirce’s intellectual proposal, continuity is paired
+with representation, or cognition, becoming increasingly unified with it the more he was
+discovering the real mathematical structure of continuity. [@maddalena:2012:new, p. 5]
+
+Which is close Strydom's proposal, substituting 'meta-representation' for 'representation' above.  
+
+The space of Peirce's Gamma graphs is a "plastic multidimensional continuum" and
+>this multidimensional continuum is apt to represent time or 'Becoming' (Perice 1976:vol. 4, 330)[@maddalena:2012:new]
+
+Again, Maddalena:
+>the line of identity has a direction or an aim because we draw it starting from one
+point and ceasing at another.[@maddalena:2012:new, p. 9]
+This notion of "identity" seems so similar to the notion of "equality type" in modal homotopy type theory.
+
+Champagne develops in detail a relationship between consciousness and semiotics [@champagen:2018:consciousness].  Although this work focuses on the individual aspects of cognition, it may be helpful to the social aspects of cognition that concern Strydom.    

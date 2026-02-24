@@ -1,0 +1,15 @@
+---
+date: '2020-05-23'
+draft: true
+title: Moving from Blogdown to Atom
+---
+
+I'm spending this morning configuring my notebook to use Atom, not Blogdown within RStudio.  Why?  I've migrated to an old iMac, and I use multiple screens to compose, whereas RStudio uses multiple panes and thus is difficult to use in this configuration.  I also rarely use the R features.  I also want to converge my environment with Nick's.  On the other hand, I've spent quite a bit of time screwing around with it - it probably would have been easier to reconfigure the default layout in RStudio.  Oh well.
+
+I installed "Markdown Writer" within Atom.  This allows for per-project configuration files, which it creates in mdwriter.cson.
+
+Installing hugo locally required a lot of wrangling to get Homebrew to work.  After many tries, a failed uninstall of Homebrew followed by a reinstall seemed to work.
+
+Not surprisingly, Hugo did not work out of the box.  Building the website gave xml versions but not html.  That's OK - I knew that I would run into issues.  
+
+Now that I've focused on this migration, I remembered why I went to Blogdown - it's support for citations via pandoc.  Hugo's support for Pandoc still is incomplete.  I went back to Blogdown and the site built without trouble.  I was still getting the same error messages on build, which I tried to fix by eliminating the tags and keywords in each post.  It seems like the 

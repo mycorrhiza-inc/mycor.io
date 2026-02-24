@@ -1,0 +1,46 @@
+---
+author: Bradley Venner
+date: '2019-02-25'
+draft: true
+title: Notes on Models for Polymorphism over Physical Dimensions
+---
+
+In looking at Keen's article *A Note on the Role of Energy in Production* [@keen:2019:note], I was struck again how the notion of exchange value as a universal pervades economics in an almost unreflexive way.  One way to think of this universal is similar to the universal, untyped notion of membership in set theory.  So Keen's use of functions could be mathematically justified by the unstated map into exchange value.  The production function is implicitly from the viewpoint of the capitalist, who says to themselves "if I double the amount I spend on labor, how much will I increase the value of my output", with exchange value reconciling the different units.  Keen seems to assume that he can bring this notion of exchange value into his analysis of the role of energy in neoclassical production.  But energy seems like such a fundamentally physical notion that is intrinsically tied with use-value, not exchange value.  Keen's prior dismissal of Marx over the labor theory of value means that, of course, he is either unaware or won't fundamentally criticize the notion of exchange value as an an empty universal.
+
+In working through a simple transportation example, though, it's clear that the notion of physical units must play a role in calculating returns to energy.  In his YouTube lecture on the subject, Keen makes an aside about an 'energy cliff', which I thought was important to rebut.  I thought a good example was comparing an electric to a gasoline-powered car, and how it is important to think clearly about the different types of energy and how electric energy has a much higher value in producing motion than gasoline.  Now it's not clear that Keen is thinking about these more micro-economical uses of the production function.
+
+So physical units seems like a good place to start when discussing the use of a typed logic like categorical logic as opposed to the untyped logic that is implicit in exchange value.  Ultimately, this may require me to have a better understanding of gauge theory, as Scheider uses this in his Hegelian reconstruction and Smolin makes reference to this topic in his one paper on economics.  So ultimately this topic may require MoHoTT to analyze.  But is there an easier place to begin that doesn't require this heavy machinery.  So I googled "units of measurement type-theory", which gave me the paper *Models for Polymorphism over Physical Dimensions* by Atkey, et. al. [@atkey:2015:models].  It also gave me the paper *Types for Units-of-Measure: Theory and Practice* [@kennedy:2009:types], which starts provocatively
+
+>Units-of-measure are to science what types are to programming.
+
+Kennedy works for Microsoft, and it would not surprise me if he helped design the F# units system.  I'll do notes for this paper next.  But as usual, I'll try the more abstract paper first.
+
+Atkey references an earlier paper by Kennedy's work on page 2 [@kennedy:1997:relational], but says they will develop a 'general categorical notion of model for a programming language of this form, and by developing ways of building models'
+
+Atkey begins with monomial expressions in the type theory, which is restricted to integer values of the exponents, unlike the Cobb-Douglas formulation, which allows for real-valued exponents.
+
+Atkey's language has both dimensions and types.  Types are parameterised by dimension but not by other types.  So this is a relatively restricted language compared to an intuitionistic type theory/dependent types language.
+
+Could this language be implemented in CatInf?
+
+The fibrational semantics reminds me of the categorical semantics for the syllogism by De Reyes.
+
+The paper states that existential quantification can be added simply as a left adjoint to substitution.
+
+How could uncertainty in measurement be added to this type theory?  This would be necessary for any real scientific applications, as well as a scientific informatics.  What would such a programming language look like?  Could such a language be used for GUM type calculations, where the uncertainty of measurement is derived from the uncertainty in each component?
+
+At Section 4, Group Actions and Dimension Types, I started hitting my comprehension limit.  Since this section is generalizing the earlier results of Kennedy, I will skim this, circle back to Kennedy's paper (perhaps also working through his F# tutorial), stop at Raposo, and then circle back.  In particular, it appears that the authors drop all sorts of notation that seems poorly defined.
+
+Authors drop reference to a dimensional analysis textbook by Sonin, which is [available on the internet](http://web.mit.edu/2.25/www/pdf/DA_unified.pdf).  
+
+Sonin references a dimensional analysis text in economics by de Jong.  A pdf copy of this book was available from (archive.org)[https://ia601607.us.archive.org/15/items/in.ernet.dli.2015.137895/2015.137895.Dimensional-Analysis-For-Economists.pdf]
+
+A [recent paper](https://arxiv.org/ftp/arxiv/papers/1802/1802.10528.pdf) on dimensional analysis in neoclassical economics was in the Google Search for the de Jong textbook.  I'll do notes on this paper next.
+
+So as usual, when I blunder into a new field, dimensional analysis is huge!  
+
+So, a preliminary theory is that dimensional analysis is a necessary but not sufficient condition for metrology, so categorical metrology can begin with dimensional analysis but not end there.  Atkey will be a key reference, but there is a lot to do.  Democratic planning will have to wrestle with physical, chemical, psychological, social measurement.  
+
+As an aside, is Hegel's quantity, quality, measure 'lifting' developed within Schneider's MoHoTT -> Hegel map?
+
+An additional impetus to the development of categorical metrology is the recent development of a masters program at Georgetown on 'Environmental Measurement and Policy'.  This seems like an interesting area to look at, and perhaps develop a particular course on.  Any reasonable definition of environmental metrology must include the inter-action between man and his environment, and thus involve the role of measurement as not simply reflective but also constructive.    

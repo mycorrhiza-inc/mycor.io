@@ -1,0 +1,32 @@
+---
+author: Bradley Venner
+date: '2021-10-10'
+draft: true
+title: Notes on Riccardo Bellofiore
+---
+
+Riccardo Bellofiore is an Italian heterodox economist that works in several traditions, including Marxism, neoricardo (including Saffra), monetory circuit theory, and post-Keynesian (including Minsky). I have read several of his papers over the last few days. He is particularly interesting in his 'reconstruction' of Marx from the viewpoint of monetary circuit theory. His take is that many important aspects of Marx's theory can be understood from a credit theory of money, but that some parts of Marx's commodity theory must be sacrificed. 
+
+The first paper of his that I read was entitled *The Neue Marx-Lektüre* [@bellofiore:2015:neue]. I can't remember what exactly I was looking for in my Google search. This paper reviews the rise of the 'new reading of Marx' school in Germany. 
+
+My favorite paper that I read was *The Socialization of Investment, from Keynes to Minsky* [@bellofiore:2015:socialization]. Perhaps because this is light on Marx, it also seems very clear. The first sentence of the abstract states:
+>An understanding of, and an intervention into, the present capitalist reality requires that we put together the insights of Karl Marx on labor, as well as those of Hyman Minsky on finance.
+In his Monthly Review article on Marx's value theory [@bellofiore:2018:multiple], Bellofiore calls this synthesis a *macro-monetary theory of capitalist production*.  
+
+The conclusion of the paper is that the 'partial' socialization of investment advocated by Keynes was incomplete, because it was compatible with a 'high profit' system that produces vast waste. Minsky argued for socialization that included 
+
+I also found a pdf version of the book *Marx's Capital and Hegel's Logic*, which contains Bellofiore's paper *Lost in Translation? Once Again on the Marx-Hegel Connection*. [@bellofiore:2014:lost]. This paper takes up the relationship between Hegel and Marx. Bellofiore advocates for understanding that Marx understood 'capital', as a self-valorizing valuation, to be analagous to the 'absolute idea' in Hegel. Hegel's idealism is taken as a pathology of capitalism, and materialism is the cure. This is similar to both Chris Arthur's approach. It also reminds me of Van Leeuwen's Gifford Lectures *Critique of Heaven and Earth*, where he outlines that Marx's earlier critique of 'idealistic' religion (the critique of heaven) from a materialist basis was transfered to political economy (the critique of earth).
+
+Bellofiore comments that Marx wanted to develop a critique of political economy:
+
+> “Critique” has to be distinguished from criticism: Marx aimed not only to point out the errors of political economy, but also to learn from its scientific results.
+
+A distinguishing feature of Marx's work is its monetary analysis. Neither classical or neoclassical economics allowed for an important role for money, which was analyzed as a neutral feature.
+
+As far as I can tell, Bellofiore has not addressed the links between his analysis and 'ecological Marxism.' A Burkett/Bellofiore synthesis is left to the reader. Would a useful direction be the synthesis proposed by of a post-Keynesian 'monetary circuit' with input-output models?
+
+The monetary circuit has a passing resemblance to Peirce's abduction-deduction-induction model of scientific inference. The corresponding monetary circuit is financial capital-industrial (fixed) capital-labor. Financial capital is the source of new capital as abduction is the source of new concepts. Fixed capital is analagous to deduction, although this relationship is not as clear to me. Labor is analogous to induction, where the 'idea' is 'tested' in production.
+
+Democratizing the economy begins with socialization of investment. This places democratic planning at the center of the post-capitalist transition. This transition must place greater emphasis on concrete labor, and the abstractions used to plan investment should correspond to scientific models of reality, not 'abstract labor.'
+
+Could Marx's category of labor be expanded to include 'social metabolism'? The concrete production process should be understood as depending upon ecology and that the 'free gift' of living labor and of nature are both exploitative. If Bellofiore is willing to sacrifice parts of the commodity theory of money, then perhaps we could sacrifice the anthropocentric understanding of 'labor.'

@@ -1,0 +1,19 @@
+---
+author: Bradley Venner
+date: '2019-10-17'
+draft: true
+title: Notes-computational-theory-evidence-based-reasoning
+---
+
+Tecuci et. al. have made a serious attempt to develop a general approach to evidence-based reasoning based on Schum's work.  These notes are on their latest work [@tecuci:2019:computational].
+
+As a preface, my proposed project has leaned towards starting such an investigation with Peircean semiotics, formalized with category theory.  So I have a pre-exisiting bias.  But Tecuci's previous work has taken Peirce seriously, in particular Peirce's abduction-deduction-induction logic of science.  Although Bellucci shows that Peirce revised this order in his later work on speculative grammar [@bellucci:2018:peirce], we'll have to await Bellucci's volumes on Peirce's speculative rhetoric to see if there was a corresponding impact on his theory of inquiry.
+
+Tecuci begins with identifying abduction with possibility, deduction with necessity and induction with probability.  Now one approach to categorical probability is through Lawvere's space-quantity adjunction, with total probability as an extrinsic quantity and probability density as an intrinsic quantity.  Lawvere's Kan quantifiers form an adjoint pair that generalize first-order logical quantifiers [@lawvere:1986:taking].  
+
+Adjoint triple from [Nlab](https://ncatlab.org/nlab/show/adjoint+triple):  An adjoint triple of functors gives rise to an adjoint monad/comonad pair; it is the latter that gives rise to the possibility/necessity modalities.  The link between the two adjunctions is an adjunction; an adjoint triple is also an adjuction between adjunctions.
+
+The notion of a general theory of knowledge, which must underly any theory of inquiry (as knowledge change), or what Peirce called 'logical critic', has been approached in category theory by Patterson, who proposed a variety of categorical knowledge representation formalisms based on different categorical notions.  Patterson's work used the bicategory of relations, but points to a larger framework.  As an aside, could the monoidal functor approach as a box developed by Meilles be applied as a knowledge representation framework a la the existential graphs.
+
+An interruption:  Nicholas Rescher wrote an introductory book on epistemology and two books on value
+theory.  

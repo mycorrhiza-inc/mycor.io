@@ -1,0 +1,20 @@
+---
+author: Brad Venner
+date: '2021-04-29'
+draft: true
+title: Notes on Weakly Informative Priors Random Effects
+---
+
+This paper considers a two-level random effects hierarchical model with normal distributions at each level.  Their levels are study effects and studies, but in the chemical context this could be measurements on subsamples of samples.
+
+Their model is
+$$
+y_i | \theta_i \sim N(\theta_i, \sigma^2_i), \\
+\theta_i | \mu, \tau \sim N(\mu, \tau^2)
+$$
+
+The goal of the study is to estimate $\mu$, which makes sense if we think of this as a sample, or in the case of RP1938, there are several rea1lizations of a common manufacturing process.
+
+On the analytical side, it makes sense to think of the results as approximately log-normal. 
+
+The paper refers to the physical motivation used here as an "aleatory" interpretation.

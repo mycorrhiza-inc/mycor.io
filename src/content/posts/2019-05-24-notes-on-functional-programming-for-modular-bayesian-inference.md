@@ -1,0 +1,8 @@
+---
+author: Bradley Venner
+date: '2019-05-24'
+draft: true
+title: Notes on functional programming for modular bayesian inference
+---
+
+Adam Scibior has written a series of papers discussing his MonadBayes library, written in Haskell, that implements probabilistic programming as a library within Haskell, rather than as a separate language.  This paper joins a long list of papers that

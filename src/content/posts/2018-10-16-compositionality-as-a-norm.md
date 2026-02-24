@@ -1,0 +1,18 @@
+---
+author: Bradley Venner
+date: '2018-10-16'
+draft: true
+title: Compositionality as a norm
+---
+
+I have two essays open on my computer - David Spivak's proposal for the compositional analysis of interconnected systems(http://math.mit.edu/~dspivak/AFOSR--Proposal--PixMat--NoBudget.pdf) and [The Rigging of American Politics](https://www.vox.com/policy-and-politics/2018/10/16/17951596/kavanaugh-trump-senate-impeachment-avenatti-democrats-2020-supreme-court), Ezra Klein's essay on the U.S. political legitimacy crisis.  The focus of the first is on engineered systems, and how  compositionality can help solve hard system design problems.  The focus of the second is on political systems, and how the lack of consensus on design problems is leading to a potentially severe political crisis.  So a natural question is whether compositionality can be extended to political systems.  But a deeper question is whether compositionality is itself a value, or is it a means to an end (such as stability or emergence).
+
+Zalamea's work points to the need to consider synthesis as more than simply the inverse of analysis.  Rosen also developed similar ideas.  So while semiotics in general might require a more sophisticated notion than compositionality, is that true for technical languages?  Should compositionality be sought in technical languages?    
+
+As always, the first stop for any general question like this should be Wikipedia.  There, the principle of compositionality is attributed to Frege, with an assist from Boole.      
+
+One of Spivak's favorite examples of compositionality is neurons, where the resulting network has the emergent quality of organism and eventually consciousness.  But consciousness is usually considered an emergent property, not simply the result of greater complication.  The principles of "neural composition" are the same between a human and a slug, but there are clearly differences in their brains, no?  How does compositionality explain this sort of emergence?    
+
+Champagne points to the ability for individual elements of a sign relation to switch roles, such as an interpretant being used as a sign vehicle.  However, I'm not sure that this notion holds for an object per se.  Champagne's modal interpretation bears some relationship to Zalamea's, although Zalamea views modality as only one aspect of the continuum.
+
+Semiosis has a notion of invariant - the relationship between the interpretant sign and the original sign, where the relationship with the object is preserved, but also a notion of dynamics, where the interpretant sign is different than the sign vehicle.   

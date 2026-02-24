@@ -1,0 +1,12 @@
+---
+author: Brad Venner
+date: '2019-10-28'
+draft: true
+title: Thoughts on product and function
+---
+
+In his book *Speculative Grammar*, Bellucci develops the methodology that Peirce used to develop his 10 classes of signs, and pointed to the general problem of the more elaborate structure of 66 classes of signs as an open question.  
+
+Could the 10 classes of signs be derived from structures on the ordered category 3 rather than the set category?
+
+In the 10 classes of signs, one way to view the acceptable classes is as a simplex in the three dimensional vector space with three levels in each space.  

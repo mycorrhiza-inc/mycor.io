@@ -1,0 +1,17 @@
+---
+author: Bradley Venner
+date: '2020-12-22'
+draft: true
+title: Thoughts on Social Ownership and Energy Democracy
+---
+
+Social ownership of energy resources.
+Isomorphic with community energy?
+
+Institutions like the Peer to Peer Foundation or the Democracy Collaborative try to avoid direct use of the term socialism, and generally do not consider themselves socialist.  But does this impoverish them?  Are there resources in the socialist tradition are not encompassed in the notion of 'commons' or 'democracy?'  This is not to disparage the work of either organization, both of which I admire.
+
+The Internet Encyclopedia of Philosophy entry on [Socialism](https://iep.utm.edu/socialis/) is surprisingly helpful.  It places the question of socialism as directly about property.  It distinguishes between private, public and social ownership and states that socialism concerns the latter.
+
+A load with a solar panel that is connected to the grid is no longer private property. It both consumes and produces electricity, but requires that the grid be available to provide supplementary services in the case of mismatch.  The instantaneous balancing of supply and demand that is required in electrical grids requires 'automatic control' - the capability to react nearly instantaneously.  This operational reality implies that any grid-connected machines should behave autonomously only when requested by the grid, which in this case would be disconnection.
+
+This could be an example of 'communal reciprocity,' in that the connection to the grid both gives and receives services.

@@ -1,0 +1,15 @@
+---
+author: Bradley Venner
+date: '2018-11-09'
+draft: true
+title: Sociotechnical Systems Design
+---
+
+In looking for resources on BPMN (business process mapping and notation), I ran across a masters thesis by van den Berg on "Strongly typed BPMN", implemented in the functional programming language Clean and iTask [@van_den_Berg:20.  This paper referenced de Sitter, who what the founder of what is now called the "lowlands sociotechnical design theory" [@christis:2018:lowlands] or "modern socio-technology" [@benders:2011:modern].  Although de Sitter appears to have written mostly in Danish, he wrote "From complex organizations with simple jobs to simple organizations with complex jobs" [@desitter:1997:complex].
+
+The "lowlands" paper proposes that work should be organized in cross-functional teams, which reminded me of former organization of the NEIC lab branch.  The motivation at NEIC was practical - the complexity of the work team should be reduced so that the number of people that could be called to testify was reduced.  This gave rise to the necessity of a "simple" organization.  Furthermore, these teams were organized around "customers" - the civil and criminal programs.  
+
+The current project-based approach seems like it has a similar formal organization, in that  the number of analysts on a project is relatively small.  However, the fact that teams are not consistent means that the inter-personal dynamics are always different when compared to a cross-functional team.
+
+Much like other approaches to work redesign such as Deming, Steddon or Ohno, there is a strong emphasis on viewing work as a system, and the unintended consequences that can follow by an only partial view.  Therefore, these approaches always try to involve workers as key actors in the system, responsible for designing their work.  However, these approaches always seem to stop at the capitalist boundary, never questioning the distribution of profits to "capital" rather than the workers.  Although some aspects of autonomy and work satisfaction are potentially offered, the more radical aspects of their critique seem to stop at management and not reach into capital.    
+Are the germs of the socialist revolution in multi-stakeholder organizational designs?  It's tempting to criticize these solutions arising from the business world as being fundamentally capitalist.  Complex systems like healthcare

@@ -1,0 +1,10 @@
+---
+author: Bradley Venner
+date: '2020-08-18'
+draft: true
+title: Thoughts on cocategorical spatial data
+---
+
+Hypothesis:  cocategories have applications in spatial data
+
+J. Andrew Rogers wrote a blog post in 2015 entitled "".  This was an advertisement for his startup company SpaceCurve, which looks like it ceased functioning shortly thereafter.

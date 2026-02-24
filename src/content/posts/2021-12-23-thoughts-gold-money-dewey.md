@@ -1,0 +1,12 @@
+---
+author: Bradley Venner
+date: '2021-12-23'
+draft: true
+title: Thoughts on Gold, Money and Dewey
+---
+
+The Dig had an excellent interview with Stefan Eich released yesterday. Among their many interesting comments was a discussion of why gold was valuable. This reminded me of Dewey's central thesis in *A Common Faith* that faith should be forward-looking and avoid looking backwards towards an existing realm of "actualities", which are often supernatural. 
+
+Eich describes the "metalists" as being afraid of the ability to 'untether' money from the natural world, and that removing any human governance by tying money to an already existing thing, gold, that exists in finite quantities on earth. Eich describes the anxiety of someone that Elon Musk would discover gold on an asteriod somewhere as to why Bitcoin was superior to gold. The parallel with the "religious" atitude that morals must be thethered to an existing, superior being not subject to human innovation, is clear. The link between gold and value is similar to the link between God and morality - this is an area that human's shouldn't mess with.
+
+In *Debt*, Graeber outlines the ebbs and flows of the notion of money as credit and of metal throughout human history. 

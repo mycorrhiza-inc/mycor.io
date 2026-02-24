@@ -1,0 +1,22 @@
+---
+author: Bradley Venner
+date: '2020-11-24'
+draft: true
+title: Thoughts on The Relational Turn
+---
+
+Poinsot - semiotics and the category of relations
+Schelling - what Gare said (is a process a relation or a relation a process?)
+Peirce - logic of relatives
+Bogdanov - tektology (organizational science)
+Rosen - relational biology
+Wilbur - critique of systems theory
+Mac Lane - category theory
+
+Looking at this list, lots of thinkers that were ignored in their time.
+
+Rosen was quite explicit about the relationship between relational biology and category theory.  Which came first in his thinking?
+
+Category theory as a natural successor to the 'logic of relatives'.   
+
+I broke my first rule and started writing before checking Wikipedia.  There is an entry on (relational theory)

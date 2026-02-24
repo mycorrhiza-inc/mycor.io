@@ -1,0 +1,23 @@
+---
+author: Bradley Venner
+date: '2021-06-21'
+draft: true
+title: Notes on Generative Mechanisms
+---
+
+# Justification
+
+Since my last entry, I've begun a project on developing an alternative to Xcel's Clean Energy Plan. At the same time, I've begun a preliminary review of active inference. I believe that the latter is closer to applications than the more theoretical work I've undertaken with category theory. But I also still have hope for the categorical semiotics project. It's more than enough work for several lifetimes. I somehow still believe that energy democracy can be the 'broad center' of these efforts, with energy democracy understood broadly as democratic ecosocialism for the energy sector.
+
+It's not a coincidence that I heard about active inference through pragmatism, in a short blurb about a paper from Ahti. The emphasis on the role of action in inference is very pragmatic. One of the appealing aspects of the framework is that both exploration and exploitation can be considered in one framework, and the controlling behavior depends upon the state of the organism.
+
+The other interesting potential application for active inference is in multi-agent systems.  This applications seems more speculative to me, since Bayesian frameworks are traditionally single-agent theories. But the potential for a unified approach to cyber-physical-social systems is intriguing.
+
+The present paper by Ellerman concerns 'generative mechanisms', which explores the differences between generative and selective mechanisms. Ellerman has written about many important areas and has been highly influential to me, including his papers on exploration and exploitation, 'brain functors', workplace democracy, logical entropy, and set/op-set relations. The last category seemed like a specialization to the more general relationships developed in Meilles' work on game semantics.
+
+Active inference |Exploration | Exploitation
+-----|-----|-----
+Semiotics   | Abduction   | Induction
+Ellerman | Generative  | Selective
+
+I'm not sure that I understand the mathematical distinction between generative and selective mechanisms based on this paper, nor whether my table above is an accurate assessment of his position. Ellerman draws an analogy with the logic of partitions and the logic of parts, respectively.  This seems to be the main point of the paper, to give some biological examples of the logic of partitions.

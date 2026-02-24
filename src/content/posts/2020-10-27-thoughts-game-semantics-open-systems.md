@@ -1,0 +1,14 @@
+---
+author: Bradley Venner
+date: '2020-10-27'
+draft: true
+title: Thoughts on Open Systems and Game Semantics
+---
+
+There appears to be a close relationship betwen Baez's network theory and game semantics.  This is particularly apparent in the categorical semantics of linear logic developed by Mellies, where a strong monoidal adjunction is used for the connection between a symmetric monoidal category, which describes the linear moment, with a cartesian closed category, which describes the lambda calculus.  This adjunction leads to 'functorial boxes'.
+
+In Kenny Courser's thesis, part of Baez's program, there is a similar understanding of a symmetric monoidal functor as a course-graining of a Markov process.
+
+Murfet describes algorithmic learning theory within the context of differential linear logic.  Powell discusses learning theory within his sequential decision analysis framework.
+
+Would a top-down/bottom-up approach to the sequential decision analysis framework improve the rate of convergence.  Studying sequential decision analysis as actually applied to power flow networks could be helpful for my energy democracy work.  

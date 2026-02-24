@@ -1,0 +1,33 @@
+---
+author: Bradley Venner
+date: '2020-10-22'
+draft: true
+title: Notes on Algebraic Julia
+---
+
+Algebraic Julia is an effort by Even Patterson, James Fairbanks, and others to develop some applied category theory within the Julia programming language.  Although I'm on board with the notion of differential linear logic as a theory, I'm willing to consider other theories.  In particular, I'm interested in how "game semantics" can be used in place of "algebraic semantics" described here.
+
+The research agenda for network theory, as outlined by in the post:
+https://johncarlosbaez.wordpress.com/2015/04/28/a-compositional-framework-for-passive-linear-networks/
+could be taken straight out of a motivation for energy modeling.  This post includes a table with 6 rows, each of which is a key aspect of energy
+
+| Field | Application | Energy Type |
+| ---   | ---         | ---         |
+| translation | transport | kinetic |
+| rotation  | turbines | kinetic |
+| electronics | power use | electric |
+| hydraulics | hydro power | kinetic |
+| thermal physics | heat pump | heat |
+| chemistry | battery | chemical |
+
+Energy modeling also considers of the the coupling of these systems to each other, and thus the transformation from one form of energy to another.  It's obvious why energy became the main motivation for neoclassical economics - the temptation to treat all these systems under one unified notion of value, energy, was a profound breakthrough.
+
+The passive network paper considers a restricted class of systems that do not produce energy. So in this sense they are very far from a basic power system model.  On the other hand, this was written in 2015, so it's possible that new formalisms are available that can be used for more general energy modeling.  In the meantime, though, it's good to make sure I understand this paper.
+
+Now it seems like in energy system modeling that compositionality is something that must be synthesized, not assumed.  It seems like the key notion is the ability to bring supply (generation) and loads (demand) into balance.  In most economic systems, the ability to store the product allows for a general notion of balance.  On the other hand, in electric systems, the balance must be detailed.  A microgrid is a system that consists of generation, load, and storage, and resembles the larger grid in this regard.  In the integrated-decentralized power system envisioned by Kristov, the subsystems underneath the transmission-distribution interface have grid-like aspects. This state of affairs is brought about due to engineering design to allow the microgrids to work together. But the ability to break grids into component subgrids is limited - the resilience of the system is a function of the size and duration of the subsystems to operate independently.
+
+Anyway, is the focus of the passive networks paper on linear systems due to the fact that compositionality is deductive a la Frege?  It is interesting that a thesis on open systems is based upon this notion of conservation of energy, whereas energy modeling is all about energy flowing into and out of a system.  It seems like this corresponds to the original moitivation of an open system - a far-from-equilibrium system that sustains itself only by energy inputs. It's likely that Fong's thesis included examples from more open systems.
+
+But wouldn't it make more sense to start with a formalism that is open from the start? This is one advantage with starting with games, which consider a system along with it's environment as a basic construct. But it seems like there is a potentially close relationship between Baez's network theory approach and Mellies work on linear logic.
+
+For example, Courser's thesis summarizes course-graining of open Markov processes as saying that black-boxing is a symmetric monoidal functor. This notion of box as monoidal functor seems close to the one developed by Mellies in his categorical semantics for linear logic.  These approaches seem united by the concept of network - engineering networks in Baez's group and proof nets in Girard and Mellies.  Mellies was inspired by the existence of boxes in Girard's notion of proof net.

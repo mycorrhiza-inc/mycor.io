@@ -1,0 +1,16 @@
+---
+author: Bradley Venner
+date: '2020-05-16'
+draft: true
+title: Thoughts on probability and materialism
+---
+
+Does probability have a material basis?  This is a corollary to the question 'does logic have a material basis?'  Probability theory began as the mathematical analysis of the games of chance.  What makes it interesting is the fact that people bet on games of chance.  It is people's desire to bet on these outcomes that makes mathematical games of chance interesting.
+
+The desire to generalize probability theory to a more general description of either reality or knowledge that seems to run aground.  Making probability purely subjective, allowing any system to have a probabilistic interpretation, is similar to the subjective move in logic, detaching logic from any basis in material reality or science.  The desire to make probability purely objective neglects the interesting part of probability, the desire to bet on outcomes, to control reality by pure desire.
+
+The normative side of probability is quite obvious in its original formulation.  What is a rational bet?  The calculating scientist, detached from wishful thinking, understands that degrees of belief should be attached to relative frequencies of outcomes.  The probabilist as scientist advises the 'subjective' gambler, helping him understand the limits of his desire.  
+
+I am increasingly drawn to Schafer's understanding of probability, which partially abstracts from the strict 'game of chance' setup, but only partially.  Schafer links probability to game theory in a non-trivial way.  Unlike subjective games, reality continues to play a fundamental role - the system that generates outcomes is modeled but not controlled by a subjective player.  This allows for a material basis of probability to be played by the role of 'reality' - that which determines the outcomes.  The two players, house and gambler, correspond to degrees of departure of reality from a subjective model of perfect chance.  
+
+Jacob's account of probability as an abstract form of logic places probability in the subjective tradition, as a system of reasoning that is fundamentally detached from any 'random system.'  But I'm also having some problems accepting the basic setup.  The idea that 'states' are the convex sum of elements of a set, and that somehow these states lie in the same category as the original set, seems bizarre.  Perhaps this is my misunderstanding of the Kliesli category of an adjunction.  The basic idea of a 'stochastic matrix' being a map from the elements of one set to a convex sum of elements in another set makes a certain amount of sense as a categorical idea of a matrix construction.  It points to the rows (columns?) summing to one for each element of the original set.  It also allows for non-square stochastic matricies.  But this loses the connection with players and with 'reality' in Schafer's setup.  Furthermore, it also seems to lose the connection to other forms of 'relations' as models of non-determinism in computer science.  It may also lose the connection to combinatorics that dwells in models of probability taken from games with cards and dice, but this may      

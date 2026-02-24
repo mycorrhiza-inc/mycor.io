@@ -1,0 +1,10 @@
+---
+author: Bradley Venner
+date: '2019-10-31'
+draft: true
+title: Thoughts on bifibration as gesture
+---
+
+A quick note so I don't forget.  In the 'Philosophy of Gesture', Maddalena defines a gesture as being a sign where the iconic, indexical, and symbolic elements are particularly well defined.  Mellies work proposes the bifibration as a key component to his new existential graphs.  Fibrations have a lifting property, while opfibrations have an extension property.  Thus, a bifibration is simultaneously a functor (compositional), an extension and a lift.  It is therefore a candidate for a mathematical model of a gesture, as well as being a key notion in the new existential graphs.
+
+Also, Mellies states that his work builds upon Hermida's thesis.  I'm not sure how yet.  I thought Hermida's 'relational parametricity' research program was aligned with Maddalena's definition of synthetic inference as maintaining identity through changes.  Atkey's work on Noether's theorem would be a good example of such.

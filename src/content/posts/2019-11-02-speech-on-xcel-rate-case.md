@@ -1,0 +1,22 @@
+---
+author: Brad Venner
+date: '2019-11-02'
+draft: true
+title: Speech on Xcel rate case
+---
+
+Thank you for the opportunity to speak.  I only have 250 words, so I'll get right to it.  Before the commission are two major questions of risk - financial and climate.  
+
+Xcel's new business model of 'steel for fuel' is designed to increase their equity, which will generate an equity rate of return.  The central issue is whether the equity rate of return is justified by risk.  
+
+This rate case before the commission clearly shows that Xcel would like to earn their high rates of return without risk.  Xcel comes to this commission and asks ratepayers for additional money to address their underperforming fossil fuel investments.
+
+Steel to fuel also incentivizes 'gold-plated' projects.  Warning lights are clearly flashing in the Rush Creek project, which will cost about 29 dollars per megawatt-hour, approximately twice the cost of bids received in response to proposals for power purchase agreements.  I do not understand how Xcel's wind energy projects, earning a nine percent rate of return, can possibly compete with debt-financed wind farms developed by independent producers.
+
+But given the pressing climate risk, isn't an outsized return to Xcel worth the mitigation that they are promising?  The problem is that steel to fuel is inherently sequential.  But change must be rapid.   Gernot Wager et. al. showed that the uncertainties in climate change should be addressed by a high initial cost of carbon.  We must build as much renewable energy as quickly as possible.  You don't have to be a computer scientist to know that doing this in parallel (i.e. with many independent power producers) will be much faster than sequentially.
+
+In closing, I'll paraphrase Ron Lehr:
+
+Regulators have a key role in striking a correct balance between investors and ratepayers to unlock streams of savings and benefits that can be shared.
+
+I trust that the commission will reject this proposed rate increase, which is vastly biased towards investors.  

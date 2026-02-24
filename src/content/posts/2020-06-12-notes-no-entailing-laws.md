@@ -1,0 +1,20 @@
+---
+author: Bradley Venner
+date: '2020-06-12'
+draft: true
+title: Notes on No Entailing Laws but Enablement in the Evolution of the Biosphere
+---
+
+This paper was written in 2012 and is a 'programmatic' paper.  I skimmed it a couple years ago, but thought that it would be good to give it a detailed examination for a couple reasons.  First, it seems directly relevant to categorical semiotics in that it seems to give a possible mathematical model for 'abduction' (this really needs a better name).  Second, it seems to have direct applications in economics and probability, as this argument could be used against the notion of 'prior' over a "pre-statable" phase space.  Third, it's a direct refutation of the determinism in 'Devs', which I just finished watching, and wanted to review the argument.
+
+I read Kaufmann's book Origin of Order before graduate school, and really enjoyed it, but I didn't do anything with it afterwards.
+
+If I remember correctly, Peirce criticized Laplace's Bayesianism for its reliance on a prior over 'absolute ignorance.'  Later in life, Peirce analyzed 'quantitative logic' into possibility, likelihood and probability.  The notion that possibility follows a separate law or logic, not subject to the 'law of contradiction', is also discussed by Peirce.  
+
+> An essential feature of our analysis is that at levels of complexity above the atom, for example for molecules, the universe is grossly non-ergodic, that is it does not explore all possible paths or configurations.
+
+This paper concentrates on the physical and biological case, but this quote shows that the chemical case is interesting as this 'scale' is where the ergodic hypothesis may break down.  Since Peirce was inspired by chemistry in the development of the existential graphs, this is an interesting place to establish Deely's physiosemiosis.
+
+> As for biology, evolution is both the result of random events at all levels of organization of life and of constraints that canalize it.
+
+Sounds like Peirce's firstness and secondness.  But the ability to take on a habit, or to change a habit (as thirdness) is not included in this explanation.  However, contraints could be viewed as secondness and 'canalize' as thirdness - life needs to stay within constraints or it will perish, which canalization makes possible.

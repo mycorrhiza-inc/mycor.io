@@ -1,0 +1,21 @@
+---
+author: Bradley Venner
+date: '2019-05-24'
+draft: true
+title: Thoughts on probability, type theory, category theory
+---
+
+What about a course on "Probability and Type Theory", which would concentrate on probability, or "Data Science and Type Theory", which could include databases and measurements.  Or a more practical approach could be "Haskell for Data Science," which could be motivated from these developments but would be grounded in the practical needs of data science.
+
+There is a notion of a monad as a unifying abstraction over various theories of uncertainty.  This notion is explicitly discussed in Ianescu's work on sequential decision theory in Idris.  It's hinted at in Elliott's paper on Computation in Categories.  
+
+The probability monad is developed in some detail in Scibor's papers on MondadBayes.  Scibor connects the probability monad to a compositional inference model, which is not a monad.
+
+Jacob's developement of state transformers, predicate transformers reminds me of both Chu spaces and Peirce's universe/category distinction.  In Jacob's development, probability, which is renamed validity, is a relationship between the state and predicate.  Jacob's has also done work with various probability monads, and there is a relationship between channels and the Kleisi category of a monad.
+
+The hard evidence/soft evidence distinction could be used in measurement uncertainty, where the Type A/Type B distinction is crying out for a more rigorous treatment.
+
+Is there a more general relationship between the probability monad and the 'possibility monad', as discussed by Corfield in homotopy type theory.  
+Jacobs refers to the 'double dual' form of the monad, which is Avery's double dualization.  Avery includes a citation to an earlier paper by Jacobs.  Avery also includes citations to Koch.  Scibor refers to Koch as the founder of 'synthetic measure theory.'  So all these approaches are related to each other.
+
+Are Jacobs' various examples related to the notion of a cocategory?  The notion of an interval object seems to generalize the various examples considered by Jacobs.  The Boolean algebra object $ 1 \rightarrow  2 \leftarrow 1 $ is used for discrete logic.  But the interval $[0,1]$ is considered a cocategory object according to nlab and has a similar structure:  $0 \rightarrow [0,1] \leftarrow 1$.  

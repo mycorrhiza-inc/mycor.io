@@ -1,0 +1,12 @@
+---
+author: Bradley Venner
+date: '2020-10-27'
+draft: true
+title: Thoughts on Financialization of Utilities
+---
+
+From 1990 to 2000 (probably earlier, but I haven't gotten the data yet), electricity prices steadily declined in Colorado and New Mexico (need to check for other states).  But around the year 2000, prices per kilowatt/hour have steadily increased. What changed? The usual story is that this was due to the need for long-neglected improvements in the electrical grid, which had been neglected during a long period of neglect when electricity prices were stable.
+
+Another possible story is that electricity prices are an indirect effect of financialization, which was made possible by overturning the ban against utility holding companies in 1995.
+
+This question is important because it directly impacts the question of the value of a utility for either public takeover or to compete the monopoly.  

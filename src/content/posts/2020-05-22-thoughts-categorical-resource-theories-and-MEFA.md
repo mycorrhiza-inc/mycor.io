@@ -1,0 +1,22 @@
+---
+author: Brad Venner
+categories:
+- thoughts
+date: '2020-05-22'
+draft: true
+tags:
+- categorical-semiotics
+title: Thoughts on categorical resource theories and MEFA
+---
+
+This could be a direction to take ‘semiotics of value,’ or at least a chapter?  Material and energy flow analysis was founded by Robert U Ayers, who emphasized the role of energy in material flow analysis.
+
+What about teaching ‘doughnut economics,’ with an emphasis on the ecological side.  Is this a ‘pragmatic ecosocialism’ already?  Pirgmaier advocates a closer relationship between ecological economics and socialism, entitling their dissertation ‘Value, Capital and Nature’ after a 1996 Paul Burkett article [@burkett:1996:value].
+
+In their review, Fischer-Kowalsky [fischer:1999:societys] cite Marx’s early work on social metabolism as foundational for material flow analysis.  They claim that ‘Geddes sought to develop a unified calculus for all economic and social activity framework and proclaims the emancipation from monetary economy towards an economy of energy and resources’.
+
+Soddy is also cited in Fischer-Kowalskys’ review.  She says ‘he saw energy  as a critical limiting factor to society and thus was one of the few social theorists sensitive to the second law of thermodynamics.”  Soddy was also cited as taking a semiotic approach to money in my.  Wikipedia cites him as
+
+Dependencies:  
+
+to link to ecological Marxism, this assumes a prior development between dialectics and semiotics.  

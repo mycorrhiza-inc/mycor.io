@@ -1,0 +1,12 @@
+---
+author: Bradley Venner
+date: '2019-04-05'
+draft: true
+title: Thoughts on Rho Calculus
+---
+
+John Baez has two recent blog entries that give me pause.  The first was a [blog entry](https://johncarlosbaez.wordpress.com/2019/03/10/breakthrough-institute-on-climate-change/) discussing a Breakthrough Institute presentation comparing climate change to diabetes.  I will work on a response article on why capitalism is like a metastatic cancer, climate change is an affected organ, and socialism is the cure.  This would be modeled on the theory of organisms developed by Tufts.  But it is concerning that Baez cites a Breakthrough Institute presentation.
+
+The second entry, which is the subject of this entry, is a [brief discussion of the $\pi$-calculus](https://johncarlosbaez.wordpress.com/2019/04/04/the-pi-calculus-towards-global-computing/) by Christopher Williams, who is a Ph.D. student at UC-Riverside and an RChain advocate.  RChain has been subject to some scathing bad press and may be even more of a scam than Breakthrough.  However, since I'm thinking about open data today, it seemed to be potentially more interesting to take a brief look.
+
+The $\pi$-calculus is something I've been interested in for a while but can't say I've ever mastered.  Way back in the Aplexys days, I was reading quite a bit about the categorical semantics using game theory.  More recently, I have been working on business process modeling, where the YAWL based on Petri nets, a formalism that competes with the $\pi$-calculus.   

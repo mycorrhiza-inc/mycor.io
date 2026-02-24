@@ -1,0 +1,18 @@
+---
+author: Bradley Venner
+date: '2019-08-16'
+draft: true
+title: Reflections on the meta-project *Ecology, Society, Semiotics*
+---
+
+I've often thought of my meta-project Ecology, Society, Semiotics as corresponding to the three-fold division of human understanding proposed by Locke.  But my three subprojects - categorical semiotics, theory of value, and pragmatic ecosocialism - appear to more closely correspond to Peirce's divisions of logic - speculative grammar, logical critic and theoretical rhetoric.  
+
+To what can I attribute my lack of progress on this project?  
+
+One obvious reason is that the meta-project is simply too big.  Much as Peirce never drew his project into a single coherent whole, it's very difficult for a single person to get a grasp on any one of these areas, let alone all three.  But perhaps it's like bilingual children - initial progress in a single language is slow but eventually the additional flexibility that results from learning two languages results in greater language mastery.  There have been a few times where I've thought this was the case - by reading broadly I've been able to understand various aspects of the larger problem that I would have been unable to grasp by simply focusing on a single aspect.  But evidence for this claim is sketchy and largely faith-based.  Many other times I just feel confused and it's been easy to hop from one area to another without making progress.  
+
+Another reason is my dislike of writing - I've simply not been willing to spend much of my free time producing materials.  When I do sit down and write an entry, like this one, I don't spend enough time to flesh it out into a full blown essay.  It's clearly valuable to do at least some of the reflection that I've done, I haven't spent enough time working out germs of ideas into an essay or developing a framework.
+
+Another possibility is the questionable relevance of the project in a post-Trump world.  It's been easy to get distracted by Trump news, but also the need for subtle improvements in logic seem less critical than overcoming the brutal nihilism that has infected this country.  The need is for action, not for reflection.   
+
+A related possibility is the questionable relevance of the project to climate change.  Although I believe that pragmatic ecosocialism is a good vehicle for thinking about the problem, the urgency of the issue seems a poor match to reflection.

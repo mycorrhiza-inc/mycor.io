@@ -1,0 +1,24 @@
+---
+author: Bradley Venner
+date: '2021-06-21'
+draft: true
+title: Notes on Dynamical Systems and Sheaves
+---
+
+# Justification
+
+Some 28 years ago, I read Edwin Jaynes book entitled "Probability: The Logic of Science".  The first part of the book derived probability theory as a 'unique' extension of propositional logic. A natural question is obviously whether probability also corresponds to first-order logic?
+
+A few months ago, John Baez published a short note describing how the time value of money could be derived from first principles.  A crucial part of the argument was similar to the definition of a monoidal functor, in that a category of time with a monoidal structure of addition could be mapped to a 'value' category with a monoidal structure of multiplication: $V(t_1 + t_2) = V(t_1) * V(t_2)$.  This exponential structure resembles probability theory, and essentially gives an exponential distribution in probability theory. So this notion of monoidal functor as 'exponential' has a family resemblance with Jaynes' 
+
+Although I can't be certain, it appears that categorical probability may follow a similar pattern. A 'deterministic' category with finite products is mapped to a symmetric monoidal category of 'distributions' using a monad. 
+
+The categorical semantics of linear logic may generalize this construction. The 'cartesian closed' structure of the 'additive' connectors is mapped to a 'symmetric monoidal closed' structure of the multiplicative connectors; the map is a monoidal functor. Both Mellies and Pavlovic have intesting papers in this area. Pavlovic's recent review 
+
+## Cyber-physical-social systems, democratic eco-socialism, energy democracy
+
+## Distributed stochastic control, autonomous energy systems, integrated-decentralized power systems
+
+
+## Active inference, logical entropy, Markov blankets
+

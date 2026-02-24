@@ -1,0 +1,60 @@
+---
+author: Brad Venner
+date: '2021-05-07'
+draft: true
+title: Notes on Beyond Subjective and Objective in Statistics
+---
+
+Andrew Gelman and Chrstian Henning take on this perennial issue in philosophy.  Roughly parallels the subject of Dewey's *Experience and Nature*.  These 'metaphysical' questions are closely linked to questions about the nature of inquiry.  There is a parallel construction in Dewey with 'modern' and 'classical' philosophy, with modern philosophy more 'subjective' and classical philosophy more 'objective.'  
+
+The pragmatist answer is that inquiry is fundamentally social and not simply individual, and thus is not purely subjective (i.e. dwells in the individual human consciousness).  On the other hand, nor purely objective (agency plays a crucial role in knowledge formation).
+
+Aside: it might be interesting to go back to Apel and see how his 'transcendental pragmatics' compares with Dewey's answer.
+
+Can this article be directly translated to 'beyond subjective and objective in uncertainty analysis'?  Because this step includes the word 'uncertainty', it is a little more fraught than the more neutral word 'statistics.'
+
+Aside:  I really should write an essay 'Statistics as Semiotics' laying out where I am on this subject at this point.
+
+Back to notes.  The authors begin by listing a number of sources of 'external information' that is used in statistics, only one of which is given the official designation 'prior information.'  The authors propose that these are not opposite but enter into statistical practice.
+
+The authors define objectivity as 'independent of personal biases', which is close to Peirce's notion of 'reality.'
+
+> Although such an approach obviously tempts the user by its simplicity, it also appeals on the level of avoiding individual impact or subjectivity.
+
+Analytical methods have a similar justification, in that the 'result' is independent of the analyst.
+
+> Researchers often rely on the seeming objectivity of the p<0:05 criterion without realizing that theory behind the p-value is invalidated when analysis is contingent on data (Simmons et al., 2011; Gelman and Loken, 2014)
+
+I need to understand this critique.  Look at these papers.
+
+> on one hand, scientific claims should be impersonal in the sense that a scientific argument should be understandable by anyone with the necessary training, not just by the person promulgating it, and it should be possible for scientific claims to be evaluated and tested by outsiders. (p. 4)
+
+This is an 'observational' weakening of the notion of reproducibility, perhaps made for a social science audience.  To what extent is 'evaluation' a different concept than 'testing'.  In the 'network' production of knowledge  
+
+>On the other hand, a reality that is assumed to be objective in the sense of being independent of its observers is only accessible through observations that are made by observers and dependent on their perspectives; communication about the observations and the process of observation and measurement relies on language constructs.
+
+Knowledge is by necessity dependent on language
+
+> On one hand, statistics is sometimes said to be the science of defaults: most applications of statistics are performed by non-statisticians who adapt existing general methods to their particular problems, and much of the research within the field of statistics involves devising, evaluating and improving such generally applicable procedures (Gelman, 2014a).
+
+This sentence could be paraphrased directly for 'analytical chemistry':  
+
+analytical chemistry is said to the science of methods:   most applications of analytical chemistry are performed by non-analytical chemists who adapt existing methods to their particular problems, and much analytical chemistry research involves devising, evaluating and improving methods.  
+
+The authors propose to expand the notion of objectivity into transparancy, consensus, impartiality and correspondence to observed reality.  Subjectivity is expanded to awareness of multiple perspectives and context dependence.  The idea is that expanding the space can avoid the sense of irreconcilable tradeoffs.  
+
+These notions also seem very consistent with 'good' democracy. This typology might also be useful in citizen science applications.  
+
+The inherent tension is not removed by expansion.  Consensus and multiple perspectives are opposites, in a sense.
+
+The authors are aware of this, and next provide an example of how awareness of multiple perspectives can help with impartiality by allowing for 'tests' to be jointly designed by interested parties.
+
+Later, they state:
+
+> We are aware that in some situations some of these virtues may oppose each other; for example ‘consensus’ can contradict ‘awareness of multiple perspectives’, and indeed dissent is essential to scientific progress. This tension between impersonal consensus and creative debate is an unavoidable aspect of science. Sometimes the consensus can only be that there are different legitimate points of view.
+
+Stability of reality is an interesting aspect of statistics, and this is perhaps the central issue within the metaphysics of statistics.  
+
+> The accommodation and analysis of variability is something that statistical modelling brought to science, and in this sense statisticians investigate stability (of observations as well as of the statistics and estimators computed from them) all the time.
+
+Is Maddalano's distinction of analytic/synthetic/horotic relevant here? There's also the deeper issue of a process metaphysics, and perhaps Pavlovic's process model? Is statistical reasoning coalgebraic?  

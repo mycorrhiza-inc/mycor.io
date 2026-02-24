@@ -1,0 +1,24 @@
+---
+author: Bradley Venner
+date: '2019-02-05'
+draft: true
+title: Notes on Information and Causality
+---
+
+[@longo:2016:information]
+
+> As a further and dual link to causality, we (Longo & Montévil, 2016) show that in all existing physical theories, each random event corresponds to a continuous or discrete symmetry-breaking and to time irreversibility.  
+
+Does this link Peirce's tychism with Longo's work on symmetry breaking?
+
+>We know from human history that when common sense and myths combine, they are unassailable and any change requires a true revolution.
+
+> In our view, instead, Data are “Compressed Theories” (and not viceversa), since to collect them supposes a theoretical perspective, the choice of observables, measurement theory and tools ..., see (Longo, 2016).
+
+> Longo, G 2016“A review-essay on reductionism: some reasons for reading"Reductionism, Emergence and Levels of Reality. The Importance of Being Borderline", a book by S. Chibbaro, L. Rondoni, A. Vulpiani.Urbanomic, London, https://www.urbanomic.com/document/on-the-borderline/ , May 8.
+
+>  The TOFT approach to cancer refers to early intuitions by C. Waddington, J. Needham and a few others (1930s), later forgotten by the subsequent genocentric perspective, see (Soto & Sonnenschein, 2011) for references.
+
+Needham pops up in so many different contexts.  
+
+Longo, G “Mathematical Infinity "in prospettiva" and the Spaces of Possibilities” Visible, Semiotics J., n. 9

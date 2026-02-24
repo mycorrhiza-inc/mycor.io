@@ -1,0 +1,28 @@
+---
+author: Brad Venner
+date: '2019-02-20'
+draft: true
+title: Notes on the economic calculation debate
+---
+
+This paper, by Fikret Adaman and Pat Devine [@adaman:1996:economic], considers the possibility of taking seriously the Austrian model of the market as a discovery and learning 'mechanism'.  This emphasis on learning should be a natural fit for a Peircean theory, and there are hints that Hayek took Peirce relatively seriously.
+
+>At present there are two theoretical models for a genuinely democratically planned socialist economy, one developed by Pat Devine, and the other by Micheale Albert and Robin Hahnel.
+
+ParEcon is the latter model.  Devine doesn't have a catchy name, although his paper in the Oxford Handbook is called 'Democratic Socialist Planning', which should have some cache here in America.
+
+Modal logic is often used to describe distributed knowledge problems.  What does epistemic modal type theory look like?  Can it be used for agent-based models?  
+
+Devine develops two knowledge failures.  The first is the ex ante knowledge discovery process in neoclassical economics (either market socialism or private neoclassical).  Dobb advocated for planning so that discovery was prior to production, not after.  The second knowledge failure is Hayak's critique that knowledge is largely tacit (although it seems like inter-subjective would be a more accurate desciptions) and emerges in interactions on the network.
+
+The neoclassical epistemological stance:  knowledge is objectifiable, codifiable and transferable.
+
+Can participatory planning be modeled as a parallel programming problem?
+
+Social ownership is defined as those affected by activities of enterprises, including workers and customers, the communities and regions within which they are located, more general interests represented by planning commissions, etc.  This sounds very much like a multi-stakeholder cooperative.
+
+Relies upon the notion of prices, which seems to accept the notion of exchange-value and looses the benefits of multiple units.
+
+These 'negotiated coordination bodies' sound very Hegelian to me - are they the 'estates?'
+
+Devine's distributed planning model tries to reconcile Dobb's  

@@ -1,0 +1,39 @@
+---
+author: Bradley Venner
+date: '2018-10-24'
+draft: true
+title: Agapastic Ecosocialism
+---
+
+Peirce proposed the neologism 'agapastic evolution' during his 'metaphysical' period in the late 1890's, principally in his paper [*Evolutionary Love*](http://www.iupui.edu/~arisbe/menu/library/bycsp/evolove/evolove.htm).
+
+Should I retitle my project 'agapastic ecosocialism' rather than 'pragmatic ecosocialism'?
+
+Advantages:
+ - Places this aspect of the project within 'metaphysics', since it calls out to Peirce's Monist metaphysics articles.  
+ - Explicity Peircean term, no muddling of 'semitoics', 'pragmatism', 'democracy'.  
+ - Follows path from Royce to King
+ - Could be understood as playing the role of the 'absolute' in Hegel's philosophy without relying upon idealism.
+  - A good excuse to go back and visit the Peircean metaphysical system
+  - *Evolutionary Love* emphasizes the relationship between the continuity of mind and the doctrine of agapasticism.  So synechism and agapsticism are linked by Peirce.
+  - Subtitles for my three parts:
+  -- The Logic of Space
+  -- The Space of Values
+  -- The Value of Love
+
+Disadvantages:
+ - The link to historical materialism is more obscure than 'pragmatic ecosocialism' (which could be rooted in Honneth's *The Idea of Socialism* [@honneth::idea])
+ - The link to historical materialism is more obscure than 'democratic ecosocialism,' which could be rooted in Wood's *Democracy Against Capitalism* [@wood:1991:democracy]
+ - The term really only appears in *Evolutionary Love* and is not really revisited by the later Peirce, in contrast to pragmatism and semiotics, which continue to be revisited.
+
+Peirce identifies the same weakness with Hegel as Apel did:  the tendency to see evolution as a sort of 'necessity'.  In *Evolutionary Love*, Peirce states:
+
+> The Hegelian philosophy is such an anancasticism. With its
+revelatory religion, with its synechism (however imperfectly set forth), with its "reflection," the whole idea of the theory is superb, almost sublime. Yet, after all, living freedom is practically omitted from its method. The whole movement is that of a vast engine, impelled by a *vis a tergo*, with a blind and mysterious fate of arriving at a lofty goal. I mean that such an engine it would be, if it really worked ... If we use the one precious thing it contains, the idea of it, introducing the tychism which the arbitrariness of its every step suggests, and make that the support of a vital freedom which is the breath of the spirit of love, we may be able to produce that genuine agapasticism at which Hegel was aiming.
+
+In his *Rejoinder to Dr. Carus*, Peirce states:
+
+> Socialistic, or as I prefer to term it, agapastic ontology seems to me likely to find favour with many minds at an early day, because it is a natural path by which the nominalist may be led into the realistic ways of thought, ways toward which many facts and inward forces impel him [@peirce:1931:collected, 6.610]
+
+> The movement of love is circular, at one and the same impulse
+projecting creations into independency and drawing them into harmony [@peirce:1931:collected, 6.288]

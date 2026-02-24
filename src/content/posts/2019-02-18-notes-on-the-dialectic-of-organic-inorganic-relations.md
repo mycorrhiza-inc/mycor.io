@@ -1,0 +1,41 @@
+---
+author: Brad Venner
+date: '2019-02-18'
+draft: true
+title: notes on the dialectic of organic/inorganic relations
+---
+
+Foster and Burkett [@foster:2000:dialectic] address a key notion from Hegel's philosophy.  This is an early paper, appearing around the publication of both of their foundational 'ecological Marxism' analyses.
+
+The notion of a dialectical relationship between nature and spirit is a commmon theme in some of Foster's later writing. Ikahemi proposes that 'concrete freedom' is the essence of spirit in Hegel's philosophy and that this concept plays a key role in mediating spirit and nature.  Biosemiotics places the semiotic threshold at the organic/inorganic divide and identifies the organic with life.  Rosen develops his neo-Aristotelian views of the emergence of life.  Alexander proposes that 'second nature' can be made more living through the innate sense of order that all life, including humanity, possesses, which appears as feeling in humans.
+
+The paper begins with:
+> Cartesian science and dualism philosophy, gave to between Western the thought an enduring split realm between science and philosophy, between the physical-mechanical realm of science, on one hand, and the metaphysical realm of pure reason on the other.
+
+Another favorite dualism, between science and philosophy.  I'd like to develop this theme as an essay *Dr. Scientism and Mr. Capitalism*, following up on Deely's suggestion of the split between science and philosophy but with a Marxist twist.  Which reminds me, this book has to be near the top of my list!
+
+Foster points to the Cartesian split within ecology, between a science of ecology that deals with organisms and their environment, and a philosophy of ecology that points to greater holism, and the difficulty with reconciling them.
+
+That Cartesian dualism originated in nominalism is a key Peircean point.  Foster suggests that German idealism was a key move to overcome this split.  Deely would suggest that Kant merely systematized this dualism (which seems to be a widely held suspicion) but holds that Hegel may have overcome
+
+Marx seems to identify organic/inorganic with spirit/nature, which would be a mistake from a Hegelian point of view.  Clark points to this as a weakness in Marx.  Arthur points to the failure of Hegel's philosophy of nature to end in an 'absolute' as a fundamental weakness in Hegel (i.e. that being and spirit end in an absolute but nature ends in 'death'.  Arthur suggests that a notion such as 'Gaia' would be a better notion of the absolute.  Peruzzi suggests that concepts originate in sensori-motor processes through something like a lifting process, which would be closer to Deely's notion of semiotic animal)
+
+Foster quotes Val Routley (later Val Plumwood) as that nature as the *body* of man can:
+
+usefully be seen as the product of Marx’s well-known transposition of God’s features and role in the Hegelian system of thought onto man. . . . Thus Marx’s theory represents an extreme form of the placing of man in the role previously attributed to God, a transposition so characteristic of Enlightenment thought. (pp. 239-240)
+
+This reminds me of the 'critical theology' view of Marx's development by van Leeuwen.  Foster considers these themes in a [later essay](https://monthlyreview.org/2008/10/01/marxs-critique-of-heaven-and-critique-of-earth/)
+
+> in his later writings, tended to refer less frequently to the dialectic of organic/inorganic relations as such and emphasized rather the notion of the "metaboloic" relations between humanity and nature.
+
+> If nature remained “man’s inorganic body,” this human-natural dialectic was now, in new and more complex ways, conceived as arising out of a coevolutionary process (see Foster, 2000, pp. 141-177)
+
+Sustainability as coevolution of nature and man.
+
+> What needed to be explained was the severing of this unity—the alienation of human beings from nature or what Marx was later to call the “rift” in the metabolism connecting human beings to nature.
+
+Does Marx's identification of nature with 'inorganic body' and spirit with 'human' correspond with Decartes body/mind division?  Does Hegel?  It seems like one of the strengths of Hegel is his embodied notion of spirit, which coevolves with it's objective conditions, but is this too much retrojection of later concepts?  Are we stuck with a materialism/idealism dualism?
+
+Marx seems to identify the human with 'essential self-consciousness'.  
+
+The 'systematic dialectic' approach to Hegel attempts to address the notion that logic develops prior to nature and spirit.  In other words, the presentation of Hegel's system is systematic rather than historical.  This systematic presentation bears some resemblance

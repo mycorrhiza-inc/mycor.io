@@ -1,0 +1,24 @@
+---
+author: Bradley Venner
+date: '2020-03-11'
+draft: true
+title: Thoughts on Word Order
+---
+
+In the shadow of the end of the Democratic primary, a major question is whether if Sander's used different tactics he could have won.  Would a campaign based on 'social democracy' have been more effective than one based on 'democratic socialism'?  Why are these different things?  This battle has been fought for years, and it would be interesting to better know the history of the evolution of the terms.  But does it basically boil down to the role of adjective and noun? English places the adjective prior to the noun, so in the phrase 'blue pen,' can one imagine different colors of pens more easily than different blue objects?  The subject is 'pen' and the predicate is 'blue'.
+
+So by analogy, in 'social democracy,' the subject is 'democracy' and the predicate is 'social.'  The invariant subject is modified by the transient property.  In 'democratic socialism', the subject is 'socialism' and the predicate is 'democratic.'  The subject 'socialism' brings to mind the totalitarian socialism of the 20th century.  
+
+My own acceptance of the term/subject 'socialism' came after a long process of reading and thinking, with David Ellerman and Michael Hudson's work being key turning points.   
+
+There is widespread agreement on the importance of democracy in the United States, but it comes with a liberal bias towards individualism and nominalism.  The pragmatic move towards realism led to Peirce's emphasis on science and Dewey's emphasis on democracy, which moved democracy from aggregation of individuals to true association.  Could the reconciliation of liberalism and socialism be through realism?  
+
+So if the lesson is to choose the more widely accepted term as subject, what does this say about 'energy democracy' and 'democratic energy?'  Since the notion of 'energy transition' is more widely accepted, that is where 'democratic energy transition' places the emphasis.  
+
+A deeper question is the means/end question that democratic/democracy embodies, respectively.  The 'subject' form signifies the end role, while the adjective the means.  
+
+As far as I know, Goguen's work on algebraic semiotics is the most systematic discussion about word order and conceptual blending.
+
+Cocke's Oxford group is also doing work on conceptual frameworks.  Dan Marsden's work, in particular, seems very pointed towards reconciliation of language and reality by looking at common mathematical structures that help explain both.  His work on linguistics has a strong resemblance with Peirce's graphs, with verbs playing the role of 'rhemes' with points of attachment for nouns.
+
+Finally, could the enneagram be approached from a semiotic viewpoint?  The three groups of three approach doesn't seem to support the interconnections between the different traits.  There might be some interesting connections with Hegelian mysticism - does the enneagram diagram appear in the Hermeticism within which Hegel was working?

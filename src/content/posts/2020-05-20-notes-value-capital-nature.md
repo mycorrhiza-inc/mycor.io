@@ -1,0 +1,8 @@
+---
+author: Bradley Venner
+date: '2020-05-16'
+draft: true
+title: Notes on value, capital and nature
+---
+
+This Ph.D. thesis was written by Elke Pirgmaier.  It takes it's title from an early essay from Paul Burkett.  After briefly reviewing this, I was able to obtain two of Burkett's books - *Marx and Nature* [@burkett:1999:marx] and *Marxism and Ecological Economics* [@burkett:2006:marxism].  I read the first and most of the second, and now I'm ready to return to this thesis.  Perhaps its the fact that the hendiatris partially corresponds to *ecology, society, semiotics*.  

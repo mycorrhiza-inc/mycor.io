@@ -1,0 +1,10 @@
+---
+author: Brad Venner
+date: '2019-01-11'
+draft: true
+title: Back to Mirowski
+---
+
+Since Nick is taking AP Macroeconomics this semester, it seems like a good time to really understand Mirowski's derivation of the analogy between "energetics" in 19th century physics and neoclassical economics.  Even better, could I also understand Longo's evolutionary economics model with it's un-pre-stateable phase space?
+
+Mirowski has a couple papers online that discuss parts of this development.  However, it looks like the go-to discussion is the book *More Heat Than Light*.  In [mirowski:1992:economists],

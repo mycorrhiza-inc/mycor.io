@@ -1,0 +1,38 @@
+---
+author: Brad Venner
+date: '2022-09-29'
+draft: true
+title: Thoughts on Pragmatism, Logic, Cognitive Science, Social Psychology
+---
+
+# Reinforcement learning
+
+Classical pragmatism ranges over Dewey, Peirce, James
+
+Other pragmatists may increase in importance for connecting cognitive science with pragmatism, since cognitive science appears as a separate discipline only after WW2. 
+
+The link between logic and cognitive science is addressed broadly and is not restricted to self-identified pragmatists. Logic has usually been understood to have a normative component within philosophy, although mathematical logic has a more ambiguous status as a normative discipline. Cognitive science endeavors to be "value neutral".
+
+Small logic (mathematical logic) and big logic (theory of inquiry). Dewey's notion of logic as the theory of inquiry is social almost by definition. 
+
+> Over the past half century, the fields of psychology and artificial intelligence (AI) have jointly developed
+a normative theory, known as reinforcement learning (RL), that is founded on the reward hypothesis
+[2]. 
+
+Reinforcement learning (RL) may be a boundary object between these two fields. On the logic side, Warren Powell clearly identified reinforcement learning as a essentially the same as "stochastic optimization" (hence, the title of his book), giving RL a strong unified mathematical framework. Recent advances in categorical probability may eventually unify this theory with categorical logic. Jacobs highlights the lack of unity while expressing hope that they can be reconciled. Categorical cybernetics has made strides in formalizing RL within optics.
+
+Jeuchems states that the "reward hypothesis" as 
+> the environment furnishes reinforcement signals that indicate the likely costs or benefits of an action, and assume that these signals can be directly sensed by the agent, allowing them to behave in ways that maximise utility over the short or long term.
+
+Reinforcement learning within cognitive science. Juechems' review article [juechems:2019:where] (appearing in **Trends in Cognitive Science**) describes the "reward paradox" that exists when the "scalar" of reward in RL is also received from the senses and thus "must be inferred by the agent, not conferred by the world". They discuss a variety of lines of experimental evidence that cast doubt on the "reward hypothesis", and propose a more general mechanism.
+
+Juechems develops a variation on reinforcement learning that they call "homeostatically regulated reinforcement learning". This seems to be a multi-dimensional generalization of reinforcement learning, with the notion of metric used to compare the distance between points in a multi-dimensional space, a multi-dimensional internal state, and a map between sensory input and internal state. Goals are represented as a point in this space, and value is the change in distance between the current state and the next state.
+
+I'd be somewhat surprised if HRRL is anything close to novel in the stochastic optimization literature, and I'm guessing that it corresponds to one of Powell's four classes of solution strategies.
+
+## Active inference
+
+Karl Friston has proposed active inference as an alternative to reinforcement learning that can reproduce the results of policies selected by RL [@friston:2009:reinforcement]
+
+
+

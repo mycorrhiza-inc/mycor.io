@@ -1,0 +1,39 @@
+---
+author: Brad Venner
+date: '2019-02-06'
+draft: true
+title: Notes on I that is We
+---
+
+# Hegel on Social Ontology and the Possibility of Pathology
+
+> The paper’s primary focus is the type of social pathology in which human subjects fail to ‘endure’, or negotiate, the fundamental opposition between spiritual and merely animal life or, in other words, fail to unite their ends as living beings with the loftier end of freedom.
+
+Peirce's early development of his categories labeled them "I-It-Thou", which stressed the inter-subjective dimension.  He later generalized these names to their more abstract notions.  This fits Deely's explanation of relation, in which a relation in general may be supra-subjective, with intra-subjective being one of its modes of being.
+
+Perhaps entitling my project as 'categorical dialectics and semiotics' would avoid giving primacy to Peirce or Hegel.  A good example could be Hegelian Marxism, where a number of different mappings between Hegel and Marx have been proposed.  
+
+> I will argue here that thinking of spirit as aufgehobenes Leben implies that an essential feature of spiritual entities, including human societies, is that they incorporate life, which they do in three distinct ways (to be specified later). (p 51)
+
+> Doing social ontology in a Hegelian vein, then, will entail explaining: first,
+what life is for Hegel; second, what must be joined to life for spirit to be pres-
+ent; and, third, how human societies unite processes of life with those func-
+tions that distinguish spiritual beings from their merely living counterparts. (p. 51)
+
+Capitalism as the realization of abstract freedom, socialism as the realizization of concrete freedom.  The link between abstract freedom and nominalism.  The 'end' of science as concrete freedom.  Following Arthur, capitalism proceeds from 'nothing', it is a spectre, it is the opposite motion from science.
+
+> this constitutes the third sense in which spiritualized social activity
+‘incorporates’ life: its characteristic activities unite the ends of living beings
+with the loftier end of freedom.
+
+> Because Hegel lived in the nineteenth century rather than ours, it never occurred to him that a society might organize production such that it systematically undermined the environmental conditions of future life. But since the reproduction of life is an important end of society, there is room in his theory to recognize that scenario, too, as social pathology.
+
+>  In each case the essential property of self-consciousness, its being undetermined by anything external, is taken to consist in what will eventually be shown to be a deficient, one-sided relation to life, in which a subject asserts its freedom by proving itself not to have any essential relation to life, thereby demonstrating its elevated status in relation to the merely living.
+
+If this does not describe abstract freedom, I don't know what does!
+
+>  The two moments of the reproduction of life---production and consumption---are torn apart, each ascribed to one of the relation’s opposing poles: the bondsman labors while the lord enjoys, and in doing so each at the same time relates to the other in the mode of recognition.
+
+This seems like a better way do define 'dissociation' than Rueten's distinction between the family and the factory.
+
+Trump is capitalism's pathology personified.

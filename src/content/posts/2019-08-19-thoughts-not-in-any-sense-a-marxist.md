@@ -1,0 +1,16 @@
+---
+author: Bradley Venner
+date: '2019-08-19'
+draft: true
+title: Thoughts-not-in-any-sense-a-marxist
+---
+
+Elizabeth Anderson, the former chair of the Philosophy Department at the University of Michigan, said on the Aug 19, 2019 episode of the Ezra Klein show, stated that she "was not in any sense a Marxist".  Of course, the meaning of this statement is sketchy, but it does remind me of several pragmatist philosophers that want to distance themselves from Marx in particular or "Marxism" more generally.  Cornell West and Roberto Ungar come to mind.  I don't have the citation, but Dewey was critical of Marxism as well.  For my [pragmatic ecosocialism](http://github.com/bvenner/pragmatic-ecosocialism) project, I would like to better understand if there is any meat behind these complaints, and to what extent they are critical of Marx or "Marxism?"  Since even Marx denied being a Marxist, perhaps Marx's theory can be understood without embrace of a dogmatic Marxism.
+
+Anderson identifies herself as an 'anti-Marxist' in a [3AM magazie interview](http://www.3ammagazine/3am/the-new-leveller/), but connects this to historical Marxism rather than Marx.
+
+The wikipedia page for [False Necessity](https://en.wikipedia.org/wiki/False_necessity) discusses Marx as a 'deep structure theorist', which Ungar attempts to overcome with his project.
+
+According to Moreno & Frey [@moreno:1985:dewey], Dewey blamed Marx for Stalinism due to two philosphical errors in Marxism:  one the relationship between revolutionary means and ends and the other the relationship between man and nature.
+
+On The Dig podcast with Bhaskar Sunkara, he stated that we needed "a thoughtful reconciliation of socialist and liberal thought".  I believe that pragmatism is a good place to start in effecting this reconciliation.

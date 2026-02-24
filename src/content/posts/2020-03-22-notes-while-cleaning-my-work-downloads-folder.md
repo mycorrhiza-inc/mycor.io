@@ -1,0 +1,18 @@
+---
+author: Bradley Venner
+date: '2020-03-22'
+draft: true
+title: Notes while cleaning my work downloads folder
+---
+
+I'm going through my downloads folder and cleaning up and renaming papers so that they are all on my Zotero Google drive.  This means opening up unnamed files and encountering all sorts of articles that are more interesting than doing the renaming.  So I'll write down a list of articles that seem most compelling to my project.
+
+Two articles by Lawvere look important.
+
+In [@lawvere:2016:everyday], Lawvere develops a categorical analysis of functionals and says that statistics is a major user of functional analysis.
+
+In [@bilil:2017:named], an engineer from NIST outlines how named data networking is a good match for the smart grid.
+
+In [@ehresmann:2006:memory], Rosen's work is developed with the category theoretic setting of memory evolutive systems.  It would be interesting to compare this with [@hauhs:2015:scientific], which uses categorical ideas to develop other aspects of Rosen's work.
+
+[@ehresmann:2006:memory] tries to extend MES to natural philosophy in general, which reminds me of Lawvere's advocacy of category theory for this role, Longo's theory of organisms, and Peirce's guess at the riddle.

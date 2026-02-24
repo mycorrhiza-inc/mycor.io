@@ -1,0 +1,10 @@
+---
+author: Bradley Venner
+date: '2019-02-05'
+draft: true
+title: Notes on Hegelian Resources for Contemporary Thought
+---
+
+This beautiful essay by Italo Testa [@testa:2016:hegelian], was written as an introduction to the book ["I that is We, We that is I", @testa:2016:I], places the Hegelian revival in historical context.  It mentions many authors I've never heard of, but also covers critical theory and analytical pragmatism and Hegel's influence in both projects, so names like Honneth, Bramdon and Redding appear.  
+
+Testa mentions the need to revisit Hegels' philosophy of nature.  A good project would be to revisit Rosen's *Life Itself* from within the Hegelian system.  Much of Rosen's use of category theory could be reinterpreted within MoHoTT with links to Hegel, and his view of life as a type of closure might work well as a way to understand life as system.  I'd particularly like to follow-up with Arthur's intriguing suggestion that Hegel's philosophy of nature should close with an absolute, such as Gaia, rather than death.   

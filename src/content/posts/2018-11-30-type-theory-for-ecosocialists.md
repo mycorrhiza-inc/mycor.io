@@ -1,0 +1,30 @@
+---
+author: Bradley Venner
+date: '2018-11-30'
+draft: true
+title: Type theory for ecosocialists
+---
+
+It's tempting to use the subtitle 'Type theory for ecosocialists' for my 'categorical semiotics' project.  Formally, intuitionistic type theory can be used as the internal logic for a topos, esp. a homotopy topos, so in abstract the category theory side is covered. To understand this link, I need to really get this distinction.
+
+The nlab link to 'internal logic' goes directly to 'internalization'.  As usual, nlab relies upon non-intuitive examples from general mathematics to develop its examples.  Longo's *Categories, Types and Structures* [longo:1991:categories] develops this "internal language" or "internal logic" point of view.  
+
+Would it make more sense to proceed more directly from category theory to a Peircean/Hegelian/Poinsotian understanding of logic than to use "type theory" as an intermediate step?  If I took this route, I could still establish links to 20th century mathematical logic and analytical philosophy, but not spend too much time on it.  It might make more sense to focus on "theoretical grammar" from a category theory perspective (which is almost an identity in the sense of category theory as a universal grammar within mathematics and an increasing number of publications in 'categorical linguistics'), and then branch out to programming languages and the notions of "types", then finally to 20th century mathematical logic.  This seems to be the approach that Lawvere took in "Sets for Mathematics" and perhaps in "Conceptual Mathematics".  Since the intended audience of this course series presumably already has some interest in Marx, there may not be as much need to focus on analytic philosophy.
+
+What is a 'type' within the context of semiotics?  The notion of a 'type' is closely related to a 'natural kind' in many ways.   Peirce developed a type/token/tone distinction as one of his many triadic classifications.  Wikipedia identifies this trichotomy with [qualisign, sinsign and legisign](https://en.wikipedia.org/wiki/Semiotic_theory_of_Charles_Sanders_Peirce#I._Qualisign,_sinsign,_legisign).  This trichotomy arises from the phenomological modal categories applied to the sign, or the modes of possibility, actuality and generality. Thus, a 'type' is "a general idea, a norm or law or habit".   This trichotomy is one of three trichotomies in the 1903 semiotic classification (the other two are icon/index/symbol and rheme/dicisign/argument) that gives rise to the 10 classes of signs.  I've already noted the similarity of the 10 classes of signs and the structure of the category of categories.  So does this argue for a direct development of categorical semiotics without the intervening language of 'intuitionistic type theory'?  
+
+On the other hand, it seems necessary to study ITT as a precusor to MoHoTT, as a precursor to Schneider's intepretation of Hegel.  But shouldn't a serious study begin with Lawvere's work?
+
+Signs, semiosis, semiotics - grammar, critic, rhetoric.  
+
+Poinsot organizes his material logic around the three operations of the intellect - apprehension, judgement and reasoning.(https://www.ontology.co/semiotics-ontology.htm)
+
+The first part (formal logic as apprehension) treats terms, propositions and syllogisms.  The online resource does not   
+
+The other question implicit in 'type theory for ecosocialists' is the relationship between logic and metaphysics.  Are there philosophical committments made in type theory that are consistent with ecosocialism, and are these philosophical commitments prior to logic?  If so, can prior knowledge gained in the study of ecosocialism be used to better understand semiotic?  Or from a methodological perspective, should I be working on one or the other first?  My current approach, which is to dabble in all areas, may not be converging.
+
+Use of this subtitle would be an explicit terminological link to 'agapastic ecosocialism,' so perhaps its best kept as an internal working title.  One of the strengths of semiotics is that it has a notion of separation of concerns without making an explicit commitment to 'actual' separation of knowledge.  So the 'formal' aspects of logic (aka theoretical grammar) and the 'material' aspects of logic (aka metaphyics) aren't completely independent.
+
+Perhaps one place to start would be to bring out the relationship between nature and society, since this is a central theme of both 'ecological Marx' and semiotics.  Deely quotes Sebeok that semiotics stands 'at the intersection of nature and culture.'  But Deely's Venn diagram  model here seems flawed.  Wouldn't it be better to think of lifting the dichotomy of nature and society as a union of opposites?  There is still the notion of 'inter-action' but not 'product' (i.e. interesection as product in the category of sets).  Poinsot's solution is in the analysis of relation as a mode of reality that is 'indifferent to the opposition of what depends upon and what is independent of cognition.'  
+
+Using the working model of adjunction as proposition (perhaps using Ellerman's profunctor model of adjunction as a generalized relation)

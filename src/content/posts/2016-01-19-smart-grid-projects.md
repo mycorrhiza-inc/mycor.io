@@ -1,0 +1,8 @@
+---
+author: Brad Venner
+date: '2016-01-19'
+draft: true
+title: Thinking About Smart Grid Projects
+---
+
+So what contribution can a lowly applied statistician working within an unrelated government agency with an interest in applied category theory make to development of the smart grid?  One possibility would be to focus on parallels between statistics and distributed control, where the decision-related aspects of the problem are similar.

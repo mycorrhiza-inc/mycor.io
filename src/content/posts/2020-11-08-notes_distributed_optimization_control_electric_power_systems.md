@@ -1,0 +1,13 @@
+---
+author: Bradley Venner
+date: '2020-11-08'
+draft: true
+title: Notes on Distributed Optimization and Control Algorithms for Electric Power
+  System
+---
+
+This review paper [@molzahn:2017:survey] was cited by Bernstein & Dall’Anese [@bernstein:2019:real].  Stephen Low from CalTech was one of the coauthors.
+
+The dimension of the network admittance matrix Y is unclear.  The notion of 'bus' implies a multi-graph rather than a graph.  I know how to go from graph to matrix, but I don't understand how this is defined.
+
+Wikipedia has an entry on a 'nodal admittance network', which defines the network connecting the buses.   

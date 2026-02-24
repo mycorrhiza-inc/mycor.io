@@ -1,0 +1,17 @@
+---
+author: Bradley Venner
+date: '2019-04-26'
+draft: true
+title: Notes on measurement in biology is methodized by theory
+---
+
+I opened this article [@montevil:2019:measurement] by Monte&#769;vil immediately after I received an e-mail notificaiton from ResearchGate, as from it's title its a very important article in my categorical metrology project, and Montevil's work with Longo on theoretical biology is important, even if I haven't figured out how it fits yet.  
+
+He quotes Einstein:
+> whether you can observe a thing or not depends upon the theory which you use.  It is the theory which decides what can be observed.
+
+This is an 'ideoscopic' claim, to use Peirce's terminology, in the sense that special observation requires some form of construction.
+
+Aside:  how are introduction and elimination rules in logic related to preparation and measurement rules in science?  A Baez paper discussed the braket notation as preparation and observation.  I believe that prepration proceeded from the unit and observation 'collapsed' to the unit.  Paul Taylor had a nice dicussion in an online forum about how logical introduction and elimination rules could be interpreted as the natural transformations defining the unit and counit of an adjunction.  (how would I re-find this discussion - it was on substitution)
+
+In looking for Taylor's article I looked at his paper "Towards a unitied treatment of induction" [@taylor:1996:towards].  He refers to category theory as 'the diagrammatic tradition' in contrast to the 'symbolic tradition'.  Taylor also states that Lawvere's ambition was 'to do set theory without elements'.  

@@ -1,0 +1,14 @@
+---
+author: Brad Venner
+date: '2019-03-10'
+draft: true
+title: notes on hegel's theory of the syllogism
+---
+
+This is an older paper from Tony Smith [@smith:1988:hegel-s], which discusses Hegel's theory of the syllogism and it's relevance for Marxism.  It is a natural complement to Redding's paper comparing Peirce and Hegel's work [@redding:2003:hegel].
+
+On page 3, Smith outlines a mapping of different social theories that resembles Peirce's categorization of metaphysics.  He attributes this map to Hegel but does not give a reference.  Instead of firstness, secondness and thirdness we have particularity, individuality and universality in the forms of civil society, individuals and the state.  Political theory emphasizes civil society is social contract theory, individuals is methodological individualism, and the state would be Platonic political idealism.
+
+Mapping from Hegel to Peirce, Hegel's theory of the syllogism maps to Peirce's logical categories of abduction, deduction and induction, as discussed by Redding [@redding:2003:hegel].  Smith also mentions that these figures map to Aristotle's figures of the syllogism.
+
+Within Smith's Hegelian framework, identity politics is called the politics of particularity.

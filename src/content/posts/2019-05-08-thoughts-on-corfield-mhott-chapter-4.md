@@ -1,0 +1,22 @@
+---
+author: Bradley Venner
+date: '2019-05-08'
+draft: true
+title: Thoughts on Corfield MHoTT Chapter 4
+---
+
+Corfield develops a general story of the relationship between the quantifiers and modality.
+
+Corfield quotes from Brandom's book *From Empiricism to Expressivism*, which I should add to my reading list.  I think in particular that if I'm teaching this book, then this would be a good supplement.  
+
+Aside:  I deeply respect Brandom's commitment to providing preprints of his books and articles on his website!  This fact alone should make him one of my favorite philosophers.  Additionally, he takes both Hegel and Peirce seriously, although some argue that he doesn't take Peirce seriously enough.
+
+Catherine Legg wrote a paper comparing Peirce and Brandom on inferentialism and argued that Peirce had the stronger conception, which she called hyper-inferentialism.  However, Bramdom's book is later than the Legg paper, so he may have modified his position a little.
+
+The notion of possibility as monad seems to fit in well with the analysis of sequential decisions by Ianescu, where a modal operator allows the sequential decision problem to depend upon a variety of different models of possibility, including probability.
+
+The potential for possibility as lifting is hinted at on p. 25.  Corfield quotes Curry's notion of possibility as
+
+>in some stronger (outer) theory, $\phi$ holds
+
+But making this rigorous would require a much more detailed notion of the concept of lifting outside of it's cool-sounding name and Peircian resemblance.

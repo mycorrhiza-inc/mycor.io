@@ -1,0 +1,16 @@
+---
+author: Brad Venner
+date: '2018-03-26'
+draft: true
+title: Dynamic epistemic logic in modal homotopy type theory
+---
+
+# Dynamic epistemic logic in modal homotopy type theory (MHoTT)
+
+1. Dynamic epistemic logic is used to formulate multi-agent models
+2. Dynamic epistemic logic is used to formulate Peirce's abductive logic [@Ma:2018:Let] 
+3. MHoTT is used to formalize Hegel's logic
+4. Hegel's Science of Logic has been formalized in MHoTT
+
+
+Conclusion:  Developing dynamic epistemic logic within MHoTT could be used to help formalize a Hegelian/Peircean social philosophy.  

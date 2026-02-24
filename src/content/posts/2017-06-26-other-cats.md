@@ -1,0 +1,58 @@
+---
+author: Brad Venner
+date: '2017-06-26'
+draft: true
+title: Some other category theory approaches
+---
+
+##Local mathematics and the community of interpretation
+
+Bell's model of 'local mathematics,' formulated within topos theory using admissible transformations, bears a passing resemblance to Apel/Royce/Peirce's notion of a 'community of interpretation.' Apel in particular discusses the attempt to ground inter-subjective validity using set theory. He accuses this approach as 'methodological solipsism' in that the Kantian solipsistic subject is reformulated as a methodology.
+
+Both Bell and Apel attack the absolutist formulation of set theory. Bell's demonstration of local mathematics shows that the development of alternate models of set theory is grounded on his general framework of admissible transformation - logical functor.
+
+Can Apel's critique of 'methodological solipsism' be harmonized with Bell's critique of 'absolute mathematics,' and can this understanding be used to extend the analogy between 'local mathematics' and the 'universe of discourse'.
+
+##Local mathematics and modal homotopy type theory
+
+Bell and Schreiber. Bell's model of categorical dialectic is different from Schreiber's. Bell uses "admissible transformations," formulated as an adjunction, to pass to the opposite, and the return uses a "logical" functor.
+
+>Thus the action of negating negation in this sense transcends admissibility - Bell, p. 420
+
+On the other hand, Schreiber's model of dialectic uses fully faithful functors and left and right adjoints to these functors within homotopy type theory.
+
+How are these models related? Is one more general than the other?
+
+##All signs are arguments, but not all signs are signs of arguments
+
+A paraphrase of Apel's argument:
+
+Discourse ethics attempts to ground ethics on an inter-subjective notion of argument. All thought is in signs is translated to all thought is dialogue with oneself, so that all thought is argument. Thus, acceptance of semiotics as argument leads to reflection upon argument and leads to a transcendental foundation: what is the inter-subjective basis for argument that all who argue must accept?
+
+## Notes on Peruzzi, 2007
+
+Found this paper doing a forward search on Bell, 1986
+
+### Formulation of philosophical questions within the linguistic turn
+
+Where does meaning come from ->  how should the notions of reference and truth be formalized -> logicism (Frege's legacy)
+
+Where does knowledge come from ->  what is the semantic relation between theoretical terms/sentences and observational terms/sentences -> formalism (logical empiricism).
+
+Where does mind come from ->  what is the computational architecture of the language-of-mind -> intuitionism (computational paradigm).
+
+### Category theory alternative
+
+logicism -> take basic meaning patterns as based on geometry rather than logic -> conceptual tools that favour the advance towards a systematic theory of meaning
+
+formalism -> looking at a scientific theory as part of the same world of structures it 'represents' -> a more stable notion of what the structure of a scientific theory consists of
+
+intuitionism -> mind as a heirarchy of fine-tuned interacting dynamical systems -> bodily roots of knowledge (or the roots of knowledge in sensation, in a more Aristotelean frame).
+
+Note the logic, physics, psychics parallel!
+
+### 1971
+
+Although Apel and Deely point to Peirce as the dawning of the next age of understanding, Graeber points to 1971 and the movement of the US off the gold standard as the starting point.  This is an interesting year to begin because it is often viewed as the beginning of the neo-liberal era.  It would be interesting to trace the roots of several intellectual movements that were beginning around this same time that I now view as fundamental - intelligence augmentation (Englebart), transcendental pragmatics and discourse ethics (Apel), categorical logic (Lawvere) - as the beginning of intellectual tools for the next age.  Probably need a law, politics and economics aspect.
+
+I'd love to write a book in this vein that was as engrossing as James Gleick's Chaos was to me.

@@ -1,0 +1,12 @@
+---
+author: Brad Venner
+date: '2017-06-28'
+draft: true
+title: Semiotics of accounting
+---
+
+## Semiotics of accounting
+
+Reading *A Framework for Triple-Entry Bookkeeping* by Ijiri.  This work is Peircean down to it's core.  This approach promises to be the missing link between my Categorical Semiotics and Semiotics of Money projects.
+
+The two interpretations of triple-entry bookkeeping (momentum accounting and blockchain mediation) have analogies in semiotics.  The past/present/future distinction drawn by Ijiri has deep parallels with Peirce.  If I recall, Peirce has discussions of thirdness in mechanics that are close to Ijiri's.  The blockchain interpretation is closer to the notion of 'mediation' of the sign between utterer and interpreter.  This idea appears throughout Peirce.  It is more like the notion of semiotics as argument that appears in Apel's work.  I'm not sure these slightly different interpretations have really been resolved within semiotics.  I believe that they could be resolved within categorical semiotics, but without much evidence.

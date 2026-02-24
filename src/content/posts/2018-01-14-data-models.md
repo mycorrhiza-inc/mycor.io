@@ -1,0 +1,10 @@
+---
+author: Brad Venner
+date: '2018-01-14'
+draft: true
+title: Modeling Data Models
+---
+
+Can AQL be used for practical data integration problems?  In my review on Friday of some cloud-based data analysis platforms (i.e. Apache Spark), it's quite clear that current data science frameworks have data integration capabilities.
+
+So Apache Spark could be viewed as a generic data integration tool.  It's described [here](https://intelligentinsight.wordpress.com/tag/spark-data-modeling/) as 'a  distributed SQL Engine framework that allows Joining of several data sources such as Hadoop Files, Hive, Cassandra,JDBC/ODBC data sources and others.'

@@ -1,0 +1,63 @@
+---
+author: Brad Venner
+date: '2022-09-06'
+draft: true
+title: Notes on Lean Production and Viable Systems
+---
+
+The actual title of this article is "Decoding the Japanese Lean Production System According to a Viable Systems Perspective".  The first author is an associate professor of marketing at the University of Polermo. Looking through his Google Scholar page, this article seems to be a bit of a one-off on lean production systems, although he has published a few other articles on cybernetics.
+
+# Statistical quality control and cybernetics
+
+This question can be generalized to a comparison between quality control and cybernetics. Both disciplines have roots in pragmatism. Shewart's work on statistical quality control directly cited C.I. Lewis. Deming worked directly with Shewart and (if I remember correctly) cited Lewis in his single-author work. 
+
+One difference between statistical quality control and cybernetics is that the latter focuses on stochastic processes, while statistical quality control seems to focus on fixed parameters, with control charts used to test hypothesis that the present parameter was still consistent with the observed data. 
+
+Lewis studied with Josiah Royce at Harvard and received his doctorate in 1910. Wiener had intended to study with Royce but the latter's illness prevented it. Instead, he obtained his doctorate under Karl Schmidt in 1913. 
+
+Is it meaningful that Royce undertook a more serious study of logic at the urging of Peirce?
+
+Wiener has more indirect connections with pragmatism. He worked directly with Dewey for a year and published a philosophical article on "relativism" that reference pragmatism, but never claimed to be a pragmatist.
+
+The standpoint of first-order cybernetics seems to be a hylomorphic one, with a controller resembling a soul and a controlled system a body. Second-order cybernetics attempts to overcome this 
+
+# Classification of Systems Theories
+
+I have read a large number of systems approaches, plus aligned projects such as semiotics, pragmatism, socialism, etc. Some are:
+
+1.  Anticipatory systems (Rosen)
+2.  Viable systems (Beer)
+3.  Quality management systems (Various)
+4.  Living systems (Alexander)
+7.  Batesonism (Bateson)
+8.  Theory of inquiry (Dewey)
+9.  Pragmatism (Peirce)
+10. Capital (Marx)
+11. Enactivism (Varela, Thompson)
+12. Complex adaptive systems (Santa Fe)
+
+There are also a number of approaches to systems using category theory.
+
+1. Categorical systems theory (Goguen)
+
+Goguen, Joseph. Mathematical Representation of Hierarchically Organized Systems. In E. Attinger (editor), Global Systems Dynamics, pages 112–128. S. Karger, 1971.
+
+Goguen, Joseph and Susanna Ginali. A Categorical Approach to General Systems Theory. In George Klir (editor), Applied General Systems Research, pages 257–270. Plenum, 1978.
+
+FRANCISCO J. VARELA and JOSEPH A. GOGUEN. THE ARITHMETIC OF CLOSURE, Journal of Cybernetics, 8:3-4, 291-324, 1978. DOI: 10.1080/01969727808927587
+
+Goguen, Joseph. Objects. In International Journal of General Systems, Vol 1, Issue 4, pages 237-243.
+
+Goguen, J. (1991). A categorical manifesto. Mathematical Structures in Computer Science, 1(1), 49-67. doi:10.1017/S0960129500000050
+
+2. Categorical systems theory (Myers)
+3. Categorical cybernetics (Hedges)
+4. Polynomial functors (Spivak)
+
+Some other systems thinkers I'd like to read.
+
+5.  Active inference (Friston)
+6.  Tektology (Bogdanov)
+7.  Social systems (Luhmann)
+8.  General systems (von Bertalanffy)
+9.  Auotopoietic systems (Maturana & Varela)

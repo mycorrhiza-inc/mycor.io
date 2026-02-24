@@ -1,0 +1,16 @@
+---
+author: Brad Venner
+date: '2017-08-08'
+draft: true
+title: On the gap between public and private
+---
+
+[Suzy Hansen quoting James Baldwin](https://www.theguardian.com/us-news/2017/aug/08/unlearning-the-myth-of-american-innocence)
+
+>But I have always been struck, in America, by an emotional poverty so bottomless, and a terror of human life, of human touch, so deep, that virtually no American appears able to achieve any viable, organic connection between his public stance and his private life
+
+Apel attributed the gap between the public and private as the working philosophy of the West, with a pragmatic scientific-technical public philosophy and a private existential philosophy. In this division there is no room for ethics, which is eschewed by the objective scientific philosophy and denied by the existential philosophy.
+
+## Grounding the quality movement in semiotics
+
+Deming and Shewhart based the Shewhart cycle on their reading of C.I. Lewis. Could a more explicit appeal to the scientific method qua transcendental semiotics be used to develop a new approach to organizations. What would this look like?

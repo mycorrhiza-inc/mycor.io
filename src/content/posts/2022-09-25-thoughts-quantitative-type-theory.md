@@ -1,0 +1,11 @@
+---
+author: Brad Venner
+date: '2022-09-25'
+draft: true
+title: Thoughts on Quantitative Type Theory
+---
+
+Jacques Carette's [YouTube lecture](https://www.youtube.com/watch?v=VQiQtH47pbM) on what he learned about category theory by formalizing it in Agda, which is based on Martin-Lof type theory, was (recommended)[https://twitter.com/bgavran3/status/1573263845044506625] by Bruno Gavranovic on Twitter.
+
+Carette uses setoids in their formulation of category theory, so that technically the formulation is of setoid-enriched category theory. The additional level of an equivalence relation over the hom-set of morphisms. Carette refers to this model as a 3/2 category due to the addition level on the set of morphisms that resembles a natural transformation. The three levels of objects, hom-sets and equivalence relations are all given type "universes" in the model.
+

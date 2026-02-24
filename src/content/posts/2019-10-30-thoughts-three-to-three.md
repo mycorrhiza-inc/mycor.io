@@ -1,0 +1,32 @@
+---
+author: Brad Venner
+date: '2019-10-30'
+draft: true
+title: Thoughts on three to three
+---
+
+There are 10 order-preserving morphisms from the ordered category *three* to itself.  Do these correspond to Peirce's 10 classes of signs?
+
+Note:  I have convinced myself that this is correct, and quite obvious, and now the next challenge is to derive the 66 classes of signs.  To further this understanding I am reviewing Jappy's open access text on the philosophy of representation.  His book is organized so that Peirce's 1903 theory (the 10 classes of signs) is chapter 1, and he derives ...
+
+To make the correpondence to category theory more obvious, the three ordered objects are $0, *, 1$.  As a category, $1$ is the terminal object, $0$ is the initial object, and $*$ is the mediate object.
+
+> We must distinguish between the First, Second, and Third Correlate of any triadic relation.
+
+> The First Correlate is that one of the three which is regarded as of the simplest nature, being a mere possibility if any one of the three is of that nature, and not being a law unless all three are of that nature. (CP 2.235)
+
+> The Third Correlate is that one of the three which is regarded as of the most complex nature, being a law if any one of the three is a law, and not being a mere possibility unless all three are of that nature. (CP 2.236)
+
+> The Second Correlate is that one of the three which is regarded as of middling complexity, so that if any two are of the same nature, as to being either mere possibilities, actual existences, or laws, then the Second Correlate is of that same nature, while if the three are all of different natures, the Second Correlate is an actual existence. (CP 2.237)
+
+This corresponds to the category $3$, where the partial order is in terms of complexity.
+
+For the domain, what Peirce called universes in Kaina Stoicheia, are the three modal categories of possibility, actually, and necessity.  The map is possibility as the initial object, actuality as the mediate object, and necessity as the final object.
+
+Note that in categorical dialectics, these correspond to being, nothing, and becoming, with the initial and terminal objects also corresponding to a monad/comonad pair.
+
+For the codomain, the triadic relation that is the target of the map is representamen, object, and interpretant.  Peirce makes this map explicit at CP 2.242.
+
+>A Representamen is the First Correlate of a triadic relation, the Second Correlate being termed its Object, and the possible Third Correlate being termed its Interpretant, by which triadic relation the possible Interpretant is determined to be the First Correlate of the same triadic relation to the same Object, and for some possible Interpretant. A Sign is a representamen of which some interpretant is a cognition of a mind. Signs are the only representamens that have been much studied. (CP 2.242)
+
+Note that this map places the *Object* as the second object in $3$.  This is different from the typical 'triangle' map, where the sign is located as the middle term, with the understanding that it maps between object and interpretant.  But it fits better with the more traditional notion of the sign as an object of experience that brings something else to consciousness, so the order of cognitive operations is sign, sign->object, sign->object->interpretant.  This order-of-operations interpretation also fits with Peirce's model of scientific inquiry, where perceptual judgement shades into abductive inference.  It also conveniently fits with the syntax, semantics, pragmatics triad and thus to categorical semiotics.

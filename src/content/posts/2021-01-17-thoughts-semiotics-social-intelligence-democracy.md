@@ -1,0 +1,18 @@
+---
+author: Bradley Venner
+date: '2021-08-14'
+draft: true
+title: Thoughts on Semiotics, Social Intelligence, and Democracy
+---
+
+I spent the morning changing the name of this blog and repository to *Ecology, Society, Democracy* from *Ecology, Society, Semiotics*. My main reason for the change is my growing identification of myself as a democratic ecosocialist and my thought that my focus should be on advancing both the theoretical and practical growth of this movement. 
+
+The former title was influenced by Locke's definition of semiotics as the third branch of science, along with what would now be 'natural science' and something like 'social science', which Locke defined as
+
+>  that which man himself ought to do, as a rational and voluntary agent, for the attainment of any end, especially happiness.
+
+The former title was also influenced by John Deely's analysis of semiotics as central to the "fourth age" of understanding.
+
+The new title also shows the influence of a couple years of reading Dewey and increasingly understanding his philosophy as fundamentally Peircean, but moving towards a more distributed, pluralistic understanding of Peirce. Dewey places democracy as a central concept in his philosophy, understood as 'social intelligence' (as he calls it in Human Nature and Conduct). 
+
+The new title is also intented to align with my commitment to work on energy democracy, which I believe to be the most important area for me to work in. My working assumption is that energy democracy is best understood as a 'sector' within democratic ecosocialism, and that implementing energy democracy will help improve the theory and practice of the latter.

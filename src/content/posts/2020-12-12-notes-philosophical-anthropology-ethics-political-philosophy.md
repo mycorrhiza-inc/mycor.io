@@ -1,0 +1,69 @@
+---
+author: Bradley Venner
+date: '2020-12-12'
+draft: true
+title: Notes on Philosophical Anthropology, Ethics and Policital Philosophy in an
+  Age of Impending Catastrophe
+---
+
+This paper [@gare:2009:philosophical] came up in Google search for "Gare dialectic labor recognition representation".  Gare referenced these terms in a 2020 interview.  They are related to various hendriatis associated with energy democracy.  Since I'm leaning towards developing a 'transition to an energy commons' or 'energy commons transition' within the P2P framework, this paper may have some potential to developing these ideas within a more explicity ecosocialist framework.
+
+Gare states that the 'naturalistic fallacy' has been harmful to both science and ethics and political philosophy.  It has trivialized science by restricting it to a means to develop technology.  The 'naturalistic fallacy' states that it is impossible to derive an 'ought' from an 'is'.
+
+Aristotle developed the relationship between anthropology, ethics and politics in *Nichomachean Ethics* and *Politics* and characterized humans as 'political animals', that is, beings that live in self-governing communtities
+> implying that people who do not live in such communities cannot realize their highest potential and therefore cannot become fully human
+
+Subsequent developments built upon this Aristotelian foundation, including the civic humanists.
+
+Hobbes "set out to destroy" the Aristotelian foundations of political philosophy.  He set out a 'mechanistic' understanding of humanity.
+
+Kant tried to develop a philosophical anthropology.  He defined the 'universal' questions of philosophy as
+1.  What can I know?
+2. What ought I to do?
+3. What can I hope for?
+4. What is man?
+
+> Fundamentally, all this could be reckoned as anthropology, since the first three questions are related to the last.
+
+Kant's opposition between nature dominated by mechanism and the human dominated by freedom led to idealism, the duality between nature and the human.  Idealist philosopher's gave a superior status to philosophical knowledge compared to scientific knowledge.
+
+Gare begins his discussion of Hegel on page 9.
+
+Fichte grounds ethics on reciprocal recognition:
+> Behaving ethically was now conceived as limiting oneself to act only on those principles that accorded with full recognition of the freedom of others, which was seen as the condition for achieving full self-hood.
+
+Hegel built upon the work of Fichte, Holderin, and Schelling to develop this model of freedom through recognition:
+> Hegel ... portrayed the ego as the result of the development, from immediate sensitivity to self-awareness, then to self-consciousness gained through achieving reciprocity of recognition in interpersonal relationships, and finally to universality through participation in ethical and cultural life, which he characterized as Spirit.
+
+Gare states the three dialects on page 9:
+
+>Hegel characterized this formative process as part of three interdependent dialectical patterns: symbolic representation which operates through the medium of language; the labour process which operates through the medium of the tool; and interaction on the basis of reciprocity which operates through the medium of moral relations.
+
+Gare discusses Schelling's priortization of nature as prior reality, rather than "Spirit".  Note the very close relationship to Peirce's notion of 'Firstness.'  Is this reflective of Gare's understanding of Schelling or are such passages actually found in Schelling.  I'd like to read Esposito's work on Schelling at some point.
+
+> The lowest potential arrived at was the “pure subject-object”, a realm more primordial than either subjects or objects, which Schelling equated with nature.
+
+> Nature was conceived as essentially activity or, simultaneously, “productivity” (or process) and “products”. Without productivity, there could be no products, and without products, there could be no productivity.
+
+Gare quotes Schelling:
+> give me a nature made up of opposed activities … and from that I will bring forth for you the intelligence, with the whole system of its presentations. [@schelling:1978:system, p. 72]
+
+Gare argues that Marx depended upon the notion of a philosophical anthropology. Also that Marx was influenced indirectly by Schelling through Feuerbach.
+
+> It is not the unity of living and active humanity with the natural, inorganic conditions of their metabolic exchange with nature, and hence their appropriation of nature, which requires explanation or is the result of historic process, but rather the separation between these inorganic conditions of human existence and this active existence, a separation which is completely posited only in the relation of wage labour and capital. [@marx:1973:grundrisse, p 489]
+
+The conclusion of this paper is one of my favorite pieces by Gare.  He identifies the dialectic of labor with "liberty or power".  More generally, he states:
+> To fulfill their role in history and in the cosmos, people need to embrace the immanent tendencies of the three dialectical patterns of representation, recognition and labor towards truth, justice and liberty and constrain the way the people live accordingly. [@gare:2008:philosophical, p 22]
+
+Gare's main emphasis, as an academic, is the development of the quest for truth, which is to overcome " the mechanistic world-view and replacing it with a conception of the world as a creative process within which we are creative participants."
+
+This sentence lays out the central role of the imagination.
+> Imagination is required to appreciate the struggles and creative achievements of the past and the traditions and institutions we have inherited as a consequence, the significance and situations of others, both human and non-human, and what the world could be in the future.  It is also required to understand the significance of our own lives and actions in the context of a dynamic world of living beings, structures and institutions of which we are participants, and our responsibility for the future. It is required to enable us to work out how to participate in augmenting the life of our human communities and our broader ecological communities. It is required to envisage a better world and to be inspired by this vision to work towards it.
+
+So how can philosophical anthropology contribute to reforming our energy system and stop the production of greenhouse gas pollution?  At the current point, I am working on a 'project' around energy democracy (or perhaps the energy commons transition?) and am trying to develop a the obvious correspondence between Gare's three dialectics and Szulecki's energy democracy framework of 'process, outcome, and goal'.
+
+One of the goals of this project is to justify the central role of democratic planning of the energy system.  One path is the Longo/Kauffman involves identifying 'markets' and 'mechanism', and that post-mechanistic energy democracy must move beyond the notion of energy markets.  That is, energy democracy is a 'living process' whose dynamics cannot be fully specified, and that the 'laws' of markets must be subject to conscious transformation.  
+
+Another path is to seek a 'transformative reform,' which according to [Wikipedia](https://en.wikipedia.org/wiki/Non-reformist_reform) "is conceived, not in terms of what is possible within the framework of a given system and administration, but in view of what should be made possible in terms of human needs and demands."
+
+This is a 'rift' in social metabolism fundamentally created by human labor, using Marx's idea of labor as the trans-historical exchange of matter between the natural and the social.  Although the fossil processes have a 'cognitive' aspect, I'm conscious sitting in my warm house of the direct benefits of fossil energy.  The chill in the morning is so physically present, and fundamentally does not seem like a problem of ideas.  So a reform of the fossil labor processes is necessary.  It should not be necessary to justify this reform as 'cheap' within the current accounting system.

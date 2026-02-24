@@ -1,0 +1,22 @@
+---
+author: Brad Venner
+date: '2019-03-09'
+draft: true
+title: Notes on M-C-M and the End of the Transformation Problem
+---
+
+Fred Mosely and Tony Smith have worked together on several projects, and are (were?) both part of the International Symposium on Marxian Theory.  I was looking to order some of Smith's books on Haymarket and took a look at Mosely's author page, with included a recent book on *Money and Totality*'  The present paper [@mosely:2015:m-c-m] is an introduction to that book.  I have ordered the book.  Smith has also written books on systematic dialectics, lean production and globalization, all areas that I would like to better understand.
+
+Mosely asserts that most discussions of the transformation problem misunderstand Marx.  He posits that Marx proposes two inter-related phases - production and distribution of surplus value.  Surplus value is produced by labor (the labor theory of value) and distributed to individual capitalists (prices of production).  There is a 'pendular' analytic/synthetic process.  
+
+UPDATE:  I read the first part of Moseley's book, called *Marx and Totality* [@moseley:2017:marx], courtesey of libcom.org.  All Marxist literature should be freely available, and libcom.org does a great service.  Moseley somewhat rigorously defends the thesis that the transformation problem does not exist and that Volume 1 and Volume 3 of Capital are internally consistent.
+
+This book shows the value of the Hegelian Marxist tradition being developed by the International Conference on Marxist Theory.  Moseley interprets Marx as developing a theory of categories proceeding from abstract to concrete.  Volume 3 develops a theory of capitalist profit that extends the more abstract theory in Volume 1 based on the condition of the equalization of profit between industrial sectors.  
+
+Marx uses the technique of immanent critique, in which capitalism is critized using it's own assumptions.  This means that the labor theory of value is intrinsic to capitalism, which cannot explain an economy-wide increase in surplus value with the assumptions of equal exchange.  
+
+While I find Moseley's development convincing, it is less clear how to extend this version of Marx to ecosocialism.  The Volume 3 sections on rent that were extensively cited by Saito seem less clearly central to Marx's Volume 1 theory of value.  
+
+The use of Sraffian concepts to extend Marx's value theory to natural resources, as Hahnel has done, seems vulnerable to Moseley's critique.  The fact that Sraffian theory does not include money could be viewed as a feature, not a bug, and given the fact that input-output techniques were developed within state socialism means that this theory could be used to critique capitalism as an extrin
+
+Arthur's concept of capitalist value theory as pure form (i.e. that ultimately exchange value must be pure form and empty of content because there is no common content in use-values that could be the basis for a common measure of value), seems to be a good foundation for Marxian ecosocialism, since use-value is derived from both nature and labor.  But could this be an intrinsic critique, as extraction is commonly defended within capitalism as justifiable because capital will just transcend natural limits using technology, as has been done throughout capitalist history.  

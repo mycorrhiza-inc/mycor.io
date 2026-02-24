@@ -1,0 +1,12 @@
+---
+author: Brad Venner
+date: '2022-08-18'
+draft: true
+title: Thoughts on Categorical Cybernetics
+---
+
+Nevermind. Get back to work.
+
+Was going to say something about Stafford Beer's work, NREL's autonomous energy systems, Hedges' categorical cybernetics and Morozov's digital socialism (or perhaps semiotic of socialism). Morozov's paper on digital socialism explicitly references Beer's work. Morozov's general framework seems quite applicable to energy democracy and the emphasis on decentralized systems recalls autonomous energy systems. Autonomous energy systems is definitely about the control of complex systems, where complexity includes dynamic topology.
+
+One appealing reference to Beer in Morozov's article is the distinction between variety attenuating and variety amplifying controllers. This reminded me of the distinction I'm drawing between method-based uncertainty and sample-based uncertainty. A method is variety attenuating, relying upon a "flat" notion of the "sample space", the incoming variety. A sample-based approach is variety amplifying, using multiple methdologies to determine the structure of the sample space. The latter is attractive, but has a very high potential cost. Beer's work tries to make variety-amplifying approaches cost-effective and thus has potential applications at NEIC. 

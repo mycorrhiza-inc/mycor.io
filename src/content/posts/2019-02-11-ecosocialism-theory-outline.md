@@ -1,0 +1,28 @@
+---
+author: Brad Venner
+date: '2019-02-11'
+draft: true
+title: Ecosocialism Theory Outline
+---
+
+# What is Capitalism?
+
+The capitalist system, driven at its core by the maximization of profit, regardless of social and ecological costs, is incompatible with a just and sustainable future.  Socialism/Ecosocialism offers a radical alternative that puts social and ecological well-being first.
+
+It’s a choice in how we organize our economy -- it hasn’t always been like this!
+
+Marx describes society as two classes -- the bourgeoisie who own and control the “means of production” and the proletarian worker who sell their labor in exchange for wages. The wages paid to workers are always less than the value of the labor provided to ensure “capitalist accumulation” on behalf of the owner
+
+Prone to booms and busts, crises and exploitation!
+
+# What is ecosocialism
+
+## 1st Ecosocialist Manifesto, 2001
+
+The generalization of ecological production under socialist conditions can provide the ground for overcoming the present crises.  A society of freely associated producers does not stop at its own democratization. It must, rather, insist on the freeing of all beings as its ground and goal.
+
+## Belem Ecosocialist Declaration, 2007
+
+Ecosocialism is grounded in a transformed economy founded on the non-monetary values of social justice and ecological balance. It criticizes both capitalist “market ecology” and productivist socialism, which ignored the earth’s equilibrium and limits.
+
+## 18 Theses on Ecosocialism, 2013

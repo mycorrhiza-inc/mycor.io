@@ -1,0 +1,30 @@
+---
+author: Bradley Venner
+date: '2020-12-30'
+draft: true
+title: Notes on Mirowski on Neoliberalism
+---
+
+Postface to the Road to Mount Pelerin
+Hell is a Truth Seen Too Late
+The Ghosts of Hayek in Orthodox Microeconomics
+The Nine Lives of Neoliberalism
+Beyond denial:  neoliberalism, climate and the Left
+
+How can humanity respond to something so manifestly insane as neoliberalism?  There is a continuing temptation to believe that neoliberalism is dead; the open-access book "The Nine Lives of Neoliberalism" attempts to disabuse it's readers that neoliberalism will self-immolate in it's own illogic.  Mirowski's work on neoliberalism attempts to take neoliberalism seriously, not as a fixed set of beliefs but as a highly flexible adversary with a formidable infrastructure of think tanks, university appointments, and closed societies.  
+
+While Mirowski places Friedrich Hayek at the center of neoliberalism, with both his creation of the Mont Pelerin Society in 1947.  But Mirowski places him at the center of the theoretical development of neoliberalism, with his assertion that markets are information processors.  Mirowski's book "The Knowledge That We Have Lost with information" showed how information began playing a central role in mainstream economics and credited Hayek for this innovation.  Many of these mainstream developments were developed by other authors in response to Hayek, although Bruce Campbell's [review of the book](https://eh.net/book_reviews/the-knowledge-we-have-lost-in-information-the-history-of-information-in-modern-economics/) questions this derivation.  Campbell appears to be a Hayek scholar, so perhaps Mirowski is incorrect.  But the influence of the computational metaphor on cognitive science, cybernetics, and related fields was widespread and doesn't really need a direct influence by Hayek.
+
+As we enter 2021, why would anyone take neoliberalism seriously?  The failure of markets in the face of climate change should be clear evidence of the mistake. The problem seems to be the market's inability to form an accurate picture of the future. Compare this to the detailed models of Earth's climate.  These are not simply developed not just by scientists but with widespread dispersed instrumentation, computer models, lab-scale experiments, etc. These are models of the Earth's biophysical system, which much like Hayek's 'spontaneous market order' has more information than could be produced by a single person.    
+
+The notion that somehow 'the market' knows more than such a system.  What is remarkable is that this knowledge is available to market actors, but still prices for fossil fuels reflect the relative costs of production, not on the amount of stock, as well as the demand for these fuels.
+
+Ellerman develops the substantive critique of property, another 'category' used in 'spontaneous market order'.  Locke's justification of private property depended upon the notion that one mixed one's labor with a resource.
+
+The notion of 'marginal cost pricing' is another area where markets seem to fail.    
+
+Firms versus markets.  The use of supply chain information by firms such as Wal Mart.  Growing tendency towards platforms shows that the best business to be in is to own the coordination infrastructure.  People's Republic of Wal Mart.
+
+Electricity is such a good example of so many of these concepts.  How about a title such as 'energy democracy and the economic calculation problem'.  Central planning is already a part of energy systems in the form of vertically integrated monopolies.  The move to decentralized planning was made in the move towards competitive electricity markets, but this move stopped short of full competition and the hybrid system still uses a great deal of (public) planning.
+
+The University of Colorado-Boulder researcher, who's name eludes me, distinguished four types of electrical systems - centralized, hierarchical, distributed and decentralized.  The economic planning literature looks at the end cases of centralized versus decentralized.  What do the other components in this ordering look like?

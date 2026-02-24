@@ -1,0 +1,23 @@
+---
+author: Bradley Venner
+date: '2020-11-21'
+draft: true
+title: Thoughts on the Role of an ISO in Energy Democracy
+---
+
+Can the institution of an Independent System Operator (ISO) be developed as a positive institution within energy democracy?  This is a parallel question to the role of the distribution system operator within energy democracy, and how this institution needs to be developed.  However, there are democratic institutions that have managed local public power that presumably could be extended to take on 21st century distribution system operation tasks.  In contrast, the institution of the Independent System Operator was explicitly developed as a neoliberal institution par excellence during the heady days of electricity restructuring in the late 1990s.  But could an ISO be developed that serves as an institution encouraging energy democracy?  Or do the specific rules that govern these institutions make them fundamentally incompatible?
+
+A benefit of forming an ISO is the potential to develop aggregations of distributed energy resources under FERC Order 2222.  
+
+The specifications for an institution of an ISO was created from FERC Orders 888 and 889.  The former order created the requirement that "utilities unbundle their generation functions and provide open access to their tranmission facilities", while the latter order established the Open Access Same-Time Information System (OASIS).  [](https://transmissives.com/the-story-of-the-grid/restructuring-the-effects-of-ferc-orders-888-889-and-2000/).  Order 2000 placed the emphasis on developing Regional Tranmission Organizations (RTOs); FERC's stated goal was that "all transmission-owning entities ... place their transmission facilities under the control of RTOs in a timely manner".
+
+ So one major question is whether it is still possible to form an ISO, or does FERC Order 2000 require the formation of an RTO.  
+
+Another major question is whether the ISO can be under democratic control.  Wikipedia states
+> Most are set up as nonprofit corporations using governance models approved by FERC and/or regional or local commissions.
+
+How much flexibility is there in the FERC governance models?
+
+> the establishment of the California ISO and the ERCOT ISO was the direct result of mandates by state governments
+
+So Colorado could provide 

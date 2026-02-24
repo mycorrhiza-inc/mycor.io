@@ -1,0 +1,26 @@
+---
+author: Bradley Venner
+date: '2019-11-04'
+draft: true
+title: Thoughts on energy democracy and P2P accounting
+---
+
+I spent the weekend working on my two minute testimony for the public comment session for Xcel's rate case.  As part of this research, I reviewed David Robert's interesting article on a proposed utility reform in Colorado.  I also reviewed the proposal for *community choice energy*, or CCE, which has been developed by [Energy Freedom CO](https://energyfreedomco.org).  Neither of these approaches really advocate for public ownership.  For EFCO, this is very much by design, as they are trying to win a majority by appealing to 'freedom' (a conservative framing, that is).  What would utility reform look like that is most consistent with energy democracy?  
+
+Earlier in the week, I also read a blog post from the P2P Foundation advertising a podcast featuring an interview with Michel Bauwens titled
+[*Creating an open source circular economy*](https://intheloopgame.com/podcast/Creating-an-open-source-circular-economy-with-Michel-Bauwens/).  
+After subscribing to the *In the loop* podcast series, I started reading some more of Bauwen's stuff.  He has two recent books, both freely available.  One is
+[*Peer to Peer:  The commons manifesto*](https://www.uwestminsterpress.co.uk/site/books/10.16997/book33/).  
+The other is
+(*P2P accounting for planetary survival)[http://commonstransition.org/p2p-accounting-for-planetary-survival/].  
+This book has an appendix by Bob Haugen on REA and [valueflo.ws], which reminded me that I was supposed to be working on a formal semantics for REA.  I believe that I had thought that inter-laboratory planning for the EPA lab network would have been a good work-related application for this framework, but I let that die when I ran into the slightest breeze.
+
+So can P2P accounting frameworks be applied to the energy democracy area?  Have they already been applied?  Is there a P2P framework that is better than others for such an application?
+
+This seems like an excellent area of application for me.  It combines semiotics, value theory and ecosocialism together, not to mention the pressing urgency of climate change.  Should I begin thinking about retirement so that I can focus on this area?  This seemed appealing enough to me to calculate my minimum retirement age (8 Feb 2022, to be exact)
+
+I read a few of [Bob Haugen's papers](https://wiki.p2pfoundation.net/Bob_Haugen) available from the P2P wiki.  He seems appropriately skeptical of the libertarian strains within the P2P Foundation.  His discussion of the weakness in the socialist economic calculation debate also seems right to me.  REA can be viewed either as an accounting system or as a resource planning system, and the focus of the calculation debate on markets versus centralized planning missed the actual nature of capitalist planning.
+
+I'd like to work in Idris2 for this project.  CQL also has some obvious potential applications.  Statebox seems very well positioned for this, combining a workflow perspective with category theory.  As always, so many tools, so little time.
+
+The next steps would be to really understand REA and valueflows.  I probably should start with the book on valueflo.ws.

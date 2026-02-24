@@ -1,0 +1,30 @@
+---
+author: Bradley Venner
+date: '2018-11-18'
+draft: true
+title: Notes on Functorality and Grammatical Role in Syllogisms
+---
+
+After reading Redding's article on Peirce and Hegel, I wondered if some of the category-theoretic models of the syllogism that have been developed could shed light on the status of abduction and induction as modeled on the second and third figure of the syllogism, as discussed by Redding.  This is probably most relevant to understanding the relationship between Peirce and Hegel, as a more direct attack via existential graphs a la Zamalea might be preferred to understanding abduction in Peirce.
+
+The [Science of Logic](https://ncatlab.org/nlab/show/Science+of+Logic) page at nLab has a reference to Reyes et. al. [@reyes:1993:functoriality] on categorical semantics of the syllogism, in addition to the detailed development within homotopy type theory.  However, Schneider's interpretation already assumes a large amount of categorical machinery (i.e. "some" is interpreted as a pullback on a pair of display functors - not the easiest place to start!)
+
+Reyes begins with a clear statement of the problem.  Set-theoretic models of the syllogism fail due to the problem with a universal type (Reyes uses the term "sort", which appears to be synonymous).  Reyes begins with restricting the scope of syllogism to only "count nouns" (called *CN* in the paper), stating:
+>  We remark that we consider only
+CNs and we will not consider, in this paper, syllogisms which have in their premises
+mass nouns (like “water”) or abstract nouns (like “beauty” or “justice”). Syllogisms
+with proper names will also be excluded from our considerations.
+
+Peircean's might note the limited applicability of such a restriction for use in science.
+
+In reference to this restriction, Reyes refers to his earlier paper ([@reyes:1991:topos]) which developed a more general topos-theoretic notion of reference, but justifies his choice by an easier computational semantics.
+
+In "Relations among kinds" (section 2.3), Reyes notes that the relationship between kinds is not set-theoretical inclusion.  Categorical informatics generalizes this to the relationship between foreign keys. Does Spivak reference Reyes in his early papers?
+
+Some of Reyes examples of 'bad syllogisms' remind me of Goguen's examples from algebraic semiotics.  This might be a good next paper to re-examine.
+
+Reyes solution of a nominal category mapping to a kinds category K is very similar to the categorical informatics solution of a schema mapping to a set.  It also reminds me of the 'categorical knowledge representation' of Patterson (since these two are strongly related).  
+
+I found the long middle section quite hard to follow, and it appears to rely upon first-order logic in order to make conclusions.  It also seems to rely upon the notion of 'colimit of a functor', which is not defined in nLab.  Scheider's dependent types approach may actually be easier to follow.
+
+This intepretation did not seem to distinguish the three figures of the syllogism, so it's not intuitively obvious how this relates to Peirce's and Hegel's distinction of these types of reasonings, as developed by Redding [@redding:]

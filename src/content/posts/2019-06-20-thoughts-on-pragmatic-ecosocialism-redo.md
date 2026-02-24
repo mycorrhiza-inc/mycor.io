@@ -1,0 +1,55 @@
+---
+author: Bradley Venner
+date: '2019-06-20'
+draft: true
+title: Thoughts on pragmatic ecosocialism redo
+---
+
+After an unproductive six months of life, agapastic ecosocialism is no more.  Long live pragmatic ecosocialism!  My reasons for yet another renaming on a moribund project are to try to give it a little momentum by broadening focus.
+
+It was motivated by a somewhat accidental search related to evidence-based policymaking, after reviewing a recent document on the "Federal Data Strategy," which identified a paper 'Pragmatic Complexity', by C. Ansell and R. Geyer.  Google Scholar showed that Ansell wrote an earlier book called *Pragmatist Democracy*.  Parts of the book were on Google Books, and the thesis appears to be that government agencies could be transformed into institutions promoting a democratic problem-solving approach.  So this search reminded me that pragmatism is much larger than Peirce and that there may be untapped resources in developing a course around the 'pragmatic turn' than there would be from a pure Peircean focus.  The focus on public administration could be interesting from a self-interest point of view, not only because I have some first-hand experience in the government, but because it could have applications to improve my work culture.  Finally, the subtitle of 'evolutionary learning' could link to Longo's work on evolutionary biology and his notion of a non-prestatable phase space.  There could also be a link to Strydom's 'cognitive sociology'.
+
+Of course, this rename means that I will need to finally read Dewey, who looms as a key figure, but I already knew this.  There are interesting links between Hegel and Dewey.
+
+Accompanying the change in title should be a change in the goal for the course.  It should be public philosophy, in the sense that it is intended for a general audience, not a specific social philosophy written for specialists.  But it also should be a social philosophy.
+
+Roberto Frega has recently published a book on pragmatist social philosophy titled *Pragmatism and the Wide View of Democracy*.  
+
+Some sort of outline.  In order to get this project off the ground, would it be better to start writing essays in the order that they interest me?  On the other hand, developing this material through a course might be a faster way to develop it.
+
+*  Eat your own dogfood.  How the way that this course is taught tries to emulate it's subject matter.  Use of Github,
+
+*  Why pragmatic ecosocialism?  Broad overview of the course.
+    1.  Pragmatism, science, democracy
+    2.  Climate change as the central issue of the 21st century
+
+*  Why ecosocialism?
+    1.  Chapters from Bellamy Foster's books?
+    2.  Other manifestos?
+
+*  Why pragmatism?  
+    1.  The Pragmatic Turn, Richard Bernstein.  Maybe pick a particular essay.
+    2.  Joseph Margolis.
+
+*  Democratic socialism
+    1.  Nicos Poulantzas:  Philosopher of democractic socialism
+    2.  John Rawls:  Reticent socialist
+
+*  Pragmatism as a social philosophy:  between liberalism and critical theory
+    1.  Roberto Frega, A tale of two social philosophies.
+
+    Places pragmatism between analytical and critical social philosophies.
+
+*  Critical pragmatism
+    1.  Strydom's work connecting Peirce and Marx
+    2.  Paper's discussing Dewey and Hegel
+
+*  Analytical pragmatism:  find a paper emphasising the analytical branch
+    1.  Find something in Robert Brandom's work?
+    2.  Science is cool.  Analytical philsophy loves science.  Find a defense.
+
+*  Social science?
+    1.  Probability theory as a social philosophy
+
+*  Science
+    1.  Logical socialism:  Peirce's

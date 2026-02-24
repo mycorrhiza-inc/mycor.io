@@ -1,0 +1,26 @@
+---
+author: Bradley Venner
+date: '2020-09-18'
+draft: true
+title: Thoughts on Value in Economics and Philosophy
+---
+
+The term 'value' is used both in economics and philosophy, but perhaps with different meanings.  In economics, the meaning is closer to 'measure', while in contemporary philosophy it has a meaning closer to what Peirce called a 'would-be'.  
+
+The study of value in contemporary philosophy is called 'axiology', deriving from the Greek work 'axios', which means measure.  But 'value' in Latin has the connotation of 'strength', which is closer to the notion of 'values' in ethics as strength of character.  
+
+Do questions of economic value arise at the same time as money?  If so, is it at the same time as what Graeber called 'the commodity theory of money', or does it arise in the credit money developed in Babylonia?  
+
+The concept of value in economics arose from the question of 'why price'?  The original idea of value was as an ethical standard of price, what Aquinas termed the 'just price'.  A (blog entry)[http://www.peneconomics.com/blog/2016/2/6/what-is-a-just-price].  This notion of value was 'essential' in that value is the essence of price and was at some level directly perceptible.  This corresponds to Apel's first regime of metaphysics.  
+
+Lancaric develops the notion that for Aristotle, value was an example of substance [@lancaric:2016:aristotelian].  He develops the notion that substance is identical to 'species form', the 'common soul of the species'.  He argues that Marx's notion of value is an example of 'species being'.  So commodities are a 'species', which have a common form in the same way that individual humans have a common 'species being'.  When Marx identifies the common property of commodities as 'crystals of social substance', he is identifying value with Aristotle's mature understanding of form.
+
+Lancaric then quotes passages from Marx that describe capital as 'self-valorizing value', as the 'dominant subject' of the self-valorizing process.
+
+I'm not sure that I agree with Lancaric's argument that substance is identical with form.  This is an unpublished paper by a graduate student.  Of course, this doesn't mean that he is wrong about Marx's understanding, and the passages that he quotes are compelling.  This
+
+In the Stanford Encyclopedia of Philosophy article on (Aristotle's Metaphysics)[https://plato.stanford.edu/entries/aristotle-metaphysics/#WhatSubs], the entry on substance and essence argues that identifying substance and species would be a mistake.  Substance is identified with essence, and essence with form, but in the hylomorphic sense of residing in an individual, not a disembodied form. 
+
+On the other hand, Aristotle proposed the notion of commodity money as a symbol.  
+
+The classical economists moved from the 'just price' theory of value to a labor theory of value.        

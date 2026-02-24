@@ -1,0 +1,43 @@
+---
+author: Brad Venner
+date: '2019-11-03'
+draft: true
+title: Outline of categorical semiotics
+---
+
+# syntax, semantics, pragmatics
+
+## towards categorical pragmatics
+
+Spivak's research program on applying category theory as a general theory of agent interactions can be interpeted as a form of categorical pragmatics.
+
+### categorical syntax
+
+### categorical semantics
+
+
+Peirce develops a rudimentary speech-act theory within speculative grammar.  This is a theory of 'pragmatics'
+
+# sign, object, interpretant
+
+This section will be focused on developing a category theoretic approach to Peirce's classification of signs, with a particular focus on the speech-act elements of this theory.
+
+This section will re-derive the main results of the 66 classes of signs from the viewpoint of morphisms within category of partial orders.  
+
+Another possible structure is the idea of symmetric monoidal categories enriched in posets (i.e. order-enriched), which was discussed by Drew Moshier at the ACT conference.
+
+Intepretation as partial order.  Discuss Peirce's late work three-valued logic.  Close relationship between modal ideas and three-valued logic.
+
+Compare to modal intepretation of being-nothing-becoming in Schneider's work.  
+
+# deduction, abduction, induction
+
+Peirce's analysis of the three figures of the syllogism.
+
+Fibrational semantics of the syllogism.  General notion of fibration.
+
+# alpha, beta, gamma
+
+Existential graphs.  State of modal graphs.  Categorical interpretation of beta existential graphs.  Meilles work on Peirce-like beta graphs.
+
+# composition, extension, lifting

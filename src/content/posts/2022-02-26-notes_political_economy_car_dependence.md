@@ -1,0 +1,41 @@
+---
+author: Bradley Venner
+date: '2022-02-27'
+draft: true
+title: Notes on Political Economy of Car Dependence
+---
+
+Julia Steinberger, from yesterday's paper [@pirgmaier:2019_roots], is a coauthor on this one and it was cited in that one. Among the numerous interesting references, I chose this one due to overlap with Marie's research interests. 
+
+Five elements of car-dependent transport systems:
+
+1. automotive industry,
+2. car infrastructure,
+3. land use patterns,
+4. public transport (or lack thereof),
+5. car culture
+
+
+> Mees [153] argues that public oversight of strategic and tactical functions, and jurisdiction over the whole functional region are necessary (though not sufficient) conditions for adequate planning of an integrated network of services, while private companies can be involved at the operational level – a position that is supported within the literature [232,233,238,239,244].
+
+This is what should be done in energy system planning, although the coordinator in power system operations (i.e. the distribution system operator) might need to be public (or not-for-profit). Widespread "ownership" of local solar and demand response resources could be analagous to "private" provisioning of car services (i.e. Uber). 
+
+> In contrast, it has been argued that the model of Verkerhrsverbunde
+(VVs), common in German-speaking countries, is ideal to achieve
+multimodal network planning in contexts where several public and
+private actors are involved in public transport provision
+[153,233,256,257]. VVs are regional associations that coordinate
+public transport provision over a city-region, integrating operators and
+local governments in 'cooperative planning'.
+
+The VV model is closer to the non-profit DSO model
+
+> For the purposes of this discussion, we understand culture as having two components. Firstly, it encompasses the things people do ... The second aspect of culture encompasses the things that people say, write, and believe about their own activities and the wider social context of those activities.
+
+Unrelated aside - this is a nice definition of pragmatism, which involves the inter-relationship between these two aspects. This is most present in Dewey, where the "second nature" of habits is reflected on by "intelligence". 
+
+> While there is an emerging literature on the governance of innovations
+such as ‘smart mobility’ [319,320], and ‘Mobility as a Service’ [321], to
+date this has not adopted an explicit political economy perspective.
+
+The energy analogy of "smart grid" is direct, but I haven't seen as much around "energy as a service". This would obviously need to consider uses of energy (buildings and transport) more than the "energy commodity." A quick google search does show lots of hits on "electricity as a service", "energy as a service," and "power as a service." I wont look at these now.  

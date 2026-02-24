@@ -1,0 +1,18 @@
+---
+author: Bradley Venner
+date: '2019-04-09'
+draft: true
+title: Hopes for Idris
+---
+
+Over the past 20 years, I've dabbled with various software packages for formal methods, with little sustained success.  The last serious effort I made was with Scala.  I took the Coursera course and tried to do my homework, until I could no longer keep up.  I've been dabbling with AQL/CQL for a while now, with little to show for it, as I haven't developed a project despite my long-term interest in databases.  So why learn Idris?  What projects would I like to implement?  Would another dependent type system (e.g. Agda, Coq) be more appropiate?  
+
+I've been thinking that I need a formal system for my categorical semiotics project for a while now, although I think I've assumed that would be Coq.  In working through the memory evolutive systems paper, it was quite clear that I still need to learn and master the basics of category theory in order to teach it.  Formalizing category theory would be one direction to pursue.  This has been done within Coq and Agda already, and much of the research within homotopy type theory has been done in one of these languages.    
+
+But I'm leaning towards Idris for a couple reasons now.  First, Statebox, which is being written in Idris.  Second, quantitative type theory is the basis for Idris 2.  Quantitative type theory is interesting as combining linear types and functional programming.  Third, there is the Potsdam Institute of Technology formalization of sequential decision theory (discussed below).  
+
+Returning to this essay after a brief interlude reading about comparisons of Agda and Idris.  So HoTT cannot be implemented in  Idris due to it's use of *Streicher's K* or [*axiom K*](https://ncatlab.org/nlab/show/axiom+K+%28type+theory%29), which turns intensional type theory into *propositionally extensional type theory.*  Martin Escardo has a [nice tutorial on univalent foundations in Agda](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes).
+
+A paper on formalization of economic thought within dependent type theory from the Potsdam Institue for Climate Change used both Agda and Idris formulations.  The lead author of this paper was Cezar Ionescu, who has co-written with Patrik Jansson from Chalmers.  They cowrote a paper on 'Type Theory as a Framework for Modelling and Programming'.
+
+> These are consequences of the axiom of comprehension, which, in particular, directly legitimises the view of properties as sets.

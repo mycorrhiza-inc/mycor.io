@@ -1,0 +1,28 @@
+---
+author: Bradley Venner
+date: '2022-04-11'
+draft: true
+title: Thoughts on Bayesian Optics for Analytical Chemistry
+---
+
+Is there a correspondence between the view-update model for lenses and the calibration-evaluation model in analytical chemistry (or really any indirect measurement). This is probably worked out for machine learning, but is there a "first principles" take?
+
+Note that there are two developing schools of "categorical cybernetics", with the first being developed around optics (e.g. Jules Hodges, Matteo Capucci, Toby Smithe), while the second is being developed around polynomial functors (e.g. David Spivak). Their proposed unification around "fibre optics" (cute name, but ungooglable) may have some promise here.
+
+The calibration-evaluation model has two lines of separation: between the chemical and the signal, and the physical and the mathematical. The vertical line of separation is the optic. On one side of the optic there is the chemical domain, on the other the signal domain. 
+
+The horizontal line of separation, between the physical and the computational, is less obviously supported by the optics formalism. This line of separation corresponds to the coupled instrument-computer cyber-physical system that is now ubiquitous in instrumental chemical analysis. 
+
+The "view" operation corresponds to action - the input is a chemical system that is physically transformed into a physical system, obtaining a physical "signal". The "update" operation corresponds to evaluation - it returns the estimated concentration returned by the "evaluation" model.  
+
+The figure I did for the lab training course looks a little like an optic, but includes a "cap" to link the physical and mathematical signal domains. For now, the controller can't link the physical and mathematical chemical domains, but autosamplers are proceeding at such a pace that this is probably already doable, at least for limited domains.
+
+The basic approach looks a little bit like supervised learning. The system is run forward and a model of the input-output relationship between the known chemical system and the signal domain, typically a linear regression model. This is the calibration model. 
+
+Then the system is used to measure "unknowns" - this involves the Bayesian inverse of the calibration model.
+
+While writing this, I hopped over to the "Mathematical Structures in Programming" group at the University of Strathclyde. Several of the graduate students there are working in "categorical cybernetics" and maintain very nice blogs that were really helpful. 
+
+[Matteo Capucci](https://matteocapucci.wordpress.com/)
+
+[Bruno Gavranović](https://www.brunogavranovic.com/)

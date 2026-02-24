@@ -1,0 +1,19 @@
+---
+author: Brad Venner
+date: '2019-05-08'
+draft: true
+title: Notes on Iconicity and Abduction
+---
+
+David Corfield's map of deduction, induction, abduction to composition, extension and lifting.  
+
+The second paragraph of the introduction states
+> The book’s thesis is that the core method of category theory, which lifts properties characterizing individual objects to structural properties characterizing systems of relations linking individuals to one another, helps to illuminate the creative, context-dependent and tentative nature of abductive inference.  [@caterina:2016:iconicity, p. ix]
+
+The other possible map is between deduction, induction and abduction to actuality, generality and possibility.  This second map is a little less solid in Peirce's work, where he seems to identify the latter triad at the level of phenomenological categories and the former at the level of logical categories.  On the other hand, in the 1903 classification, the trichotomy applied to the 'sign-vehicle' is
+
+> Essentially, this first trichotomy is an ontological one. It corresponds so closely as to be effectively identical with Peirce’s phenomenological categories of firstness, secondness and thirdness.  [@caterina:2016:iconicity, p. 31]
+
+Although they present the 10 classes of signs, they don't reference Peirce's 1903 "tree" diagram, which presents the 10 categories in a manner that more closely resembles the cumulative hierarchy of category theory.
+
+Checking keyboard functionality.  So far there don't seem to be major problems.

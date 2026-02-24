@@ -1,0 +1,14 @@
+---
+author: Bradley Venner
+date: '2021-01-09'
+draft: true
+title: Notes on The Neoliberal Corporation
+---
+
+How does neoliberalism justify the existence of corporations if their fundamental critique of socialism is the impossibility of planning?  What is it that allows 'private' firms to escape this limitation that so resolutely bounds public managers?
+
+One of the first papers on a Google search for 'neoliberalism "theory fo the firm" is David Ciepley's paper *Neoliberalism and the Corporation:  Mutually Contradictory and Corrupting* [@ciepley:2018:neoliberalism].  He was formerly associated with the University of Denver.
+
+The theory of the firm in new institutional economics proposes that markets and firms are two alternative forms of arranging commercial transactions based on the notion of transaction costs.  But since this notion of 'transaction costs' originates with Coase, who is on Mirowski's neoliberal list, is this essentially a neoliberal idea?  
+
+Since the relationship between the internal 'suppliers' of the firm is supposedly one of contract, there is no distinction between the internal supplier market within the corporation and the external market with the corporation's suppliers.      

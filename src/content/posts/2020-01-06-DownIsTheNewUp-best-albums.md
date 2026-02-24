@@ -1,0 +1,73 @@
+---
+author: Brad Venner
+date: '2020-01-06'
+draft: true
+title: DownIsTheNewUp's Best Albums of 2020
+---
+
+This might have been my favorite year of music since 2015.  And yet, I can’t remember a year with so few hip-hop albums near the top of my list. There were a solid number that I dug, but very few that I loved. Maybe I’m just growing old and out of touch?  Lastly, the 20 year old me would be ashamed at all the pop (in one form or another) on this list.
+
+# Tier 1 (Masterpiece):
+1) Fiona Apple: Get the Bolt Cutters [singer / songwriter]
+2) Dua Lipa: Future Nostalgia [pop, disco]
+3) Deftones: Ohmm [alt metal]
+4) Run the Jewels: IV [hip-hop]
+5) SAULT: Untitled (Rise) [neo-soul, jazz]
+6) Grimes- Miss Anthroposcene [indie electronica / indie pop]
+7) HAIM: Women in Music Pt. III [indie rock]
+8) The Avalanches: We Will Always Love You [neo psychedelic, electronic]
+9) Gorillaz: Song Machine Season One: Strange Times [alternative pop]
+
+# Tier 2 (Excellent):
+10) Sevdaliza: Shabrang [trip-hop, world]
+11) Porridge Radio- Every Bad [post-punk, indie rock]
+12) Phoebe Bridgers: Punisher [indie folk]
+13) Caribou- Suddenly [electronic]
+14) Marilyn Manson: We Are Chaos [rock]
+15) Yaeji: What We Drew [hip-house]
+16) Perfume Genius: Set My Heart On Fire Immediately: [art pop / indie rock]
+17) Katie Pruitt: Expectations [singer / songwriter, indie rock]
+18) Yves Tumor: Heaven to a Tortured Mind [psychedelic rock]
+19) Charlie XCX: how i’m feeling now [experimental pop]
+20) Bartees Strange: Live Forever [indie rock]
+21) Moses Sumney- grae [r&b, art pop]
+22) Kelly Lee Owens: Inner Chorus [techno, pop]
+
+Tier 3 (Great):
+23) Moses Boyd- Dark Matter [nu-jazz / acid house]
+24) Samia: The Baby [singer / songwriter, indie rock]
+25) Jessie Ware: What’s Your Pleasure [art pop, disco]
+26) Car Seat Headrest- Making a Door Less Open [indie rock]
+27) Medhane: Cold Water [hip-hop]
+28) Sorry: 925 [art rock]
+29) Allie X: Cape God [pop]
+30) R.A.P. Ferreria: Purple Moonlit Pages [hip-hop]
+31) Lianne La Havas: Lianne La Havas [singer / songwriter]
+32) Roisin Murphy: Roisin Machine [deep house, nu-disco]
+33) Adrianne Lenker: songs [folk]
+34) Armand Hammer: Shrines [hip-hop]
+35) Soccer Mommy: Color Theory [indie rock]
+36) Shabaka and the Ancestors: We are Sent Here By History [nu-jazz]
+37) Westside Gunn: Pray for Paris [rap]
+
+Tier 4 (Good):
+38) Open Mike Eagle: Anime, Trauma and Divorce [hip-hop]
+39) PVRIS: Use Me [pop rock]
+40) Helena Deland: Someone New [art pop, indie rock]
+41) A.A.L: 2017-19 [techno]
+42) Jay Electronica: A Written Testimony [hip-hop]
+43) Nicolas Jaar- Cenizas [downtempo, ambient]
+44) Pottery: Welcome to Bobby’s Motel [post-punk / funk]
+45) A.A. Williams: Forever Blue [post-rock, singer/songwriter]
+46) Freddie Gibbs, The Alchemist: Alfredo [rap]
+47) Laura Marling: Songs for Our Daughter [folk]
+48) Jarv Is… Beyond the Pale [art rock]
+49) Haley Williams: Petals for Armor (art pop, new-wave)
+50) I Break Horses: Warnings [dream pop]
+51) Four Tet: Sixteen Oceans [downtempo, ambient techno]
+52) Royce Da 5’9: The Allegory [rap]
+53) Fleet Foxes: Shore [indie folk]
+54) Idles: Mono [art punk]
+55) Sault: Untitled (Black Is) [neo-soul]
+
+Fluorine-18.998

@@ -1,0 +1,31 @@
+---
+author: Brad Venner
+date: '2018-09-30'
+draft: true
+title: How to proceed with 'Semeiotic of Economic Values'?
+---
+
+So Marx begins "Capital" with a discussion of commodities.  There appear to be a lot of assumptions built into this notion.  For example, the ordinary notion of a "thing" as external to humans.  I understand that Marx wanted to begin with the ordinary experience of people.  But does beginning with the notion of "thing" beg the question?
+
+Suppose we understand the Hegelian project as a reaction to modern individualism, and in alliance with the counter-project of organicism, as discussed by Olensky.  Then Marx can be understood as taking on the moral philosophy that proceeds from modern individualism.  But Olensky develops Peirce's claim that modern individualism is founded upon scholastic nominalism, which denies the category of relation (at least in Deely's retelling) from the realm of nature (i.e. the non-human) and places it solely in the realm of the human.  This "tone" develops in Decartes to be an absolute separation between mechanistic nature and "disembodied subjectivity".  
+
+Of course, this is all very interesting, but I've continued to struggle with how to bridge this picture from philosophy into economics.  But do I have an implicit foundationalism in my understanding?  Does it makes sense to try to understand things at an axiomatic level?  Isn't that a fundamental criticism of economics right now?  Shouldn't economics be an empirical inquiry?  What is the proper methodology for studying a system of extreme complexity that is far beyond the ordinary experience of an individual human?  
+
+At a more practical level, how would I put a course together to examine theories of economic value so that:
+
+1.  The space of possible theories is broad enough to not exclude potential solutions?  I'd like this to be a sufficiently broad survey course to include the major theories of economic value.
+
+2.  The space of possible solutions should include the normative aspect.  This  is implicit in the title, since Peirce often considered semiotic to be normative.  The later Peirce understanding of the normative would be as a 'would-be', and that this is an 'inalienable' aspect of the sign.
+
+[@aside](Michael Hudson used "Theories of Surplus Value" by Marx to teach a class.)
+
+A theory of economic value asks "why price?"  This is the theoretical side of economics.  The idea is that there is something underneath the surface appearance of price.   Rosen responded with his Aristotelian analysis of "why", with four types of "because" (material, efficient, formal, final).  But economics also need a "how".  The goal of economics is to change the world, not mere
+
+We seem to be stuck in a mutually recursive loop.  A theory of inquiry requires a theory of the subject (that who inquires) and a theory of the object (aka the subject of the inquiry).  Peirce's way out was to study the boundary between the knower and the known, which he termed a sign, and then to proceed to the subject and object.  
+
+To approach the economic values from the standpoint of semeiotic takes as the starting point the analogy between prices and language.  
+[@aside](Murphy pointed out an early Jesuit take on this idea)
+But language appeared much earlier in human history than price, and production and exchange were governed by language long before they were governed by price.  A good source for this could be David Graeber [@graeber:2014:debt].  Graeber's earlier book [@graber:2001:toward] looks at theories of value in various social sciences.  
+So the question becomes why the particular language of price, the mathematics of quantity as expressed in what came to be the 'real' numbers.  
+
+Perhaps prices arise along with "civilization."  Hudson shows that the notions of accounting appear in Babylonian times.  However, I'm not clear if  Furthermore, money and prices do not appear internally in the Incan Empire, which implies that the link between civilization and money is not a necessary one.   

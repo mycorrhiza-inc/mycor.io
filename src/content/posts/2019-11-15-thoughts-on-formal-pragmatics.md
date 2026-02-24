@@ -1,0 +1,30 @@
+---
+author: Bradley Venner
+date: '2019-11-15'
+draft: true
+title: Thoughts on formal pragmatics
+---
+
+Given the development of categorical syntax and semantics, one way to present categorical semiotics would be the missing category of 'categorical pragmatics'.  Although it is ironic that Morris' terminology is well known, educators need to start where there audience is, right?  
+
+Since categorical pragmatics would be done formally (i.e. mathematically), Peirce may have placed it  'speculative grammar.'  Formal pragmatics would be investigated within speculative grammar, and one map would be to the 'objects' within speculative grammar, placing pragmatics as the study of the interpretant.  But there is also another sense in which Morris' triad would correspond to the normative science of logic, with pragmatics mapped to methodeutic/rhetoric.  In this sense, formal pragmatics belongs to grammar but the broader sense of pragmatics belongs to rhetoric.
+
+| Morris | Semiotics  | Grammar |
+|--------|------------|---------|
+| Syntax | Grammar    | Sign    |
+| Semantics | Logic   | Object  |
+| Pragmatics | Rhetoric | Interpretant |
+
+Under the grammar interpretation, categorical pragmatics would consider the relationship between a sign and it's interpetant sign.  Bellucci showed that Peirce's later work on speculative grammar contained a precursor to speech-act theory.  So one goal of categorical pragmatics would be to provide some mathematics behind speech act theory.
+
+One important philosophical precursor for such an effort would be Habermas' formal pragmatics.  Strydom points to Habermas' development of formal pragmatics in various papers.  I know that Habermas was strongly influenced by speech act theory, although I'm not sure to what extent he was influenced by Peirce's developments.
+
+Another line of inquiry related to 'formal pragmatics' is game theory.  Ahti Pietarinen criticized Habermas' formal pragmatics program and suggested a Peircean-based 'formal rhetoric', based on his previous analysis of Peirce's logic from a game-theoretic perspective.  Habermas distinguished strategic communication from communicative action.  Pietarinen points out that a general theory of cooperative games is lacking; my intuition would be that such a theory would be pragmatics in general.
+
+The question of whether semiotics is about communication (rhetoric) or inquiry (i.e. methodeutic) is somewhat confused by Peirce's back-and-forth on the term.  Dewey seems to bring these two ideas together as democratic inquiry, with norms of governance of inquiry being closely related to norms of 'association', in his social theory of democracy.  Again, Dewey needs to be on my reading list.  
+
+One interesting consequence of using the term 'pragmatics' as a synonym for 'rhetoric', the 'third branch of logic,' is the the link between the concepts 'pragmatic', 'scientific' and 'democratic', with Peirce emphasizing the scientific aspects (methodology), while Dewey emphasizes the social, communicational aspects (democracy).
+
+One potential project would be to link Botta's work on sequential decision theory in Idris to the idea of 'lenses' developed by Spivak and Hedges.  Botta points to the need for such a development at the end of the 'avoidance' paper, and cites a paper by Paul Olivia, Hedges' advisor.  I think this could be a really good project for Nick, as it combines math, climate change research, and Idris in an important way.  
+
+But I'd like to keep an eye on applications to valueflo.ws as well.  It's probably not possible to formalize the entire project, but since the project includes a planning step the potential for game-theoretic planning shouldn't be neglected.  

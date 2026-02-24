@@ -1,0 +1,37 @@
+---
+author: Bradley Venner
+date: '2019-10-23'
+draft: true
+title: Thoughts-on-democratic-inquiry-into-democracy
+---
+
+The fiercevulnerabilty workshop reminded me that a peer-based education approach to democracy is necessary (and could be interesting).  I'd like such a workship to combine some recent thoughts, such as the 'curriculum project' that Marie and I were talking about, my idea to start a working group on democracy within DSA, teaching a course on pragmatic ecosocialism (with an emphasis on how pragmatism could unite democratic socialism and scientific socialism), my discussion with Nick about whether Extinction Rebellion was anarchist or democratic, our discussions about having another weekly soup night event, and the weekly meditation group that Kritee is doing in Boulder.
+
+My first iteration on the title was a democratic dialogue on democracy, since I was thinking about a Bohmian dialogue.  But inquiry is a better word, as I'm willing to try more goal directed approaches than Bohm's approach.  Plus, a first iteration of topics might be democractic education.  Inquiry also potentially points to the unification of theory and practice that I believe would be the goal of such a group.  The reflective title is also intended to point to such a unfication, as democratic methods are applied to understand democratic theory.
+
+One way to start the group would be to view Astra Taylor's movie 'What is Democracy'.  This could be done in 30 minute segments over three meetings.  
+
+The basic idea that the title tries to highlight is that democracy is both a means and an end.  As a means, the term appears as 'democratic', while as an end it appears as 'democracy'.  Democratic often refers to governance by the people, but this can mean governance by the governed.  Lincoln's formulation of government of the people, by the people and for the people points to this same sort of contradiction, although 'of' and 'by' are not really that different.  Does 'democracy' always refer to governance?  The greek construction of the word, as rule by the people, clearly implies governance as a central concept.
+
+The varying emphasis on means and ends can sometimes be seen when both 'democratic' and 'democracy' are used with the same word.  Oftentimes, the difference in order is used to draw strong contrasts.
+
+It might be interesting to go back to Goguen's analysis of conceptual blends, where he draws the distinction between 'boat house' and 'house boat'.  In these cases, the central concept is the second word and the modifier is the first word.
+
+There are so many modifiers that have been used with 'democratic', 'democratize', or 'democracy'.  A good exercise might be to have participants list such instances.  For example:
+
+1.a.  Democratic economy
+1.b.  Economic democracy
+2.a   Democratic socialism
+2.b.  Social democracy
+3.a.  Democratic education
+3.b.  Educational democracy
+4.a.  Democratic energy
+4.b.  Energy democracy
+5.a.  Democratic workplace
+5.b.  Workplace democracy
+6.a.  Democratic governance
+6.b.  Government democracy
+7.a.  Democratic participation
+7.b.  Participatory democracy
+8.a.  Democratic elections
+8.b.  Electoral democracy

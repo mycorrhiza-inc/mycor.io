@@ -1,0 +1,24 @@
+---
+author: Bradley Venner
+date: '2019-05-08'
+draft: true
+title: Thoughts on composition extension lifting
+---
+
+David Corfield points out the parallel between the three figures of the syllogism (aka Peirce's deduction, induction, abduction) and their parallels in category theory as composition, extension and lifting.  
+
+Particularly for Kan extensions, the analogy between extension and induction seems quite clear.  The concept of Kan extension is discussed as induction quite clearly in other contexts.
+
+Lifting as abduction seems a lot less clear to me.  There is a brief reference to lifting in the introduction of *Iconicity and Abduction* [@caterina:2016:iconicity].  I need to follow up on this.  It does not appear from a search of the electronic resource that this idea is connected to a categorical definition of lifting.
+
+Another possibility is to work out the analogy between (co)universal properties and abduction/induction.  This also has the advantage of the implied correspondence between Hegel and Peirce.  There is also the notion of 'vertical integration' of concepts that Corfield discussed, which when extended to philosophy in general, and not philosophy of mathematics, is a defense of 'systematicity'.
+
+The n-category periodic table has a nice correspondance with the Hegelian analysis, as well as Peirce's first-second-thirdness.  
+
+A benefit to emphasizing extension and lifting would be to get away from the strong emphasis on compositionality (e.g. the journal by the same name as applied category theory).
+
+I would also like to follow-up on the notion of measurable and its relation to coends and Kan extensions.  I don't see this reference in Zotero, so I need to browse Google Drive to find this paper.
+
+# Update
+
+A related idea is with the notion of fibration, co-fibration and bifibration.  Paul-Andre Mellies has developed a research program around these ideas.  His paper

@@ -1,0 +1,26 @@
+---
+author: Brad Venner
+date: '2016-01-19'
+draft: true
+title: Energy democracy and digital socialism
+---
+
+I wrote the following question a little over seven years ago.
+
+> So what contribution can a lowly applied statistician working within an unrelated government agency with an interest in applied category theory make to development of the smart grid? One possibility would be to focus on parallels between statistics and distributed control, where the decision-related aspects of the problem are similar.
+
+It is still an open question. Although my understanding the *energy system* , *distributed control* and *applied category theory* have increased, I would like to pursue a social as well as a technical approach. I have borrowed the term "energy democracy" to indicate the combined social and technical approach to decarbonizing energy systems. 
+
+There are many ways to look at the concept of "energy democracy". From a mathematical point of view, *democracy* is a normative doctrine of governance (aside: difference between "theory" and "doctrine"). The mathematical theory of governance is called "cybernetics" (aside: the credit for the term is contested. It probably should have been credited to Ampère, who used it in his works on the philosophy of science, was subsequently used in French for over 100 years, and appeared in 19th century French dictionaries. [kennerly:2023:cybernetics, p. 83] Weiner's restriction is inconsistent with Plato's broader conception. Also, governor is a Latinization of the same Greek root, so this definition is comparing two branches of the same tree, although meaningful as government became a key term in English political theory). Mathematically, energy democracy is a normative theory about governance of energy systems (democracy as an "art" of governing).
+
+Energy systems are also social-technical systems. As David Harvey was explaining on a podcast this morning, Marx described this as the relation between a "mode of production" and a "social relation". (aside: note the resemblance to double categories). As such, they are "second nature", obeying both the laws of physics and the desires of humans. Energy systems have largely arisen within the "capitalist mode of production," so it's not entirely clear what they would be under a "socialist mode of production". 
+
+As technical systems, energy systems are subject to both physical lawas and control systems. Traditionally, the control system for electrical networks consist of primary (physical), secondary (automatic control) and tertiary (social) layers.    
+ 
+Ilić and Carvalho [@ilic:2022:hierarchical] claim that changes in electrical systems operations to support complex electrical systems will require
+
+>new electric power system architectures which are fundamentally different from today’s tertiary, secondary and primary level top-down EHV/HV hierarchical architectures. [@ilic:2022:hierarchical, p. 108554]
+
+> In short, today’s hierarchical control is: static, deterministic; focused on central EHV/HV/MV grid control; requires large preventive reserves; does not rely much on real time corrective, flexible, actions; finally, it does not enable systematic participation of MV/LV/DERs. This results in: significant waste through excess reserves (typically 20%–30% unused reserves); significant waste due inefficient use of existing infrastructure (only 30% of transmission capacity currently used); very costly long distance transmission, and poor resilience (e.g. California); limited renewables capacity share that can be accommodated. 
+
+Tertiary control is control between balancing authorities (BAs). The failure to model interactions between 

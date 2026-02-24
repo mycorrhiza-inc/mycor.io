@@ -1,0 +1,32 @@
+---
+author: Bradley Venner
+date: '2019-12-13'
+draft: true
+title: Thoughts on Democratic Planning and Collective Intelligence
+---
+
+# What's in a name?
+
+The problem with the term 'collective intelligence' is the negative connotations of 'collective' and 'intelligence'.  The former for it's totalizing connotations, the latter for it's military and policing use, particularly in Google.  Some alternatives are social, community, public, democratic and pragmatic.  But I do like the Center for Collective Intelligence Design's work, and particularly their map of the relationship between collective intelligence and other areas, particularly with data quality and multi-agent systems, both areas where I've done some work.  
+
+## Public planning
+Democratic planning, particularly in the economic context, seems to be a 'place laid out in advance', as it's referenced by many socialist writers but with surprisingly little formal development.  Of course, the related notion of public planning is well developed, but often public planning means planning of public spaces by bureaucrats, although there is also a fairly well established notion of public participation in planning.
+
+## Democratic inquiry
+Democratic planning fits into the broader notion of democratic inquiry, as developed by Dewey.  I'd like to begin the course with a theoretical grounding in this theory, as well as related nods to Peirce.  Wouldn't it be great to have a unified theory of democratic inquiry that combined categorical semiotics and pragmatic ecosocialism.
+
+## Multi-agent systems
+Within computer science, a closely-related area is planning in multi-agent systems.  I don't know this literature at all.  
+
+## Compositional game theory
+The applied category theory notion of compositional game theory was acknowledged by Botta as a
+
+Nichola Botta's sequential decision theory is also related. This single-agent planning idea seems close to how planning is usually done, but it needs to be extended to multiple agents.
+
+# Democratic Planning in the Citizen's Assembly on Decarbonization
+
+A focused effort on democratic planning for the citizens assembly on decarbonization would include both existing energy resource planning techniques as well as techniques to democratize them.   
+
+## Applied Category Theory
+
+Some of the work on using applied category theory in planning is Pollard's work on category theory in distributed energy resources and Wisnesky's work with NIST on supply chain optimization.  

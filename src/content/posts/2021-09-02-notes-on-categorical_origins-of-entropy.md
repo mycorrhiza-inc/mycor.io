@@ -1,0 +1,24 @@
+---
+author: Bradley Venner
+date: '2021-08-06'
+draft: true
+title: Notes on Categorical Origins of Entropy
+---
+
+Tom Leistner on deriving entropy as a specific realization of a more general construction on symmetric monoidal categories. 
+
+How is this categorical construction related to:
+
+1. The operads of wiring diagrams, as used in Catlab
+
+2. 'Logical entropy' developed by Ellerman in $\mathcal{Set^{Op}}$. 
+
+3. Categorical probability, which is often developed in the Kliesli category of a monad. Golubtsov (sp?), in particular, stresses the symmetric monoidal nature of the 'probabilistic' category. This may involve the more general connection between monads and operads. Another interesting question is between the 'Bayesian' hypothesis and the more general 'information transformer' categories considered by Golubtsov. Is there an entropy construction in the latter?
+
+4. The additive - multiplicative adjunction in linear logic. The mapping between the exponential and logarithm in Set seems to be generalized in linear logic to a lax/colax monoidal adjunction between the additive and multiplicative categories. Could the notion of probability as a game with nature be extended to game semantics?
+
+5. Mellies develops a connection between cospan categories, differential linear logic, and 
+
+6. Baez develops the analogy between statistical mechanics and probability with entropy as a central player. Central to this development is the 
+
+7. 

@@ -1,0 +1,37 @@
+---
+author: Bradley Venner
+date: '2020-06-02'
+draft: true
+title: Notes on Towards a formal framework for describing collective intelligence
+  knowledge creation processes that ‘use-the-future’
+---
+
+Paper listed on Andrée Ehresmann's [personal website](https://ehres.pagesperso-orange.fr/).  Pushed this to the top of the stack given my work leading an "innovation team" at work.  
+
+This paper is Chapter 3 in the book *Transforming the future:  anticipation in the 21st century* [miller:2018:transforming], published by UNESCO.  The author, Riel Miller, is head of Futures Literacy at UNESCO.  The notion of 'futures literacy' could not stand in starker contrast to 'capitalist realism' - no wonder the right hates the UN.
+
+They open the introduction stating the two hypotheses explored by the paper.  I must say I like their statement of hypotheses in their first paragraph, a pattern that I've seen in a couple of their papers.
+
+> This hypothesis rests on the proposition that a better understanding of anticipatory assumptions, including those related to distinct anticipatory systems, empowers people to grasp why and how the imaginary future influences what they see and do in the present.
+
+Faith, hope, and love, but the greatest of these is love (1 Corinthians 13:13).  I've increasingly seen the role of love in changing habits as acting in the present to change the future.  Identification of a possible future, driven by habit, and acting to change the habit, seems like as good a definition of love as any.  In the Wikipedia entry on 13 Corinthians, it states that FDR swore his oath to this chapter.
+
+> The second hypothesis is that FL, because it enhances the capacity to appreciate complexity, makes it easier to take advantage of change, to deploy everyday forms of contextual creativity, and to embrace a diversification strategy towards resilience.
+
+# But first, the relevance of the impredicativity of anticipatory systems
+
+This section reviews Rosen's work on anticipatory systems.
+
+> Newtonian differential equations require recursion where states follow each other in a same 'phase space' and previous states determine the next.  This Newtonian formalization does not apply to impredicative systems, in which "the phase space itself changes persistently" [longo:2012:entailing]  
+
+Colimits as inductive limits.
+
+The 'systems of systems' idea was also developed by Spivak using operads.
+
+> The change of configuration from t to t' is measured by a functor from a sub-category $K_tt$ of $K_t$ to $K_{t'}$ called a transition.
+
+This doesn't seem right to me.  Mellies' notion of a functor as a type refinement system implies that the 'many to one' nature of a functor isn't a good model of a dynamic system.
+
+> It also accounts for the loss of elements by being defined only on the sub-category consisting of elements that still exist at t' ... the 'new' elements at t' are those that are not in the image of this functor.
+
+So this solves the problem by defining the functor on subcategories.  Does this capture the asymmetry of time?

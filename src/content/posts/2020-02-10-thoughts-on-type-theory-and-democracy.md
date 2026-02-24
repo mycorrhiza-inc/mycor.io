@@ -1,0 +1,37 @@
+---
+author: Bradley Venner
+date: '2020-02-10'
+draft: true
+title: Thoughts on Type Theory and Democracy
+---
+
+A couple middle-of-the-night thoughts that I don't want to forget.
+
+In presenting democractic socialism, emphasize the three aspects of democracy: economic, political, and social.  Democratic socialisms demands democracy in all three spheres, but also places a partial order on these spheres with social higher than political higher than economic.  It is this partial order that justifies the special place of the social.
+
+In the setoid model of computational type theory, the equivalence relation on terms from a type to itself should already contain the notion of composition as the transitive property.  So the notion of composition is a derived notion and the equivalence relation is primary.  
+
+Could one teach computational type theory along the path simple type theory (cartesian closed category), dependent type theory (local cartesian closed category), using the setoid model, then cubical type theory.  All three of these could be taught within Agda, which has a working cubical type theory.
+
+I need to get a better understanding of 'internal language' - this has a very Peircean ring to it, with grammar contained within the category.
+
+What is the relationship between type theory and semiotics?  I was reading some of Robert Constable's work on computational type theory, which reminded me of how deeply rooted type theory is within Russel's work.  Constable describes reading Principia Mathematica deeply during the design of the NuPRL theorem prover.  I've believed that intuitionistic type theory was at some level consistent with Peirce's notion that a logic of thirdness would not use excluded middle, which is traceable to Aristotle's notion of whether events in the future could be true or false.
+
+According to the nlab entry on string diagrams, a string diagram is Poincare dual to a commutative diagram.  This means that for a string diagram in a bicategory, a planar area is a zero cell, a string is a one-cell and a point of intersection is a two-cell.  Then the commutative diagram for a sign-relation expressed by a triangle in a bicategory gives the natural transformation as a teridentity - i.e. a point intersected by three lines.
+
+The functor $1 \Rightarrow 3$ gives 3 objects, the functor $2 \Rightarrow 3$ gives 6 morphisms, and the functor $3 \Rightarrow 3$ gives 10 commutative diagrams.  The 6 morphisms can be identified with the 6 types of sign by the mapping
+
+| Morphism | Peirce |
+|-----|-----|
+| $ 0 \rightarrow 0 | (immediate) sign |   
+| $ 0 \rightarrow * $ | immediate object |
+| $ 0 \rightarrow 1 $ | immediate interpretant |
+| $ * \rightarrow * $ | dynamic object |
+| $ * \rightarrow 1 $ | dynamic interpretant |
+| $ 1  \rightarrow 1 $ | final interpretant |
+
+This has a nice symmetry. Immediate, dynamic and final corresponding with a domain of 0, \*, and 1, respectively.  Sign, object and interpretant correspond to a codomain to 0, \* and 1, as they do with the functor from $1 \Rightarrow 3$.     
+
+In the Cubical Agda paper, they motivate the univalence axiom as having the ability to abstract among different data structures.  This brings to mind Bob Atkey's talk about generalizing homotopy type theory beyond equivalence to more arbitrary relations.
+
+Ultimately, is the emphasis on equality in type theory a bit of a dead end?  Peirce emphasized that entailment was a 'more primative' notion then equality?  Shouldn't terms be allowed to have a more flexible relationship than equality (like teridentity?)

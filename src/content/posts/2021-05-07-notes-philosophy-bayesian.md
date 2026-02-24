@@ -1,0 +1,15 @@
+---
+author: Bradley Venner
+date: '2021-05-07'
+draft: true
+title: Notes on  Philosophy and the practice of Bayesian statistics
+---
+
+Andrew Gelman attempts to place Bayesian statistics within the 'hypothetical deductive' framework of the philosophy of science.  This raises a couple questions:
+
+1.  what is the relationship between this framework and a pragmatist philosophy of science,
+2.  how would Bayesian statistics fit into a pragmatist philosophy of science.
+
+Pragmatism places a greater emphasis on the social aspects of knowledge than the more 'consciousness' aspect of knowledge.  The notion of 'induction' moves from being an essentially mathematical to an 'experimental' understanding.  This is the crucial link between science and democracy in pragmatism
+
+I'm curious about whether this perspective will be used to examine the fundamental mathematics of Bayesian probability.  It seems like a mathematical fact that the  'closure' understanding of probability - that knowledge is to a certain sense static in that the state space as represented by the prior is closed.  The likelihood specifies 

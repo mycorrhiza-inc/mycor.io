@@ -1,0 +1,16 @@
+---
+author: Bradley Venner
+date: '2018-12-11'
+draft: true
+title: Semiotics and socialism
+---
+
+Marie asked me on a walk what led me to socialism, and whether Deely had an impact on this evolution.  I answered that Deely did not really consider politics and that I assumed that he was politically conservative.  However, this is only a partial answer.  It is true that Deely does not write much on social philosophy, and that I have felt the lack of a clear path between semiotics and climate change, and have struggled with why I continue working in this area when the pratical need is so great.  But ecosocialism focuses on overcoming the "nature/culture" split, and Saito's *Karl Marx's Ecosocialism* [@saito:2018:karl] develops the centrality of this theme in Marx's work.  But this is also a central theme in Deely - the ability of a sign to transcend the division between natural signs and cultural signs.  But this invites better understanding the relationship between Hegel, Marx and Peirce, and the potential for MoHoTT to help understand their projects (with a dose of Poinsot thrown in).
+
+Peirce introduces the notions of levels in semiotics, and the lifting of a level includes the previous level.  Thus, we have firstness, the firstness of secondness, and the firstness of thirdness.  Wark refers to first, second, and third nature in Hacker's Manifesto, which can be interpreted within this notion of levels.  Hegel also seems to have this notion of levels, with his ascending spirals and his being, essence, concept progressions.  So when the goal is to transcend the division between nature and humanity, is Marx considering a lifting process, to transcend and include?
+
+Deely's essay on *semioethics* [@deely:2008:semiosis] addresses the development of an ethical responsibility to the whole as an aspect of human semiotics.  Paraphrased, the argument is that knowledge of relations as such is the specific accomplishment of human cognition, since relations are not sense perceptible.  Animals are able to use signs but not know that there are signs.  This gives rise to a special type of responsibility, which Deely calls "semioethics":  
+
+> Thus the semiotic animal become semioethical, and ethics becomes semioethics as an acceptance of responsibility not only for individual behavior but also for collective behavior, and responsibility for the consequences of behavior not only within the culture but also within the biosphere apart from which, like language divorced from zoösemiosis, the cultural world simply implodes.
+
+So the semiotic animal must accept responsibility for both nature and culture.  Furthermore, this responsibility cannot be avoided by appeals to 'private property' - this is the inalienable "right" of Ellerman, that we must be responsible for the positive and negative aspects of "our" actions, but with a sense of collective responsibility.  Our collective responsibility cannot be alienated from us as individuals.  

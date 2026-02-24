@@ -1,0 +1,10 @@
+---
+author: Brad Venner
+date: '2019-01-22'
+draft: true
+title: why agapastic ecosocialism
+---
+
+Of my proposed three projects, the [agapastic-ecosocialism](http://github.com/bvenner/agapstic-ecosocialism) feels like the most difficult.  First, it seems like a bad title for a 'philosophy of nature', as it seems clear that the core of the ecosocialist relationship is the relationship between nature and culture.  Second, beginning the inquiry with what seems to be a strongly idealistic premise may seem too predetermined.  The notion of agapism was Peirce at his most idealistic, and he never developed it as a central part of his philosophy.  Third, I'm not sure that I believe the 'necessatarian' charges against Hegel and Marx by Peirce and Apel as much as I did.  The 'systematic dialectic' reconstruction points to a complementatry notion of 'aufheben'.  Arthur discusses that the historical dialectic viewpoint often reduces 'aufheben' to efficient causation.  However, Arthur argues that there is a complementary notion of 'pull', or final causation, by the next level.  (There is a similar notion of top-down and bottom-up causation).  Now the synchronous perspective of systematic dialectic removes some of the angst about top-down causation when interpreted in time (how does the future affect the present), but there is a chance that this perspective can lessen the charges of 'necessitarian'.  
+
+Given my current unemployed state, it seems like it would be a good time to put together a more general ecosocialist course/video series/reading list/whatever, without getting too bogged down on coming up with an exact philosophical perspective.  So what about 'democratic-ecosocialism'?  I'd be totally comfortable advertising a class with this title.   

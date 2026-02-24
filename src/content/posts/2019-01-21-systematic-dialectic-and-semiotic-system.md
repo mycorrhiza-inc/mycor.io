@@ -1,0 +1,14 @@
+---
+author: Brad Venner
+date: '2019-01-21'
+draft: true
+title: Systematic dialectic and semiotic system
+---
+
+I found work on 'systematic dialectic' using a Google search that I cannot reproduce right now.  This search identified the [website of Christopher J. Arthur](https://chrisarthur.net/), who has made several papers available on this site.  Arthur provides a detailed mapping of Hegel's *Science of Logic* onto Marx's *Capital*.  This work provides a bridge from Hegel to Marx and thus perhaps from Marx to Peirce.
+
+In his book *The New Dialectic and Marx's 'Capital'*, written in 2002, Arthur states that his goal was to combine two strands within Marxism:  value-form analysis and systematic dialectic.  The latter explicitly reconstructs the methodological approach of both Hegel and Marx from their texts and scattered writings.
+
+Arthur contrasts systematic dialectic with historical dialectic.  He says that *Capital* is read as a historical dialectic because of a comment by Engels.  In the historical dialectic reading, the stages of commodity, money and capital are read as successive historical developments and a stage of 'pure commodity exchange' is hypothesized as a historical actuality.  Arthur argues instead for a logical relationship between these categories, and they are presented in their expositional order to better understand the 'totality.'  The 'components' of the 'totality' are thus necessary for the reproduction of the totality.  During their exposition, later categories change the meaning of the original categories in a 'non-linear' way.
+
+In addition to the historical method, Arthur contrasts the

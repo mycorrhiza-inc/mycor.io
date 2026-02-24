@@ -1,0 +1,38 @@
+---
+author: Bradley Venner
+date: '2020-08-26'
+draft: true
+title: Thoughts on Distribution System Operators
+---
+
+Kristov and Johnson's presentation on community energy resilience provides a valuable roadmap to develop resilient community energy systems and increasing community involvement in decision-making around energy systems.  However, their approach is highly dependent upon the key role of the distribution system operator, but the composition and makeup of this organization was not clearly specified in the presentation.  Due to it's critical role, and the present uncertainty on how best to design the 21st century energy systems, it is important to begin with a broad model that can be refinied over time.  In particular, existing models from the 20th century energy systems should be rigorously examined so as not not 'beg the question' of the proper role for this entity.
+
+Kristov's community energy systems grew from his work on grid architecture, in particular his model of integrated-decentralized electric power systems [@kristov:2019:bottom-up].  The integrated-decentralized grid architecture attempts to plot a middle path between two grid architectures that have been proposed to deal with the high and increasing number of distributed energy resources (DER).  The two models were a single entity coordinating the large number of resources (which he termed the grand central optimization model), and a completely flat system of transactive energy systems.  The latter architecture was more implicit in Kristov's papers but was more explicit in the emphasis on transactive energy and the notion of prosumers participating as equal players in an energy market.  
+l
+These two approaches are found in Coases' distinction of markets and firms, with transaction costs distinguishing which form of organization dominates.  It also can be found in the P2P Foundations' distinction of market and state, with the commons moving beyond market and state, particularly in David Bollier's formulation.  
+
+*Aside*:  Although I have not seen a Marxian social production of energy analysis, it undoubtedly exists.
+
+The name integrated-decentralized
+
+One of the key assumptions is the split between the planning function, which is assigned to existing municipal entities to coordinate among different actors, and the operational function, which is assigned to the distribution system operator.  This split parallels the thinking/doing duality that runs through modernity and in particular in the dichotomy between politics and economics.  The assumption seems to be that day-to-day operations will run on a different time scale than planning, which presumably would be conducted on a less frequent time scale, although this assumption is not made explicit.  But is this a workable understanding for the rapid development of the electrical system, particularly under the rapid growth scenarios required by climate change.  Griffith anticipates doubling electricity every 10 years for twenty years, or a growth rate of 7% every year.  Infrequent planning seems unlikely to keep up with such a dynamic system.
+
+It is quite likely that the existing 20th century models will not be adequate to develop such an entity.  In the presentation, two possible models were mentioned.  One was the Independent System Operator as known from electricity deregulation, while the other was the privately held, publicly regulated monopoly.
+
+While it's necessary to begin where we are, we should not let unexamined assumptions take the place of democratic inquiry.
+
+An independent system operator (ISO) operates at a statewide level and coordinates wholesale power markets.  The California ISO (CAISO), the most relevant ISO for this discussion considering Kristov's long employment there, is a nonprofit public benefit corporation.  By design, CAISO is insulated from direct political oversight of day-to-day operations and plays a purely technocratic role.  It sets 'local marginal prices' for electricity and allows open-access to the transmission networks to generators that can meet the local marginal price.  It can do this because the rules governing its role as setting prices to facilitate local balancing in energy markets transactions were relatively uncontroversial during the fossil fuel era. But this model of electricity sold in commodity markets is an increasingly poor fit for renewable energy systems.  Renewable energy is governed by high fixed costs and very low marginal costs.  Classical economic theory supports the idea that the price of an item should be proportional to its marginal cost, which clearly does not work to finance renewable energy systems.  Wholesale electricity markets are increasingly disfunctional and it is quite likely that the ISO model will have to be substantially revised in the future.  The idea of a neutral, technocratic market-making organization may have to be abandoned.
+
+Another model for structuring a DSO is a privately held, publicly regualted monopoly.  This model was the basis for electricity provision for many years, and was reasonably successful by the metric of providing reliable, low-cost electricity.
+
+# What is in a name?
+
+There are several related terms that I have seen that refer to the renewable, distributed energy systems:
+
+1. Energy democracy,
+2. Democratization of energy,
+3. Socialization of energy,
+4. Community energy,
+5. Energy commons  
+
+Burkett's analysis of Marx's ideas around social production in *Marx and Nature* [burkett:1999:marx] have definitely made me re-appreciate the work of the P2P Foundation.  Marx's social production looks strikingly like commons-based peer production in several ways.  The myriad combinations of the modifiers social, common and democratic seem to obscure the close relationship between them.  In some ways democratic seems preferable, as clearly societies and commons can be non-democratic.  Marx and Dewey seems to agree on association, and Frega's work explicates the 'wide view' of democracy that is needed to incorporate the adjacent concepts.  When democracy moves from the purely political realm to the free and associated producers it gains a much deeper meaning than the restricted meaning given it by liberalism.

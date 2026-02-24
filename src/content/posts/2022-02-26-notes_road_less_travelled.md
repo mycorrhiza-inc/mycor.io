@@ -1,0 +1,60 @@
+---
+author: Bradley Venner
+date: '2022-02-26'
+draft: true
+title: Notes on Roots, Riots and Radical Change
+---
+
+Joint paper by Elke Pirgmaier and Julia Steinberger [@pirgmaier:2019_roots]. I started but never finished Elke's dissertation a couple years ago. Julia Steinberger popped up in my twitter feed as I was doomscrolling on the Russain-Ukranian War.
+
+They propose a 
+
+> put forward a new research agenda for ecological economics, based on three realizations.
+
+# Three realizations
+
+The three realizations, paraphrased, are:
+
+1. EE must address the scale of human environmental resource use and impacts.
+
+2. EE needs to focus on comprehensive social understandings over quantification.
+
+3. EE needs better economic foundations - it has (unknowingly?) adopted blind spots from neoclassical economics.
+
+## Scale
+
+To consider scale, EE must consider different biophysical flows separately. They must grapple with what biophysical flows mean in specific sectors, products and types of consumption. These flows cannot be understood through neoclassical tools. One approach is the "Systems of Provision" approach of Ben Fine.
+
+## Social understandings
+
+> Biophysical accounts are crucial for substantiating ecological overuse, but cannot explain ecological destruction at a fundamental level.  They provide evidence for what is happening (humanity entering the Antropocene), but fail to explain **why**.
+
+> Why is it that ecological economists problematize growth — in biophysical and economic terms — prominently and forcefully as a key problem underpinning various kinds of ecological destructions? This problem framing might be a legacy of early general systems theory, which remains closely tied to the origins and foundations of ecological economics.
+
+> Our observation is that ecological economists overemphasise growth in economic and biophysical terms at the expense of underpinning social drivers of ecological destruction. Growth is an emergent outcome of the system, not its fundamental driver.
+
+> A clear understanding of the capitalist core remains surprisingly vague or implicit in ecological economics. (p. 5)
+
+Burkett made a similar assertion about ecological economics. I started reading Burkett based on a reference in Pirgmaier's dissertation and never returned to it.
+
+## Better economic foundations
+
+Place Marxian political economy at the center of ecological economics, not it's periphery. This section isn't particularly detailed or programmatic.
+
+# Research priorities moving forward
+
+## Well-being
+
+> As Amartya Sen has pointed out repeatedly, economics should always be understood as a means to an end—that end is human flourishing
+
+This subsection contains a reference to an Aristotelian framing of well-being as citizenship. To read: [@oneill:2006:citizenship].
+
+> Manfred Max-Neef, a founding and towering figure of ecological economics, understood this very well when he designed ‘Human Scale Development’ action research processes.
+
+I have an unfinished action research book upstairs that promised a "pragmatic" (largely Deweyian) framing - I should get back to it.
+
+## Political economy
+
+In addition to "system of provision" (above),
+
+> Another example comes from attempts to combine biophysical accounting with political ecology analysis, prominently by the Barcelona school of political ecological economics (e.g., [100–102]).

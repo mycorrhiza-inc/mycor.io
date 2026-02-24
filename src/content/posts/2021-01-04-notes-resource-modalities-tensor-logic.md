@@ -1,0 +1,46 @@
+---
+author: Bradley Venner
+date: '2021-01-04'
+draft: true
+title: Notes on Resource Modalities in Tensor Logic
+---
+
+This paper seems to be where Melliès introduces tensor logic as a 'more primitive' logic than linear logic.
+
+My intuitive idea, based on a few hints, is that there is a strong affinity between differential linear logic as developed by Melliès and the 'network theory' being developed by Baez.  Unification of these two programs may help understand energy democracy, or it may not.  
+
+Following Devine's work, we try to take seriously Hayek's critique of centralized planning by modeling economic systems as distributed - that is, allowing an additional communication channel as well as the flow along resource channels.  Distributed systems allow for local autonomy and signal flow.  
+
+Electrical systems are an ideal place to develop the distributed economic planning model, since decarbonization is driving the transition to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In electrical networks, this communication channel coordinates supply and demand in the electrical channel in a distributed fashion.  The communication channel can contain considerably more information than price and should allow arbitrary symbols (or sentences in a language).  There should be a range of time scales on such a network, from low-level scales that must be governed by machine to higher-level scales that could allow for human input.

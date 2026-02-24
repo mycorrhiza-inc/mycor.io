@@ -1,0 +1,28 @@
+---
+author: Bradley Venner
+date: '2021-01-23'
+draft: true
+title: Notes on Resources, Concurrency and Local Reasoning
+---
+
+# Justification
+
+   1.  Resources and local reasoning are crucial aspects of energy democracy, and probably economic democracy in general.  
+
+   1. Ciepley's analysis of the corporate form stresses that the economic corporate form is an 'authoritarian rule of property,' but that this form of 'social property' evolved from more republican forms such as medieval guilds and towns.
+
+   1. Mielle's link between concurrent separation logic and differential linear logic seems intriguing, but his papers are very hard to understand.  So I'm hoping that this paper will provide some valuable background.
+
+   1. There is an obvious link between the 'pipes' in Mellies work and Trimble's move generalize string diagrams to pipes.  Is this anything more than a superficial link?  
+
+   1.  The paper *Why Separation Logic Works* [@pym:2018:why] emphasizes the need to have a 'logical model' that matches the 'engineering model' of the problem domain.  They emphasize that this is a natural extension of other engineering disciplines and that mathematical theory and engineering practice 'co-evolve'.  This implies that an 'invariant' logical model theory based in set theory is not going to work.
+
+# Notes
+
+# Thoughts
+
+For something to be a resource implies already an interaction between nature and culture.  The promise of resource theory is to move beyond treating all resources as 'capital', since the term 'capital' often implies a certain invariance in the logic of access and management.  In a Fritz paper that developed resource theory, he emphasized this pragmatic aspect of resource theory - that thinking of something as a resource implies a pragmatic view.
+
+The resources, events, agents framework makes the role of agents explicit in a resource theory.  Is there room in the theory for a pre-resource, something that is independent of an agent?  Peirce's solution would be that the database is a sign and that in addition to these 'factors' being represented in the database, they have a dynamic object that is not represented.
+
+The potential for 'bunched logic' to be an alternative semantics for an REA theory?

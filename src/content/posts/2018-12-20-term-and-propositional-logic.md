@@ -1,0 +1,28 @@
+---
+author: Bradley Venner
+date: '2018-12-20'
+draft: true
+title: Term and Propositional Logic
+---
+
+Propositional logic is also known as Stoic logic, while term logic is also known as Aristotelian logic.
+
+Schneider develops his modal homotopy type theory interpretation of Hegel's "objective logic".  Since I'm looking for the best mapping with semiotics, it seems like a better strategy would be to begin with Hegel's 'subjective' logic.  
+
+According to Redding,
+
+> At the heart of Hegel's account of judgement is a distinction between two judgement forms with logically different structures.  Hegel calls these judgements of existence (*Dasein*) and judgements of reflection, but he also distinguishes them as "qualitative" and "quantitative" judgements and as "judgements of inherence" and "judgements of subsumption" (*Science of Logic, 557 & 570; W, 6.311 & 328) [@redding:2014:role, p. 9]
+
+One idea is to model this as Ellerman's logic of parts and logic of partitions.  The idea of inherence seems close to the Boolean algebra of classes.  The idea of subsumption would then be the opposite of inherence in a detailed category theoretic way.  But it would also echo Hegel's historical account of the development of Aristotelian logic, where Stoic logic developed as a 'determinate negation' out of an internal contradiction in term logic.
+
+Another idea is to model the proposition either as a span or as a cospan, with spans corresponding to "inherence" and cospans corresponding to "subsumption".  The [SEP entry on Hegel](https://plato.stanford.edu/entries/hegel/#SciLog) which gave me this idea was also written by Redding, so there is a circularity here.  Redding doesn't propose these as different models.  Nevertheless, in this entry Redding says:
+
+> One can take subject and predicate terms as self-subsistent entities that are joined in the judgment, or one can take the judgment itself as the primary unit that splits into subject and predicate terms. [@redding:2015:hegel]
+
+These ideas look very much like categorical product and coproduct, respectively.  Taking these as dependent product and coproduct would correspond to the map between syllogism and dependent type theory proposed by Scheider.  However, it is attractive to map these concepts at the level of a category rather than as homotopy types.
+
+Redding goes on to say:
+
+> Using a distinction from the Medievals, we can describe the first type of judgments as de re (about things) and the second as de dicto (about sayings).
+
+This echos Deely's emphasis on the scholastic distinction between *ens real* and *ens rationis*.  

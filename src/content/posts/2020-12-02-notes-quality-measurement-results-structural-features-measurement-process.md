@@ -1,0 +1,35 @@
+---
+author: Bradley Venner
+date: '2020-11-21'
+draft: true
+title: Notes on Quality of Measurement Results
+---
+
+This paper is a collaboration between U.S. education researchers Andrew Maul and Mark Wilson and Italian metrologist Luca Mari [@maul:2017:quality].  The abstract argues "that the quality of measurement results depends on their object-relatedness ('objectivity') and subject-independence ('intersubjectivity')" and is justified based on the basis of the structural features of the measurement procecess, as well as features of the inputs or the outputs of the process" and "the differences between physical and non-physical measurement are historical and contextual rather than essential".
+
+The aim of the paper is to distinguish between 'evaluation' (in the broadest sense) with 'measurement'.  They distinguish between two questions:
+
+1. > how should measurement be defined, as distinct from other types of evaluations? (p.3)
+
+and
+
+2. > how can be judge the dependability of information provide by an evaluation? (p. 3)
+
+The second question would be similar to Dewey's goal to develop a theory of inquiry that results in 'warrented assertability'.  Does Dewey distinguish between measurement and evaluation in 'Theory of Evaluation'.  But the goal of this paper is the first question.  But do we 'distinguish to unite' - are measurements a kind of evaluation with 'special' or 'emergent' properties?
+
+They use a process -> procedure -> method hierarchy, where a method is at a higher level of abstraction than a procedure.  They use the VIM definition of method: "generic description of a logical organization of operations used in a measurement" If a procedure is a specification of a process, then a method is a specification of a procedure?
+
+Could this be related to the 'zig-zag' methodology developed by Bateson?  Then there is an (implicit or missing) step of 'processes of developing procedures'.  One way to relate Bateson's approach to the present work would be to consider his 'types of individuals' as a nominal measurement, i.e. a classification.  Then the processes that give rise to 'types of individuals' are social-natural processes.  Should these processes also be evaluated on a nominal scale?
+
+Methods are classified as
+1. direct synchronous (e.g. two-pan balance)
+2. direct asynchronous (e.g. scale)
+3. indirect (e.g. calculate weight from volume x density)
+
+In a spring balance, the idea that gravitational force and spring force have a common basis (i.e. force) seems both theory laden and empirically obvious.
+
+The paper jumps from examples of physical measurands to social measurands, without considering the social dimensions of intersubjectivity even for physical measurands, which they have taken pains to introduce.  Instead, they reduce the inter-subjective to 'measurement uncertainty', which merely moves the evaluation problem to a higher level.  The evaluation 'function' from an empirical body of evidence to a probability distribution
+
+The 'social' nature of the interpretant, the necessity of developing a social institution for inter-comparison, as well as the implicit notion of empirical proof, is not developed prior.
+
+The distinction between 'preparation' and 'observation' that is inherent in the 'bra-ket' notation in quantum mechanics seems like a good place to start with categorical metrology.  The idea that preparation cannot be strictly deterministic has always seemed like the right interpretation.

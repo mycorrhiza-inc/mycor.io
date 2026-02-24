@@ -1,0 +1,16 @@
+---
+author: Bradley Venner
+date: '2020-08-24'
+draft: true
+title: Notes on How I Became an Erratic Marxist
+---
+
+[How I Became an Erratic Marxist](https://www.theguardian.com/news/2015/feb/18/yanis-varoufakis-how-i-became-an-erratic-marxist)
+
+Yanis Varoufakis outlines his personal story of his interest in Marxism.
+
+He cites two failures of Marx - an error of omission and an error of commission.
+
+The error of comission was Marx's development of mathematical equations to express his theory.  Yanis speculates that he was seduced by the power of mathematical proof.
+
+Peirce provides a counter-example.  He criticized Hegel, and perhaps this aspect of Marx as well, as embracing a metaphysics of necessity, of denying freedom.  Yet he also developed sophisticated mathematics, in part intended to help express these aspects of his theory.

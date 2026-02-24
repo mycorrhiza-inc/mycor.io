@@ -1,0 +1,10 @@
+---
+author: Brad Venner
+date: '2018-02-10'
+draft: true
+title: Wark on Karatani
+---
+
+Wark discusses Karatani's book *The Structure of World History* in Chapter 2 of *General Intellects*.  Karatani's work seems very similar to the worldview of the P2P Foundation.   Michel Bauwen's said it was ["one of the best books I have read in the last 10 years."](https://blog.p2pfoundation.net/p2p-commons-movement-must-act-trans-locally-trans-nationally/2016/06/16)  Karatani emphasises "modes of exchange," in contrast to Marx's 'modes of production'.  The three modes, roughly, are gift, coercion and exchange.  In the P2P Commons Transition framework, these correspond to nation, state, market.  
+
+What is interesting is that a parallel move, from production to distribution, was also made by neoclassical economics.  The focus of classical economics, from Smith to Marx, was on production, whereas neoclassical economics emphasized distribution.  Both approaches have a complementary theory of production or distribution, but the emphasis is on which direction is causal.  

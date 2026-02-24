@@ -1,0 +1,10 @@
+---
+author: Brad Venner
+date: '2018-10-15'
+draft: true
+title: Notes on A Less Simplistic Metaphysics
+---
+
+This article develops a metaphysics based on a modal logic interpretation of Peirce.  The modal principle is necessity entails actuality entails possibility.  The close relationship between this project and my modal homotopy type theory is the dependence on classical modal logic, and also the tendency to view ontology as structural not evolutionary.  Although I still haven't read "Iconicity and Abduction", I like the idea that the theory of evolution is closely related to the theory of inquiry.  I also like that the relationship between logic and metaphysics.  
+
+Other contenders for a Peircian metaphysics are pragmatic realism (a la Olesky), the evolutionary theories of Longo, perhaps supplemented by the notion of abduction as symmetry breaking, other Peircean-based evolutionary metaphysics.

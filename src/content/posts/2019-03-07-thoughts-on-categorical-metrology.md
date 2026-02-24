@@ -1,0 +1,31 @@
+---
+author: Bradley Venner
+date: '2019-03-07'
+draft: true
+title: Thoughts on Categorical Metrology
+---
+
+The Stanford Encyclopedia of Philosophy has a nice entry on 'Measurement in Science.'  It discusses the history of the philosophical development of the concept of measurement.  The division between realistic and operational concepts of measurement is noted.  Hand [@hand:2004:measurement] attempts to bridge this gap with a 'semiotic' theory of measurement (although not explicitly so named).  The relation of the measurement to it's object has a realistic aspect, while the relation of a measurement to its interpretent was what Hand called the 'pragmatic' dimention.  So one potential direction for this project would be to approach measurement as a special aspect of semiotics, and thus categorical metrology would be a special aspect of categorical semiotics.
+
+My recent reading on Kan extensions has made me think this would be a good model for categorical semiotics, particularly as a model for induction.  It's probably not a coincidence that an example of a Kan extension in Lehner [@lehner:2014:concepts] results in an adjoint pair between induction and coinduction.
+
+The Google search ordering on Kan extensions is interesting:
+ - wikipedia
+ - n-lab
+ - Lehner
+ - Bartonz Milewski's programming cafe
+ - kan-extensions on Hackage
+
+So Google is pretty clearly telling me that this project should be developed within Haskel, given that entries 4 and 5 of the top 5 results are Haskell-specific.  This could also result in some actually useable software.  On the other hand, the categorical informatics software could also be interesting.  But I think I need to push to make this project practical rather than simply theoretical.
+
+UPDATE:  Categorical informatics (now called CQL) is being extended in two directions.  The first is an extension to Haskell, the second as an element within Statebox.  I'm very interested in the Statebox direction, as this has the potential to bridge my interest in 'business processes' with my interest in category theory.  As of this writing, this is vaporware, but I'm very intrigued with it's potential.
+
+One of the interesting things about Kan extensions is how they 'lift' the notion of universal property to the level of natural transformations.  It turns out that their universal properties are more interesting than universal properties of functors, which in turn are more interesting than universal properties of morphisms.  It might be too restrictive, but it would be interesting to map these levels to syntax/semantics/pragmatics or being/essence/notion.
+
+Another interesting area to explore would be Leinster's work on magnitude.  Like so many other efforts (that I'm interested in), this originates in an idea of Lawvere, in this case that metric spaces could be modeled within enriched categories.  Leinster's notion of magnitude extends the notion of cardinality of a set.  He references geometric measure theory - could this work be used as expansion of mathematical measure theory to more interesting domains.
+
+Could magnitude, as a measure of diversity, have some applications as a measure of democracy?  Or to advocate for policies that increase democracy?  Or to connect diversity with robustness?  
+
+Thinking about application of magnitude in biodiversity, first measurements are performed on species, then these measures would be used to estimate the 'metric matrix', then the biodiversity calculation would be made.  Is there some lessons for application of magnitude within measurement theory?
+
+There is something like a Cambrian explosion in mathematics brought about by category theory.  Philosophy is much slower, and the impact of this incredible abundance of mathematical models on philosophy has yet to be determined.  How has this Cambrian explosion been facilitated by the internet?

@@ -1,0 +1,14 @@
+---
+author: Bradley Venner
+date: '2018-12-07'
+draft: true
+title: Does semiotics transcend the distinction between foundational and anti-foundational
+---
+
+Schulman's introduction to homotopy type theory discusses how univalence forces intuitionistic type theory into a foundational mode.
+
+Apel is criticized as a 'foundationalist' in trying to find a ground for norms in the theory of argument.
+
+It seems that semiotics should take a similar approach to philosophy that category theory takes to mathematics.  Category theory is a part of mathematics and does not aspire to "swallow the whole".  However, as an integrative discipline it's goal is to map out the relationship between various types of mathematical knowledge.  But as a universal translator it accepts that not everything is translatable, or at least aknowledges such a fact.
+
+Redding summarizes Hegel's pluralistic notion of spirit at the end of one of his articles.  Different viewpoints can be synthesized into a common understanding without reducing the value of either viewpoint.    

@@ -1,0 +1,18 @@
+---
+author: Bradley Venner
+date: '2019-12-06'
+draft: true
+title: Thoughts on Democracy and the Climate Emergency Workshop
+---
+
+XR did workshops throughout England for over a year before their first action.  What would my ideal workshop look like?  Could I pull together some of the main ideas that I've been working with into a workshop-like format?  What parts of categorical semiotics, theory of value, and pragmatic ecosocialism would be included?
+
+I kind of like my previous title of 'democratic inquiry into democracy', but this supposes a more leisurely academic view, like there is lots of time.  Joseph Romm used to argue that the time to act democratically was short and that climate change could force a military-style takeover of the entire economy.  
+
+Democratic capitalism has clearly failed, but is the failure due to democracy or due to capitalism?  I don't think the workshop should beg this question.   XR's prescription is a citizen's assembly, which points to a failure of representative democracy.  IMHO, this could only work if such an assembly was empowered to make major changes in the economy.  Shifting to 100% clean energy in 5 years would require nothing short of a complete takeover of the entire economy.  The amount of stuff that would have to be produced would be mind-boggling.  Colin implied that part of this demand is doing more with less.  Although excess consumption is clearly part of the problem, so much of our energy use is already dialed in with our infrastructure.  Reduction of consumption would help, but it would not be sufficient.  The climate mobilization analogy is appropriate, but underestimates the challenge.  Unlike in WWII, we would need to build industrial infrastructure, not simply convert it.
+
+One possibility would be a title such as "Democracy, Socialism, Capitalism".  This would be a play on the Shumpeter book "Capitalism, Socialism, Democracy", and could consider some of his arguments.  This might be a better title for a semester-long course, as opposed to a workshop, which would be more advocacy.
+
+When I spoke about the workshop topic with Marie, she stated that XR was doing workshops that were similar to the ones presented in Britain, and she didn't believe that messaging was the problem.
+
+In the short term, perhaps workshops in support of a 'citizens assembly on decarbonization' would be a better focus.

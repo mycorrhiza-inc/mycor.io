@@ -1,0 +1,18 @@
+---
+author: Bradley Venner
+date: '2019-02-04'
+draft: true
+title: Notes on Jerry Michalski on Trust
+---
+
+The P2P Foundation blog this morning linked to a short video by Jerry Michalski on *abundance*, which resonated with me.  I forwarded the link to a colleague that has an 'abundance' project.  I then sought him out and found a video on 'deschooling' entitled [What If We Trusted You](), which I forwarded to my son.  Finally, ended up on his [Patreon page](https://www.patreon.com/whatifwetrustedyou/).  I'm not usually interested in Silicon Valley techno-optimists, but I think this effort could be valuable, particularly if it's linked up to socialism.
+
+One resonance was with Reuten's recent book, which begins with "dissociation" as at the starting point of capitalism for his systematic dialectic, which he begins as the split between production and the family.  But this could also be viewed as a collapse of trust down to the family and mistrust at the level of production.  Apel had a similar division between the personal subjective and mechanistic objective as the working Western philosophy.  Could this dissociation in production be mirrored at this very personal experiental level of trust?
+
+Another resonance is with the concept of 'public trust', which is based on the legal concept of 'trust' but also can be interpreted as 'stewardship.'  As we move to advocate public 'ownership' we need to ensure that these systems are way more responsive than traditional, heavily bureaucratic public services.
+
+Another resonance is with Peirce, who places community at the center of scientific inquiry.  I've been thinking about Deely's use of Dr. Jeckyll and Mr. Hyde to illustrate the 'contradiction' between the growth of science and the philosophy of 'ideas', which denies the very realism that science is based on.  I'd like to reframe this as capitalism is Mr. Hyde, that the way of ideas was essential to the development of capitalism.  Scientism could then be interpreted as 'science under capitalism', having the same subordinate relationship as labor and nature.
+
+Corporatism is another response to the conflict between science and capitalism.  The tension between capital, which knows nothing of the concrete material processes of labor, is resolved through the figure of the manager, who is paid as a laborer but works for capital.  This form has already broken down, and top management is now given some limited ownership stakes to make them at least partial capitalists, and in technology the creative phase of the startup is funded by ownership stakes entirely.  Capital stil believes that regular order can be restored once a crucial minimial size is reached, leaving the core ownership group intact as 'founders', but this resembles a multi-level marketing strategy in which the goal is to convince others to work for wages.  
+
+How are recognition and trust related?  Peirce's concept of science is based on hope, where the scientist places his trust in the community of inquiry to eventually find the truth.   

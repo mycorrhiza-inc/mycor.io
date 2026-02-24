@@ -1,0 +1,33 @@
+---
+author: Brad Venner
+date: '2018-11-11'
+draft: true
+title: Notes on Hegel and Peircean Abduction
+---
+
+# Notes on [@redding:2003:hegel]
+
+From the title, this paper should be central to my project.  [Redding's Academia page](https://sydney.academia.edu/PaulRedding) shows a continued investigation of Hegel, although his treatment of Peirce appears more limited.  However, he makes reference to Robert Brandom (e.g. [redding:2007:idealism]), whose work on Hegel and pragmatism continues to be something that I should read (despite the scary Rorty ties - don't be scared!)  Redding refers to his book *Analytic Philosophy and the Return of Hegelian Thought* [redding:2007:analytic] for a more detailed discussion of Bramdom's inferentialism (which is also referenced in this paper).
+
+As a quick review, my working hypothesis is that modal homotopy type theory can be used to better understand semiotics, a project I've tagged as 'categorical semiotics' (in keeping with the term 'categorical logic' for the larger project of applying category theory to logic).  Since Schneiber has extensively developed the relation between MoHOTT and Hegel, my main project is to relate Peirce and MoHOTT.  
+
+One pathway to this is to relate Peirce and Hegel.  That is the subject of this paper.  There are other more direct pathways between MoHOTT and Peirce.  Zalamea's work on intuitionistic models of the existential graphs is an obvious one [zalamea:2003:peirce].  Caterina and Gangle are potentially another [@caterina:2016:iconicity].  
+
+One detail I really need to work out is the relation between the pair limit/colimit and abduction/induction.  From a formal perspective, repeating the syllogistic analysis of Peirce and purely on the shapes, the inference of a "minor premise" would be colimit and the inference of a "major premise"" would be limit.  This can be seen in the simplest cases of limits and colimits - terminal objects and initial objects.  In the latter, the missing arrow between Y and 1 has a the shape of "major premise", while in the latter, the missing arrow between 0 and Y has the shape of a "minor premise".
+
+A related analogy that Peirce makes is firstness as initial, and secondness as final.  I need to find the reference to this discussion again!
+
+Redding shows that Hegel's analysis of the syllogism is very similar to Peirces, although somewhat obscured by Hegel's numbering of the three figures of Aristotle.  The main difference is that Peirce/Aristotle calls the second figure, Hegel calls third, and visa versa.
+
+# A few other notes
+
+Redding's explanation of Hegel's absolute idealism in [redding:2007:idealism] has an inter-subjective slant:
+> In struggles in philosophy as elsewhere, the trick was to establish the contexts which gave gave the antagonists the sense of the legitimacy of their own claims --- that is, to establish a type of local legitimacy that had been overreached by each antagonist in the attempt to impose its norms on the other.  The standard way to think of such situations in philosophy is to conceive of a goal of an ultimate all encompassing framework in which all the local claims could be grasped as contextually legitimate in their own restricted domains.  But such a conception seems to reintroduce a type of God's-eye point of view.  Hegel's concept of 'reciprocal recognition', as allowing a conception of a common content among perspectively opposed and equally 'one-sided' individual thoughts, is intended to capture just the idea of such a thinkable content without locating it in relation to any single transcendent or divine thinker.
+
+But what is 'reciprocal recognition' except agape, and what is this common content except the 'beloved community'?
+
+Redding's identification of reasoning by analogy with abduction reminds me of Sowa's work on analogies.
+
+Redding says that C.I. Lewis was a student of Josiah Royce, which probably explains Lewis' interest in modal logic.
+
+Redding discusses the role of intensionality within modal logic and the resistance within this tradition to extensional readings of logic promoted by analytic philosophy.  He cited John N. Findlay as a bridge figure, having worked earlier

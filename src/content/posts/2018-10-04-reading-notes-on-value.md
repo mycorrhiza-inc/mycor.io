@@ -1,0 +1,12 @@
+---
+author: Brad Venner
+date: '2018-10-04'
+draft: true
+title: Reading notes on value
+---
+
+Googled "category theory value," found a paper by Geoff Hellman entitled "Does category theory provide a framework for mathematical structuralism" [@hellman:2003:category].  Since this paper was from 2003, it does not consider homotopy type theory or it's modal varieties.  According to the Stanford Encyclopedia of Philosophy, Hellman is a leading proponent of 'mathematical nominalism', so he would not take a pragmatic realistic view of math, contra Peirce.  Nevertheless, he does reference Bell's work on local mathematics and proposes to use 'modal structuralism' to strengthen his claim.  
+
+Graeber's *Towards an Anthropological Theory of Value* is awesome.  The writing is clever and the ideas are interesting.  So far, the central thesis of the book seems very consistent with my ideas for [*Semiotic of values](http://github.org/bvenner/semiotics-values), but also seems to require development of [*categorical semiotics*](http://github.org/bvenner/categorical-semiotics).  It is interesting that Greaber proposes a generalization of Marx's theory of value towards a more general notion of "action," and critiques the use of semiology, but does not mention Peirce.
+
+I'd like to structure the course to reflect the subject matter.  Students taking the course for a grade are engaged in a value creation and evaluation process.  Different class projects could embody different theories of value.  Ultimately, student grades would depend upon common-based peer production, perhaps their contribution to a course website that could be used as the main text for the course.  The public-facing part of the website could include acceptable limited-use of copyrighted texts, while a private-facing part could contain electronic copies

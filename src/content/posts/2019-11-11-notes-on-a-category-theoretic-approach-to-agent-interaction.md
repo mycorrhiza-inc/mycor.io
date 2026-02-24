@@ -1,0 +1,18 @@
+---
+author: Brad Venner
+date: '2019-11-11'
+draft: true
+title: Notes on A category-theoretic approach to agent interaction
+---
+
+David Spivak's brilliant grant proposal sketches a categorical pragmatics, defined as a multi-agent system viewed from the abstract perspective of category theory.  The subtitle is *information, communication, planning and learning*.  If realized, this proposal would help achieve the distributed REA vision articulated in (value flows)[https://valueflo.ws].  There are certainly components in the proposal that could be directly appropriated.  Others seem like they need a little work.  
+
+Of course, REA places emphasis on resources.  This aspect of reality is downplayed in the proposal, but Spivak does consider resource theories in Chapter 2 of Seven Sketches.  Tobias Fritz, who presented at the 2019 ACT conference, co-wrote (*A mathematical theory of resources*)[https://arxiv.org/pdf/1409.5531.pdf, @coecke:2014:mathematical], an early paper on categorical resource theories (referenced by Baez).  Interestingly, this paper refers directly to the pragmatic tradition as thinking of science as the development of resources.
+
+On the other hand, Mellies and others consider resources from the viewpoint of linear logic, which is traditionally used to describe computational resources.  Fritz's notion would describe both rival and non-rival resources under the same theory, which could miss the P2P goal of global knowledge commons and local manufacturing.  However, they attempt to develop a similar distinction based on partition process theories, which are resource theories where some resources are considered free.
+
+Fritz also references Noether's theorem as an example of a resource theory with symmetry, which Atkey described as an example of relational parametericity.
+
+REA was developed with relational databases in mind.  Would there be a way to consider the concepts of REA as dwelling in something like the bicategory of relations, which could then be generalized to some other category, such as the ones that Spivak has in mind?
+
+Thinking of Petri nets as presenting a symmetric monoidal category.  Master showed that Petri nets could be generalized to many other Petri net structures.  Are these other structures also symmetric monoidal categories, or are they 'bells and whistles'?

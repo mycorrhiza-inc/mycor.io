@@ -1,0 +1,36 @@
+---
+author: Bradley Venner
+date: '2019-10-25'
+draft: true
+title: Notes on Cognition and Recognition
+---
+
+Piet Strydom critically reviews Honneth's Tanner Lectures and develops their notion of cognition as prior to recognition, playing off the construction of the words.
+
+Strydom grounds the relationship between critical theory and pragmatism as arising from a common heritage in left-Hegelianism.  Strydom states that Apel pointed out that Peirce's semiotic was present, if nascent, in Marx:
+
+> By contrast with two-place dualistic thinking, it is the three-place sign-mediated or semiotic process model which, as Apel (1974) pointed out, was in nuce present in the early Marx but worked out in detail by Peirce, and later continued to play a basic structuring role, even if in a subterranean manner, in both pragmatism and critical theory, including Dewey in the former tradition and Lukács4 and Adorno5 in the latter.
+
+Apel's article is in German - I should get this translated.
+
+If I take Strydom's work on cognition seriously, and I also take my project on categorical semiotics seriously, it may be a good time to return to the book "logical foundations of cognition', which includes an article by Lawvere.
+
+Does biosemiotics imply that cognition cannot be identified with semiotics?  Cognitive semiotics (what Deely calls anthroposemiotics), the human-specific dimension of semiotics, must be understood as an emergent property of biosemiotics.  
+
+Deely argues that Aquinas' concept of primum cognitum may be an early precursor of  understanding the emergent properties of cognition.  On the other hand, animal cognition is clearly studied by many scientists and may be considered as part of cognitive science.  Wikipedia has an entry on [cognitive biology](https://en.wikipedia.org/wiki/Cognitive_biology), which would be consistent with the notion of biosemiotics as identifying life and semiotics.
+
+Strydom goes on to identify the recognitive domain with the metacognitive, defined as
+
+> human beings’ ability ‘to implicitly or explicitly access [their] own cognitive states, judgements in knowledge and learning, feelings of knowing, uncertainty monitoring, categorization, evaluation, decision-based action, etc.’ (Brinck and Liljenfors (2009: 17))
+
+Cognition is required for life - the self-reflexive understanding of oneself as a part of the world is necessary for all life - this is the 'cognitive problematic'.
+
+> The cognitive problematic refers to the fact that something forming part of the world is able, nevertheless, to relate to the world in a way that allows it to take a perspective on the world and accordingly to act upon it, while having the capacity to remain aware of that relation, perspective and action as well as of their consequences.
+
+On the other hand, recognition is the human-specific emergent understanding of cognition:
+
+> Re-cognition thus concerns the metacognitive awareness on the part of human beings that they not only are and remain an inherent part of the world, but that they as such participate in virtually every aspect of its development and evolution and, therefore, have a weighty responsibility on their shoulders.
+
+Strydom's view of the 'cognitive turn' is quite different from Mirowski's.  In the former, the cognitive turn opens up space within sociology to help understand the relationship between the social and the natural.  In Mirowski's view, the cognitive turn is understood much as Honneth seems to understand it, in that information is the currency and the computer as a metaphor for understanding the human.  Is Strydom overly optimistic about dating the cognitive turn to the 1950s, and should his optimistic understanding of cognition be placed at the 'embodied cognition' turn?  On the other hand, Merleau-Ponty is often cited as developing an embodied approach to phenomenology and he was working in the 1950's.  It would be interesting to read Strydom's history of the cognitive turn [aka the cognitive revolution](https://en.wikipedia.org/wiki/Cognitive_revolution).  Note that Wikepedia identifies the embodied cognitive turn as [postcognitivism](https://en.wikipedia.org/wiki/Postcognitivism).  Named postcognitivists include Francisco Varela, who's book *The Embodied Mind*[@varela] was cited by Strydom.  So perhaps Strydom's program should be called postcognitive sociology.
+
+Embodied, extended and situated mind; Lifting, extension, compostion in category theory.

@@ -1,0 +1,16 @@
+---
+author: Bradley Venner
+date: '2022-04-09'
+draft: true
+title: Notes on Compositional Active Inference 1
+---
+
+One of those papers that I found almost my accident, identified on a [web page](https://mattecapu.github.io/ct-zulip-archive/stream/229136-theory:-category-theory/topic/generalised.20lenses.20and.20generalised.20lens.20laws.html) mainained by Matteo Capucci. The author, Toby St. Clere Smith, has a joint appointment with the Topos Institute. This paper is squarely within my research direction and sits at the nexus of several topics that I've been interested in, so I'm justifying taking a break from accounting work for now.
+
+Smithe often substitues the term "compositional" for "categorical", from the title. For example, they refer to "compositional probability theory". 
+
+Smithe's list of acknowlegements is pretty impressive - a who's who of applied category theory. The few names I don't recognize are probably worth investigating.
+
+This paper uses "lenses" and not "optics" - it refers to Smithe's "Bayesian updates compose optically" [smithe:2020:bayesian] for a discussion of the latter. Another Topos Institute talk claimed that lenses were a special case of optics when the 'containing' category was cartesian. 
+
+Smithe claims to be working at the level of "Markov kernels", but the paper seems restricted to the measurable space level. An obvious generalization would be to other "Markov categories" idenfied 

@@ -1,0 +1,92 @@
+---
+author: Brad Venner
+date: '2022-10-12'
+draft: true
+title: Thoughts on Untitled
+---
+
+# github woes
+
+Two hours wasting time configuring GitHub.
+Testing again
+
+# On chosing a title for a notebook entry
+
+In the history of scientific journals, the idea that each journal entry should have it's own title and subject seems a little suspicious. Perhaps one reason that I don't do as much writing as I could is the idea that each day should be focused on one theme, summarized in the title of the entry. This is clearly how many blogs are organized, with mini-essays presented on a daily basis. But this is the idea of a blog as a self-published journal, and the author as a journalist. The research scientist, however, has a different notion of journal. Academic writing traditionally relies upon notecards. These cards help the future author remember relevant details that are otherwise quickly forgotten. For example, there was a really nice article by an author whose name I've forgotten on the how to become a more effective academic writer. I may or may not have made a previous entry in this blog. How do I find this entry? An electronic research journal should have support for finding this type of entry. Ideally, one of the things that a markdown processor should do would be to at least construct an index, and perhaps develop a graph of related "entries" to help with categorization. Both search and hierarchy, Google and Yahoo.
+
+So can I repurpose this "blog" to be more of a research journal? I've started this entry with a section title. Section titles shouldn't have to be unique, so that the primary key for each entry would be section title and date. This would make 
+
+This makes me wonder if something like WordPress would be better for this type of journal, since there is more interaction between the database and the writer than there is using Markdown, which is more geared towards the traditional coding model.
+
+On the other hand, the benefit of the Markdown format is the ability to integrate code. Another benefit is to use GitHub as a low-level storage media that doesn't require the internet to function. 
+
+Joe Lowry uses a very low-tech Word document approach for his electronic notebook. I'm not sure that he can search full-text, but he's able to be fairly consistent in writing things down.
+
+# Dependent types and existential graphs
+
+There are many different ways to formalize category theory. One interesting one is FOLDS (first-order logic with dependent types), developed by Michael Makkai. I'm still learning this approach, but one interesting take is that it takes the notion of dependent type as primitive.
+
+Peirce's existential graphs have the benefit of an iconical notion of dependency. Since existential graphs are like the Poincare dual of a category, sheets are objects, lines are morphisms and transformations are points (i.e. teridentity). His "dual" notion in speculative grammar of sign, object, interpretant also has this type of dependent structure, with the "continuing fraction" graph expressing a kind of dependency structure.
+
+# Constitutionalism as the method of a-priori
+
+The podcast STAT had an episode where law professor Lawrence O. Gostin explored many of the supreme court decisions in the FY 2022 term from the viewpoint of public health. (web link)[https://www.statnews.com/2022/10/12/supreme-court-rulings-further-set-back-public-health/] His claim was that the court set public health back 50 years. This format was striking in both the impacts to public health but also the anti-science bent in many of the court rulings.
+
+Ryan Doerfler and Samuel Moyn say that constitutionalism is to blame in their editorial at the New York Times. (link)[https://www.nytimes.com/2022/08/19/opinion/liberals-constitution.html]
+
+> The idea of constitutionalism is that there needs to be some higher law that is more difficult to change than the rest of the legal order. Having a constitution is about setting more sacrosanct rules than the ones the legislature can pass day to day.
+
+This critique seems to take the notion of a "living constitution" seriously. But this reform itself does not seem sufficient to break the dependence of law upon the past. 
+Great Britain does not have a written constitution but are presently in the throes of a neoliberal reaction. It seems like a more serious reform of law is required to change from the a-priori method to the method of science.
+
+James Bernard Murphy developed the notion of law within the semiotic framework of John Poinsot. His notion of law is similar to Peirce's three categories, in that natural, customary and positive (stipulated) law can be distinguished but always operate together. Murphy as written book-length treatments of positive and customary law that I should read. I also need to put his essay on law on the top of my reading list. But I must get back to work today.
+
+According to Murphy, Aristotle defined "three things that make men good and excellent." These are, with addit
+
+| Aristotle | Aquinas | Murphy | Dewey, HNC |
+| ---  |---|---|---|
+| physis | natura | nature | impulse |
+| ethos  | consuetudo | habit | habit |
+| logos | ratio | reason | intelligence |
+
+Dewey's *Human Nature and Conduct* has a very similar tripartite structure, with habit as custom, impulse as nature and intelligence as stipulation. The use of intelligence to reflect upon habit and change it in a self-controlled manner is very pragmatic. 
+
+Murphy emphasises the "potentiality" of natural law:
+
+> within natural law theory one can find an implicity acknowledgement of the view that nture represents a set of possibilities to be selected by custom and stipulation.
+
+Murphy distinguishes between custom and habit, with the latter being an individual notion, but individuals participate in customs. They have a reciprocal relationship - habits create customs and customs create habits.
+
+Murphy quotes Dewey's *Human Nature and Conduct*:
+
+> Reflection is the painful effort of disturbed habits to readjust themselves. [dewey:1924:human, p. 71]
+
+The doubt-belief model is used to describe stipulated law, which appears when there is conflict within customary law. War is the greatest conflict and the greatest impetus to stipulated law.
+
+Murphy contrasts law and jurisprudence. This has a similar relationship to mathematics and category theory. Jurisprudence reflects upon law (natural, customary, and stipulated). Category theory reflects upon math (categories, functors, natural transformations).
+
+Murphy quotes John Austin that cites "natural instincts" in a similar manner to Dewey's notion of impulse. However, Dewey's notion has more "firstness" to it, as a spontaneous, novel act more than a "natural habit" like respiration.
+
+>is true that the instincts of the animal man, like
+many of his [customary] affections which are not instinctive, are amongst the causes of law in the proper acceptation of the term. - Austin, *The Province of Jurisprudence Determined*, p 177
+
+Murphy describes the dependence between nature, custom and stipulation as analagous to Aristotle's analysis of soul (anima) - plant soul is living, animal soul is living plus sensitive, and the human soul is living plus sensitive plus rational. Murphy finds support for his dependence in Cicero:
+
+> Law [ius] initially proceeds from nature, then certain rules of conduct become customary by reason of their advantage; later still both the principles that proceeded from nature and those that had been approved by custom received the support of religion and the fear of the law [lex]"
+
+The Peircean vague concepts of one, two, three has this dependence relationship, but his later refinement into sign, object, interpretant is probably more like Murphy's concept. Although as a poset, 1<=2, 2<=3 and 1<=3, with composition of the order leading to equivalence between (1<2<3 and 1<3). But the notion of triadic relation is more general than this (hopefully). Plus 0,*,1 has the advantage of corresponding to a category.
+
+>Customs die through disuse or are killed by law; laws
+must always be killed. 
+
+The idea that customs are not consciously selected seems untrue. Peirce attributes many beliefs to custom, and that few of these beliefs can be genuinely doubted. But many of these "common" beliefs were originally developed by reflexive thought by someone, and became widespread because many people thought that they were valid. As Dewy points out, the problem with customary belief is when it is no longer subjected to intelligent critique and is made obsolete by changes in circumstances. 
+
+One of Peirce's methods of fixing belief was the a-priori method. Constitutional law seems replete with such reasoning. How can we transition from the a-priori method to the method of science as a culture?
+
+Modern notions of rationalism have been influenced by 20th century notions of "rational." Oakeshot stated that
+
+> Rational conduct is behavior deliberately directed to the achievement of a formulated purpose and governed solely by that purpose.
+
+Oakeshot and Hayek are both influential conservative scholars. This quote seems to preserve a common concern with maintaining the "spontaneous order" over the potential for intellectual reflection. The translation of this notion into "complex adaptive systems" by the Santa Fe Institute may have been due to the philanthropical funding model adopted by SFI.
+
+Later writers are more likely to defend rationalism through rational choice theory, which grows out of game theory and control theory. As discussed in "General Intelligence", these formulations often depend upon a scalar reward, explicitly so in reinforcement learning. Jeuchems develops a work-around, defining a reward as a distance function between a multi-variate state and objective.

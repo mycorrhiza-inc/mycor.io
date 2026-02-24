@@ -1,0 +1,16 @@
+---
+author: Brad Venner
+date: '2019-01-13'
+draft: true
+title: Notes on Nature in Spirit
+---
+
+In this paper, Ikaheimo writes a short introduction to an edition of "Critical Horizons" on Nature in Spirit.  The subtitle is *a new direction for Hegel-studies and Hegelian philosophy.*  Ikaheimo also wrote an article in this special issue, *The times of desire, hope, and fear:  on the temporality of concrete subjectivity in Hegel's encyclopedia* [ikaheimo:2012:times], which I will also cover in these notes.
+
+Ikaheimo states that Hegel was a pioneer in 'extended mind' theories [ikaheimo:2012:nature].  He also points to the transition from the end of the Philosophy of Nature on the animal and the closely related sections in Philosophy of Subjective Spirt on the 'anthropological' determinations as an Hegelian 'embodied mind' theory.
+
+How do these Hegelian distinctions compare with Aristotle, Poinsot & Peirce?
+
+According to Wikipedia,
+
+> In pre-Socratic usage, *phusis* contrasted with νόμος, *nomos,* "law, human convention." Since Aristotle, however, the physical (the subject matter of physics, properly τὰ φυσικά "natural things") has more typically been juxtaposed to the metaphysical.[1]

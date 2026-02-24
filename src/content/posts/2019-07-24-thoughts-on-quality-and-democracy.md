@@ -1,0 +1,19 @@
+---
+author: Bradley Venner
+date: '2019-07-24'
+draft: true
+title: Thoughts on quality and democracy
+---
+
+In Chapter ?? of *Pragmatism and the Wide View of Democracy*, [frega:2019:pragmatism], Roberto Frega draws on the tradition of 'democratic experimentalism' to develop a theory of democratic institutional change.  Charles Sabel, one of these authors, explicitly develops a link to quality management systems, particularly the Toyota Production System, in *A Real-Time Revolution in Routines* [sabel:real:2005].
+
+Sabel's paper highlights the gap between what businesses (and perhaps other organizations) are learning about social learning and "our capacity for self-rule by familiar, parliamentary means."
+
+The links between pragmatism and quality management are deep.  Deming & Shewart drew upon C. I. Lewis' book in developing statistical process control in the 1930s.  
+
+The links between pragmatism and democracy are equally deep.  Dewey's work *The Public and It's Problems*.
+
+I have yet to encounter work on quality management with an anti-capitalist approach.    
+Critical theory is better represented (e.g. *Making Sense of Management*.)
+
+This is a long-term interest of mine, and could be developed as a unit within *Pragmatic Ecosocialism*, probably one of the few units that I would be qualified to develop.

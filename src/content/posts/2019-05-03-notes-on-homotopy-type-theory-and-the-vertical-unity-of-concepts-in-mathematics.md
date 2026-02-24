@@ -1,0 +1,40 @@
+---
+author: Bradley Venner
+date: '2019-05-03'
+draft: true
+title: Notes on homotopy type theory and the vertical unity of concepts in mathematics
+---
+
+David Corfield is a co-founder of the ncatlab blog and a philosopher of mathematics at the University of Kent.  He has written several papers on the application of homotopy type theory to natural language.  He also proposed the application of modal homotopy type theory to the analysis of Peirce's gamma graphs in a blog comment, so I could credit him as providing motivation for an approach to 'categorical semiotics' based on modal homotopy type theory.  
+
+This paper [@corfield:2016:homotopy] considers the 'vertical unity' of concepts in mathematics.  Although he does not mention Peirce, this notion of 'vertical unity' is a key concept in Peirce's semiotics.  Ideas such as the 'thirdness of firstness' are implicitly vertical, as higher signs preserve the previous aspects of earlier signs.
+
+> What emerges from these lines of thought is that the lower levels of homotopy type theory have contained within them: propositional logic, (typed) predicate logic and a structural type theory. Coming from a tradition of constructive type theory, one needs to add classical axioms if these are required, such as various forms of excluded middle.
+
+Any resemblance to alpha, beta, gamma is purely coincidental.
+
+> Returning to our type theory, given a plain type, $A$, we can turn any type $C$ into one dependent on $A$ by formulating $x : A \vdash (A \times C)(x) := C$.  If $A$ and $C$ are sets, think of lining up a copy of $C$ over every element of $A$, the product of the two sets projecting down to the first of them, $A \times C \rightarrow A$.
+
+Paul Taylor described existential and universal quantification as adjoint to weakening, not substitution as typically stated.  This construction seems to be in the same family as weakening.  
+
+Note:  can I use proof trees in Rmarkdown?  How would I import a package that is not standard, and have it be usable in HTML output?
+
+The paper outlines very nicely, in a way I haven't encountered before, how 'action groupoids', the action of a group on a set, is a special case of a dependent type theory.  The applications of dependent type theory to physics give me hope that the 'vertical unity' expressed in this paper can be extended to all of philosophy, not just mathematics.  In particular, can neo-classical concepts be lifted from classical physics?
+
+## Spaces
+
+> As I explain in Corfield (forthcoming), however intricate the `spaces' of current mathematics, we never leave behind the essential idea of constructing them by gluing together specified model spaces.  This is recognized by the term `atlas' used for a collection of `charts' which cover a manifold $\ldots$ With the addition of the modalities, homotopy type theory can express this gluing process straightforwardly $\ldots$
+
+The resemblance to Peirce's notion of multiple sheets in the gamma graphs is uncanny.
+
+## Duality
+
+> Consider a simple truth theoretic pairing, where for an actor and
+a film we assign a truth value depending on whether or not they appear in
+the film. For a typical range of actors and films it will be the case that the
+list of films in which an actor appears determines that actor and the list of
+actors in a film determines that film.
+
+Corfield gives the above as an example of concrete duality.  This could easily be expressed as a Chu space.  Should this discussion of duality be extended to *-autonomous categories, and perhaps to linear homotopy type theory?  Another possiblity, not mentioned in the paper, is to quantitative type theory.  Atkey mentions the potential relations between substructural logics as an example of a modal dependent type theory.
+
+It's reassuring to see Corfield mention the difficulties of combining type theory and duality.

@@ -1,0 +1,16 @@
+---
+author: Bradley Venner
+date: '2019-05-03'
+draft: true
+title: Notes on reviving the philosophy of geometry
+---
+
+Another paper by David Corfield.
+
+> The truth is the whole - yet this whole cannot be presented all at once but must be unfolded progressively by thought in its own autonomous movement and rhythm. It is this unfolding which constitutes the being and essence of science. The element of thought, in which science is and lives, is consequently fulfilled and made intelligible only through the movement of its becoming. (Cassirer 1957, p. xiv)
+
+This quote from Cassirer is a beautiful summary of Hegel (as well as systematic dialectics.)
+
+Cassirer is a potential mediator between Corfield and Peirce.  John Michael Krois developed extensive links between the two, according to Stjernfelt [@stjernfelt:2012:peirce].  Krois also translated a paper by Apel.  Krois wrote a paper called *More than a linguistic turn in philosophy:  the semioitic programs of Peirce and Cassirer* [@krois:2010:more]
+
+Corfield plans to revise this paper as part of his new book on modal homotopy type theory.

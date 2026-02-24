@@ -1,0 +1,30 @@
+---
+author: Bradley Venner
+date: '2020-05-21'
+draft: true
+title: Notes on The Social and Natural Environment of Fossil Capitalism
+---
+
+Elmar Altvater was a German political scientist, who died in 2018.  He reviewed Burkett's *Marxism and Ecological Economics*, mentioning the critical role of renewable energy in overcoming fossil capitalism.  This essay was written the year before the review.  His webpage is at http://www.elmaraltvater.net.  Only a few of his articles are in English, sadly.  Many of his articles are in Spanish.
+
+From the [biography](http://www.elmaraltvater.net/BirgitMahnkopfonElmarAltvater2019.pdf) on his web page
+
+> Many of Elmar’s books since the late 1980s (including the books we co-authored) revolve around his main insight (based on the readings of Nicolas Georgescu-Roegen's work on thermodynamics and economic development), namely that all economic transactions do not only exhibit a value dimension, but also a material and energetic dimension
+
+This is similar to the matter, energy, information triad I've been working with (based on the RMI and value-flows ontologies), but with information or sign instead of value.
+
+Onto the article:
+
+>The congruence of capitalism, fossil energy, rationalism and industrialism is perfect.
+
+This extends Nancy Fraser's idea of capitalism as a way of life in a materialist direction, in particular highlighting the close relationship between the energy system.
+
+Altvater's discussion of peak oil is dated.  Perhaps it was 2007 when Steve Byers was discussing this with us.  This might have been the peak of peak oil.  On the other hand, the Second Iraq War had just ended and the conflicts over oil seemed never-ending (as they still do).
+
+> A system based on renewable energy also needs a certain congruence of social form, technology, economic regulation and the energy used, which in this case can be understood as involving a ‘solar revolution’.
+
+Or a democratic renewable energy transition.
+
+The 'solar revolution' is also a semiotic revolution.  The ability of symbolic processing by machines allows for highly flexible energy networks.  The ability of weather prediction to help design and manage renewable networks is profound.
+
+Altvater's paper predated the Energiewende (energy transition) by three years.  

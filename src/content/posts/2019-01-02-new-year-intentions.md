@@ -1,0 +1,10 @@
+---
+author: Brad Venner
+date: '2019-01-02'
+draft: true
+title: New Year intentions
+---
+
+1.  Develop lay article on _Socialism and Sustainable Human Development_.  Combine ideas from Marxian ecosocialism, Hegelian 'concrete freedom' and Peirce's evolutionary metaphysics.  Why is it that capitalism cannot promote sustainable human development?  Liberalism is built upon the idea of 'abstract freedom', which has allowed the development of capitalist institutions.  Peirce traced the rise of modern philosophy to the nominalism, but Olesky points out that voluntarism was a main component and motiviator of the individualism in Scotus as well as Ockham.  Gleeson's articles point out that Hegel identified the negation of abstract freedom as domination, and the development of capitalism gives rise to an abstract freedom that dominates both humanity and nature.  
+
+2.  Update web sites

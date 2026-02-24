@@ -1,0 +1,16 @@
+---
+author: Brad Venner
+date: '2022-09-02'
+draft: true
+title: Thoughts on Cybernetic Capitalism and Pragmatic Socialism
+---
+
+X's essay on cybernetic capitalism does not reference Morozov's essay on Digital Socialism, which advocated for the use of several notions of Stafford Beer to design a more effective socialism, and could easily have been called "Cybernetic Socialism."
+
+Some of this confusion can be blamed on Beer, who redefined cybernetics from Weiner's "the science of communication and control in systems" to "the science of effective organization." (Beer, 1966, Decision and Control) [compare with Bogdanov's tektology?] X's essay focuses on this earlier tradition. If we believe in the inevitability of Beer's redefinition, will the further adoption of cybernetic approaches into capitalism lead to a cybernetic socialism?
+
+ToDo: can Beer's move the same as the move to second-order cybernetics.
+
+ToDo: relate the notion of viable system to Dewey's notion of inquiry, and further developments under 4E cognitive science.
+
+ToDo: relate the Dewey-inspired 4E cognitive science and the Peirce-inspired biosemiotics. De Jesus wrote several essays relating these ideas that I should review. Froese 

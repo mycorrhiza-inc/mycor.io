@@ -1,0 +1,43 @@
+---
+author: Bradley Venner
+date: '2020-11-24'
+draft: true
+title: Thoughts on Energy Democracy Theory
+---
+
+# Why energy democracy?
+
+The pollution produced by the global fossil energy system is an immanent threat to civilization itself.  The energy system must be transformed into a system that does not cause the accumulation of greenhouse gases.  But the knowledge of this immanent threat has not been sufficient to cause the necessary transformation.  
+
+Diagnosis of the cause of the rift between knowledge and action must be swift in order to effect a cure.  The idea that carbon dioxide emissions could change the climate was first proposed by scientists over 120 years ago. Politicians at the highest levels have known that action was required for at least 55 years. In the United States, with the report entitled *Restoring the Quality of Our Environment* by the Presidential Science Advisory Committee on Nov 5, 1965 (coincidentally, my birthday).      
+
+# Frameworks for energy democracy
+
+## Existing energy democracy framework -process, goal, outcome
+
+## Aristotle three forms of knowledge - techne, phronesis, episteme
+
+## Poinsot's three classes of signs - natural, conventional, stipulated
+
+## Gare's three dialectics - labor, recognition, representation
+
+These three dialectics correspond in a way with Poinsot's division of signs into natural, conventional and stipulated.  
+
+It strikes me that the three dialectics are the ways that culture is transmitted.  Culture is transmitted through the built environment and our various artifacts (second nature).  Culture is also transmitted through habits, imitation of what other people are doing.  Culture is also transmitted through language.
+
+## Gare - (natural) ecology, human ecology, political ecology.
+
+
+## Frega's three democratic principles - relational parity, inclusive authority, social involvement.  
+
+Note that these are all social principles and don't seem to generalize to a more material/energy framework.
+
+## Hornborg's nature, social, justice.  
+
+Hornborg emphasizes the limitations of 'general-purpose' money and places it at the center of the logic of capitalism.  I contend that there are more resources in semiotics to develop an alternative logic than used by Hornborg.  Peirce developed semiotics as logic, although likely without anti-capitalism as its intended purpose.  
+
+Hornborg develops the notion that 'unequal' resource flows are central to capitalism.  Money is used to obscure this inequality, to give it a veneer of justice.  The logic of money, as developed by neoclassical economists, is not connected with material and energy flows.
+
+Since a key part of energy democracy is the development of renewable energy, the emphasis on 'equal exchange' of energy seems odd.  The ecological analysis would be that ecology takes place far from equilibrium, as an open system that relies upon energy from the sun to maintain this position.  Hornborg relies upon the profound skepticism around renewables that was fashionable on the left (e.g. Planet of the Humans), but doesn't seem grounded in an analysis of matter and energy flows.  But I like the idea that we need to ensure that matter flows are sustainable.  
+
+Colin dropped a line of 'lets invade Bolivia to get their lithium' yesterday, drawing the skeptical analogy between fossil energy and energy storage.  This analogy seems to mistake the material and energy flows required in the fossil energy system, where they are used as inputs, for a system where matter is used more as a 'means of production'.  But it does point to

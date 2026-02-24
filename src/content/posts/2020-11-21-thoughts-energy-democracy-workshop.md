@@ -1,0 +1,45 @@
+---
+author: Bradley Venner
+date: '2020-11-21'
+draft: true
+title: Thoughts on an Energy Democracy Workshop
+---
+
+Energy democracy has potential as a coalitional idea, potentially unifying liberals, socialists and (philosophical) republicans around the practical idea of developing a decarbonized, decommodified, decentralized energy system.  So an energy democracy training should have the goal of building a community around building a community around energy democracy.  The goal would be to describe the breadth of work in the area, its interconnection and its legitimate areas of contention.  But it should also have a local focus, really addressing community needs and finding ways to address them. So a workshop on energy democracy would also be problem-solving workshop, much like a community energy workshop.
+
+To do this properly would require more than a seagull approach.  There would need to be a series of planning meetings where community needs were identified and developed.  Then the actual workshop could address the community with the goal.
+
+RMI developed a Community Energy Resource Guide in 2015.  This recommends a 12-month process to develop a community energy resource plan.  The Guide seems focused on larger-scale communities (whole towns, etc.).  One idea would be to organize around the substation as the point of interconnection around the grid.  
+
+Could these community energy plans
+
+So many trainings do not end up growing an existing community.  The goal of an energy democracy workshop would be to both build local community but also identify higher-level actions that communities could take.  Few, it any, communities could realistically develop energy independence, nor would they want to.
+
+## Existing energy democracy framework - process, goal, outcome
+
+## Aristotle three forms of knowledge - techne, practical, theory
+
+## Poinsot's three classes of signs - natural, conventional, stipulated
+
+## Gare's three dialectics - labor, recognition, representation
+
+These three dialectics correspond in a way with Poinsot's division of signs into natural, conventional and stipulated.  
+
+It strikes me that the three dialectics are the ways that culture is transmitted.  
+
+## Gare - (natural) ecology, human ecology, political ecology.
+
+
+## Frega's three democratic principles - relational parity, inclusive authority, social involvement.  
+
+Note that these are all social principles and don't seem to generalize to a more material/energy framework.
+
+## Hornborg's nature, social, justice.  
+
+Hornborg emphasizes the limitations of 'general-purpose' money and places it at the center of the logic of capitalism.  I contend that there are more resources in semiotics to develop an alternative logic than used by Hornborg.  Peirce developed semiotics as logic, although likely without anti-capitalism as its intended purpose.  
+
+Hornborg develops the notion that 'unequal' resource flows are central to capitalism.  Money is used to obscure this inequality, to give it a veneer of justice.  The logic of money, as developed by neoclassical economists, is not connected with material and energy flows.
+
+Since a key part of energy democracy is the development of renewable energy, the emphasis on 'equal exchange' of energy seems odd.  The ecological analysis would be that ecology takes place far from equilibrium, as an open system that relies upon energy from the sun to maintain this position.  Hornborg relies upon the profound skepticism around renewables that was fashionable on the left (e.g. Planet of the Humans), but doesn't seem grounded in an analysis of matter and energy flows.  But I like the idea that we need to ensure that matter flows are sustainable.  
+
+Colin dropped a line of 'lets invade Bolivia to get their lithium' yesterday, drawing the skeptical analogy between fossil energy and energy storage.  This analogy seems to mistake the material and energy flows required in the fossil energy system, where they are used as inputs, for a system where matter is used more as a 'means of production'.  But it does point to

@@ -1,0 +1,11 @@
+---
+author: Bradley Venner
+date: '2020-12-26'
+draft: true
+title: Notes on Leveraging Open-Source Tools for Collaborative Macro-energy System
+  Modeling Efforts
+---
+
+This paper is a statement of purpose of the Open Energy Outlook 'collaborative team', led by Joe DeCarolis [@decarolis:2020:leveraging].  
+
+It's probably unfair for me to expect a group of academics to take a critical look at the existing division of labor within capitalism.  They tacitly accept the existing energy institutions, with the division of labor between academics, 'policy makers', consumers, etc.  There is also the tacit division between 'planning' and 'operations', with the data used in planning being 'open' while the network models used in operations is 'closed'.  

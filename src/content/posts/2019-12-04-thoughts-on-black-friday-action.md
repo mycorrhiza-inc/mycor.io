@@ -1,0 +1,28 @@
+---
+author: Bradley Venner
+date: '2019-12-04'
+draft: true
+title: Thoughts on Black Friday Action
+---
+
+# Messaging
+
+It needs to be clear what the protest is about for the passerby.  I'd like to see a very clear demand attached to future events.  For example, since XR hunger strikers are demanding a filmed 1 hour meeting with national leaders, this action could have made a similar demand of the mayor or governor.  Such a message could also have brought attention to other XR hunger stikers.  Or the demand could be for Denver to pass a climate emergency measure - this has been very close to passing.  This obviously would require making the demand early so that it's been definitively rejected at the time of the action.
+
+Banners should prominantly contain references to online resources where the specific demand was outlined.  
+
+I'd really like to see a PA system deployed.  A mixture of speeches and songs would have been nice.  A projector would be cool as well.
+
+On the handout, I don't believe that XR is 'not political.'  Everything we do is political.  I'd like to see this idea reformulated as 'radical democracy' or 'true democracy'.  I think a citizen's assembly is a component of democracy, but the conflict between democracy and capitalism must be resolved in democracy's favor.  I'd like to see the focus of the third demand be on the need for more democracy in all of our instututions (schools, workplaces, churches, etc.
+
+# Feint
+
+The feint was undoubtedly successful and accomplished it's main task.  There was no police presence at the site of the deployment and there was plenty of time to get set up.
+
+Timing could have been better, particularly with the cold.  Waiting to start the deployment 2 hours after the initial demonstration meant that everyone was cold before the main event.  Ideally, deployment would have been within 1/2 hour from the start of the rally.  Another option would be to have a large 'reserve' group and deploy the absolute minimum number at the main rally.
+
+# Cold-weather preparadness
+
+I was not prepared to be out in the cold for 4 hours.  This despite being part of the deployment team and knowing that they were preparing for a long engagement.  I felt terrible watching the Red Brigade struggle with the conditions.  I don't know if other people were better prepared.
+
+It would have been nice to have larger quantities of warm drinks for both attendees and passerby's.  

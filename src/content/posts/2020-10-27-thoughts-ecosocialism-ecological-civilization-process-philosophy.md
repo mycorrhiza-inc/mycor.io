@@ -1,0 +1,20 @@
+---
+author: Bradley Venner
+date: '2020-10-27'
+draft: true
+title: Thoughts on Ecosocialism, Ecological Civilization, Process Philosophy
+---
+
+Arran Gare published two papers in 2020 that tied his work on process philosophy and 'ecological civilization' to ecosocialism [@gare:2020:after_1],[@gare:2020:after_2]. He also recently published a paper comparing biosemiotics and relational biology [@gare:2019:biosemiosis] and semiotics and information theory [@gare:2020:semiosis]. So he clearly is developing a framework that is essentially the same as my "ecology, society, semiotics" (except he actually writes) in that he places Peirce and Marx in the 'main line' of his argument. Like Peirce, Gare traces a historical metanarrative. Peirce works primarily in the logic and traces a historical mistep in 'modern nominalism'. Gare traces the historical mistep to the enlightenment and 'modern civilization'
+
+But I still have trouble understanding what his basic position is, in part because his style as a system builder is to cite a wide variety of authors, most of who I haven't read, so I'm often not sure that I've gotten the gist of his argument.  Despite reading 1.5 of his books, I would have a hard time explaining some of the basic concepts. But another aspect of his thought is avoiding formal and mathematical frameworks, which I'm guessing is by design.
+
+In an interview for the journal Ecopoesis [@gare:2020:toward], Gare lays out a short overview of his approach.  He states
+
+> Humans are uniquely social and capable of symbiosis by virtue of their much more complex forms of semiosis associated with culture, consisting of the dialectics of representation operating primarily through language, the dialectics of recognition operating primarily through institutions, and the dialectics of labor operating through technologies.
+
+There is a family resemblance to Szulecki's energy democracy framework [@szulecki:2020:energy], where we can identify their process, outcome, goal with the dialectics of recognition, labor, and representation, respectively.
+
+Gare also highlights the notion of 'democratic federalism,' 'communities of communities,' 'trans-culturalism' as aspects of ecological civilization. A politics of belonging is also crucial:
+
+> A successful precursor to such politics was the policy of ‘folkhemmet’ of the Swedish Social Democratic Party from 1932 to 1976 – conceiving society as the ‘people’s home’ with no unwanted stepchildren.

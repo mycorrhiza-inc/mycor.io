@@ -1,0 +1,24 @@
+---
+author: Brad Venner
+date: '2018-10-13'
+draft: true
+title: Night at the Black Rose
+---
+
+So last night *The Choralary*, a small choral group that I'm in, had the chance to open for Beppe Gambetta at [The Black Rose Acoustic Society](https://www.blackroseacoustic.org/).  On the drive I listened to Radiolab's podcast [In the No Part 1](https://www.wnycstudios.org/story/no-part-1), a reworking of material from Kaitlin Prest's podcast [The Heart](https://www.theheartradio.org/no-episodes/).  In the middle of the night, I read some more from *Democracy Against Capitalism* [@wood:1995:democracy].  
+
+Kaitlin Prest says that she is working to uncover the invisible power relations affecting her relationships with men.  Although sex is a decidedly non-Marxist view of base, few can deny it's material basis.  So in a way, this is a base-superstructure discussion, which is also the subject of Wood's second chapter.  Listening to the podcast, I couldn't help noticing that I went straight to my gender's side.  I was sympathetic to the boy friend, who could not quite accept that he had done something wrong by pushing her sexual boundaries.  So this quote from Wood's book, which she attributed to E.P. Thompson, struck me as relevant:
+
+> when we speak of the capitalist mode of production for profit we are indicating at the same time a ‘kernel’ of characteristic human relationships – of exploitation, domination, and acquisitiveness which are inseparable from this mode, and which find simultaneous expression in all of Mr Williams’ ‘systems’.
+
+Mr William's systems are economic, social, and cultural.  It seems that what Prest is objecting to is the way that this 'kernel' is expressed in intimate relationships - being treated as a means to an end, not as an end in herself.  But this would imply a very skeptical view of the notion that gendered relationships can be entirely freed from this kernel within capitalism.  But on the other hand, the experimental development of 'real utopias' advocated by Dewey and Wright requires the courage to try, so understanding how the 'kernel' is expressed at the individual and community level is important.  So it seems like the task of socialist feminism is to help improve this understanding.          
+
+Which brings me to the concert.  Gambetta grounds his music and interaction with the audience with a deep respect for the folk history of his music.  But like Prest's relationships, these songs are not placed in their capitalist context.  So I started thinking about "A Folk History of the Commons" again.  But is it possible to combine artistic merit and theoretical exposition?  Neither Prest's podcast or Gambetta's concert seem like they would be enhanced by theoretical exposition interrupting the narrative.  So the question of how to develop and present the material raises its head.  But is the notion that we must make stories about individuals to make them relevant and entertaining
+
+The above-mentioned E.P. Thompson might be a good resource for this project.  Wood mentions his work on the evolution of the working class in England.
+
+> Rebellion against the processes of capitalist accumulation, therefore, often took the form of a ‘rebellion in defence of custom’, creating that characteristic paradox of the eighteenth century, ‘a rebellious traditional culture’.  Class conflict, then, tended to take the form of ‘confrontations between an innovative market economy and the customary moral economy of the plebs’ [@wood:1995:democracy]
+
+Googling "folk music marxism" gave me [Venceremos](https://truthout.org/articles/singing-songs-of-struggle-how-a-folk-music-movement-helped-elect-a-marxist-reformer-in-chile/), a history of the role of folk music in Salvador Allende's election.  There's no shortage of stories that could be told!   Venceremos is about Nueva Cancion, 'the strongest folk music movement in Latin American history.'
+
+I wonder about a three-act structure, with perhaps the second act focusing on Pete Seeger and .  

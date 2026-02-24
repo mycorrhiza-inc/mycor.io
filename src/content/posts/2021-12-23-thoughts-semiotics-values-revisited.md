@@ -1,0 +1,42 @@
+---
+author: Bradley Venner
+date: '2022-02-05'
+draft: true
+title: Thoughts on Semiotics and Values Revisited
+---
+
+In some previous manic phase, I outlined a project of three *projects*, conceived of as classes that would cover Peirce's three main branches of philosophy - phenomenology, metaphysics, and normative science. *Semiotics and Values* was intended to cover the normative science aspect. But presently I am reading Bryer's *Accounting for Value in Marx's Capital [@byer:2017:value], (thanks, Library Genesis) which has made me wonder if I could give this project a more scientific, less philosphical focus.  Rather than focusing on normative science in general, I could focus on interpreting Marx's critique of capitalism with an accounting focus, with somthing like value flows as the intended semantics. Such a theory would be applicable to applied problems in energy democracy. The use of semiotics could extend Marx's analysis to include "production of knowledge", to be more useful in analysis of cognitive capital.
+
+To the extent that I want to develop the intersection of "categorical systems theory" (or network theory, as Baez prefers) with "ecological economics".
+
+A tripartite mapping of ecology, society, democracy gives three combined fields of "social ecology", "social democracy" and "ecological democracy" (word ordering matters - different orders would indicate different traditions. Ecological society and democratic society don't identify existing academic traditions as much, and democratic ecology doesn't seem to make sense). "Ecological economics" could be viewed as a subfield of "social ecology". Fisher-Kowalski, former head of the Institute for Social Ecology in Vienna, wrote a nice introductory article about the intellectual history of social ecology [@fischer-kowalski:2016:archipelago] calls social ecology an "archipelago" between the mainlands of natural sciences and engineering and the social sciences and the humanities.
+
+They outline the birth of the "Vienna Social Ecology School":
+>   The name Social Ecology, later chosen in distinction to Human Ecology, was born out of the team’s conviction that it was not the human species that mattered  but rather  the social (and economic and technical) organization this species was evolving. [@haberl:2016:social, p. 19] 
+
+The influence of Luhmann in the Viennese social ecology tradition is highlighted in this article. Luhmann seems like he could be a touchpoint in my particular approach, since his emphasis was on the importance of communication in social systems (distinguishing social as a communication system as oppose to human). 
+
+A few years ago I thought the place to start would be ecological economics. If social ecology is the interation of sociology and ecology, then ecological economics is the relationship of economics and ecology. Since I took way more economics than sociology in college, it seems natural to focus on the latter. Marx is interesting in being claimed by both disciplines, although perhaps is more actively studied in sociology now.
+
+The other benefit of the "ecological economics" framing is that this discipine is most able to challenge existing economic rationalizations7
+> It explains social systems as ‘hybrids’, a structural coupling between a (cultural) communication system and interconnected biophysical elements.[@haberl:2016:social, p. 29]
+
+Democratic ecosocialism takes a strongly normative approach to the cultural sphere, conceiving the main role of culture as "governance", or perhaps a description of democracy as a healthy "communication system." This has a strong resonance with Dewey's "democracy as a way of life" 
+
+> The sociometabolic model is described in the following section as an interrelation of stocks (human population, territory, livestock and artifacts) and flows (energy and materials). It has systematic similarities with national accounting and is thus useful for addressing many research questions, such as the resource productivity of a national economy or its energy intensity. To some extent, it is the description of an economy, at any time in history, using biophysical instead monetary parameters. [@haberl:2016:social, p. 29].
+
+The explicit framework of sociometabolic model is taken from Marx. The emphasis on accounting echoes Bryer's arguments [@byrer:2019:value]. The emphasis on "biophysical instead of monetary parameters" fits the use of a type theory rather than an untyped logic to describe social metabolism. 
+
+Culture as semiosis. The next passage resonates with Deely's definition of humans as a "semiotic animal." Just replace "information" with "signs" in the following quotation.
+
+> Cultural tradition as such, that is non-genetic acquisition, storage, processing and transmission of information is not a specific feature of humans. A specific human feature, however, is to make this strategy dominant.
+[sieferle:2011:cultural, p. 317]
+and
+> Cultural evolution proper stabilizes the tradition of behavioral complexes by intergenerational transmission of information in human groups. [sieferle:2011:cultural, p. 317]
+
+> The monopoly of Economics in portraying the functioning of the world’s societies is being challenged by the sociometabolic paradigm. [@haberl:2016:social, p. 45]
+
+Formal semiotics as modal type theory s
+
+social ecology in modal type theory
+

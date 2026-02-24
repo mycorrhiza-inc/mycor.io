@@ -1,0 +1,14 @@
+---
+author: Bradley Venner
+date: '2022-07-30'
+draft: true
+tags:
+- semiotics-values
+title: Notes on From Commodity Production to Sign Production
+---
+
+This paper is an explicit attempt to link socialism and pragmatism by analyzing the resemblance between Marx's analysis of commodity production and Peirce's semiotics. I thought from the title of this paper that is was important enough to get the paper from LibGen. 
+
+This paper has a strong overlap with my proposed project of "semiotics of values". My recent thought has drawn a deeper connection between Dewey and Marx, with Dewey's more dynamic, interaction-oriented approach to logic and commitment to "perfectionism".
+
+Biosemiotics draws on Peirce, while enactivism draws more on Dewey. In my limited reading of biosemiotics, it seems to have a Deweyian flavor.  

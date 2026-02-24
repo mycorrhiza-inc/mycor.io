@@ -1,0 +1,23 @@
+---
+author: Bradley Venner
+date: '2021-11-12'
+draft: true
+title: Notes on Pragmatism and Idealism
+---
+
+Pragmatism and socialism (particularly Marxism) have been presented as competing traditions with little in common by authors such as Elizabeth Anderson and Cornell West. However, there appears to be a fair amount of scholarly effort relating pragmatism and German idealism. The multi-author volume *Pragmatism and Idealism* was published in 2018 and edited by Robert Stern.
+
+# Pragmatism and Idealism
+
+## Drawing out pragmatic themes in idealist philosophers
+
+Paul Redding, Hegel and Pragmatism
+
+## Relating pragmatists and idealists
+
+Steven Levine; Hegel, Dewey and Habits
+Italo Testa; Dewey, Second Nature, Social Criticism and the Hegelian Heritage
+
+# Socialism and idealism
+
+The other relation is between socialism and idealism. Although the relationship between Hegel and Marx is well explored, Dussel develops the argument that Marx embraced Schelling's critique of Hegel in his notion of 'living labour'. 

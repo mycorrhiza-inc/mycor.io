@@ -1,0 +1,38 @@
+---
+author: Brad Venner
+date: '2022-05-25'
+draft: true
+title: Notes on A Model-Based Epistemology of Measurement
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Eran Tal is a philosopher at McGill University. They wrote the Stanford Encyclopedia of Philosophy article on [Measurement in Science](https://plato.stanford.edu/entries/measurement-science/). The present article, *A Model-Based Epistemology of Measurement* [@tal:2017:model] was published in the book "Reasoning in Measurement". My interest in this article was writing about measurement models and thinking that I needed a more nuanced description of modeling strategies than "bottom-up" versus "top-down". There's also a mutual dependence on "components of uncertainty" versus "measurement models" in defining uncertainty that I'd like to clarify.
+
+Tal begins with distinguishing between "instrument indications" and "measurement outcomes." A "quantified indication" is not a "measurement outcome". In the "optics" model of measurement, chemical knowledge is "on the left" and indications are "on the right". 
+
+On p. 240, Tal distinguishes between "processes" and "models". I think that these correspond to the vertical dimension, with processes on the top and models on the bottom. The "calibration/evaluation" model would refine this to say that the calibration model of a process that can be inverted to develop the evaluation model of a measurement. Tal claims that the idealized picture of a measurement process formed in a measurement model is a feature of measurement, not a bug.
+
+If category theory is a theory of modeling, then categorical metrology should be able to generalize the model-based epistemology presented here. 
+
+Tal critiques the representational theory of measurement, which tries to establish homomorphisms between qualitative and quantitative relational structures. Tal points out that measurement outcomes do not necessarily preserve order and equality among indications, let alone "complex structures like additivity." A weaker relation than homomorphism must be used.
+
+How about infomorphism? Sounds like a better candidate than homomorphism.
+
+On page 41, Tal says that "A calibration function maps instrument indications to measurement outcomes", but this misses the role of the evaluation function. In his example of calibration, he uses "gauge blocks of known lengths", which elides the notion of traceability and also of "synthetic" knowledge - how to make blocks of known length.
+
+Tal defines a "white-box" model as a measurement process defined as a collection of modules. This is clearly inspired by GUM, which is cited in this paragraph. The notion of mapping between operads describing different levels of measurement in Foley is still very attractive. Could this notion be brought over to the optics model?
+
+Tal uses the "artifact" notion of measurement standard, which makes sense as the article pre-dates the SI revision.
+
+> The primary epistemic function of calibration—evaluating accuracy—is achieved by evaluating coherence among models, not by evaluating empirical correlations among the indications of instruments.
+
+Coherence is important but perhaps not a complete descriptor. As chemical systems increase in complexity to biological systems, synthesis becomes impossible and only coherence can be used. Nevertheless, biologists make heroic interventions to create 'standards' (such as clonal cell lines). 
+
+>  For a putative measurement outcome to be deemed objective, it must satisfy the requirement of convergence under multiple models.
+
+Very similar to Joe Lowry's metrological model.
+
+A related thought. Bartoz has developed "profunctor optics". Ellerman has developed "brain functors" which are developed as profunctors. Pratt has developed "communes" that are categorical generalizations of Chu spaces.
