@@ -68,9 +68,13 @@ def migrate_file(src_path: Path) -> bool:
         print(f"  SKIP (no frontmatter): {name}")
         return False
 
-    # Normalize date
+    # Normalize date; fall back to date prefix in filename if not in frontmatter
     if "date" in fm:
         fm["date"] = normalize_date(fm["date"])
+    else:
+        m = re.match(r'^(\d{4}-\d{2}-\d{2})', src_path.stem)
+        if m:
+            fm["date"] = m.group(1)
 
     # Strip Quarto-specific keys
     for key in QUARTO_KEYS:
