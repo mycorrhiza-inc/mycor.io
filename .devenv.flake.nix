@@ -4,12 +4,12 @@
       vars = {
   version = "1.11.2";
   system = "x86_64-linux";
-  devenv_root = "/home/nicole/Documents/ecosocdem.github.io";
-  project_input_ref = "path:/home/nicole/Documents/ecosocdem.github.io";
-  devenv_dotfile = "/home/nicole/Documents/ecosocdem.github.io/.devenv";
+  devenv_root = "/home/nicole/Documents/mycor.io";
+  project_input_ref = "path:/home/nicole/Documents/mycor.io";
+  devenv_dotfile = "/home/nicole/Documents/mycor.io/.devenv";
   devenv_dotfile_path = ./.devenv;
   devenv_tmpdir = "/run/user/1000";
-  devenv_runtime = "/run/user/1000/devenv-de71fbf";
+  devenv_runtime = "/run/user/1000/devenv-371e11f";
   devenv_istesting = false;
   devenv_direnvrc_latest_version = 1;
   container_name = null;
@@ -17,7 +17,7 @@
   ];
   hostname = "vermissian";
   username = "nicole";
-  git_root = "/home/nicole/Documents/ecosocdem.github.io";
+  git_root = "/home/nicole/Documents/mycor.io";
   secretspec = null;
 };
     in
@@ -41,12 +41,12 @@
       vars = {
   version = "1.11.2";
   system = "x86_64-linux";
-  devenv_root = "/home/nicole/Documents/ecosocdem.github.io";
-  project_input_ref = "path:/home/nicole/Documents/ecosocdem.github.io";
-  devenv_dotfile = "/home/nicole/Documents/ecosocdem.github.io/.devenv";
+  devenv_root = "/home/nicole/Documents/mycor.io";
+  project_input_ref = "path:/home/nicole/Documents/mycor.io";
+  devenv_dotfile = "/home/nicole/Documents/mycor.io/.devenv";
   devenv_dotfile_path = ./.devenv;
   devenv_tmpdir = "/run/user/1000";
-  devenv_runtime = "/run/user/1000/devenv-de71fbf";
+  devenv_runtime = "/run/user/1000/devenv-371e11f";
   devenv_istesting = false;
   devenv_direnvrc_latest_version = 1;
   container_name = null;
@@ -54,7 +54,7 @@
   ];
   hostname = "vermissian";
   username = "nicole";
-  git_root = "/home/nicole/Documents/ecosocdem.github.io";
+  git_root = "/home/nicole/Documents/mycor.io";
   secretspec = null;
 };
       devenv =
