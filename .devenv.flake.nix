@@ -3,21 +3,21 @@
     let
       vars = {
   version = "1.11.2";
-  system = "x86_64-linux";
-  devenv_root = "/home/nicole/Documents/mycor.io";
-  project_input_ref = "path:/home/nicole/Documents/mycor.io";
-  devenv_dotfile = "/home/nicole/Documents/mycor.io/.devenv";
+  system = "aarch64-darwin";
+  devenv_root = "/Users/nicole/Documents/mycorrhiza/mycor.io";
+  project_input_ref = "path:/Users/nicole/Documents/mycorrhiza/mycor.io";
+  devenv_dotfile = "/Users/nicole/Documents/mycorrhiza/mycor.io/.devenv";
   devenv_dotfile_path = ./.devenv;
-  devenv_tmpdir = "/run/user/1000";
-  devenv_runtime = "/run/user/1000/devenv-371e11f";
+  devenv_tmpdir = "/var/folders/2g/q29_h0f54kggv1bt57dpnp980000gn/T/";
+  devenv_runtime = "/var/folders/2g/q29_h0f54kggv1bt57dpnp980000gn/T/devenv-172550b";
   devenv_istesting = false;
   devenv_direnvrc_latest_version = 1;
   container_name = null;
   active_profiles = [
   ];
-  hostname = "vermissian";
+  hostname = "cheddar";
   username = "nicole";
-  git_root = "/home/nicole/Documents/mycor.io";
+  git_root = "/Users/nicole/Documents/mycorrhiza/mycor.io";
   secretspec = null;
 };
     in
@@ -40,21 +40,21 @@
     let
       vars = {
   version = "1.11.2";
-  system = "x86_64-linux";
-  devenv_root = "/home/nicole/Documents/mycor.io";
-  project_input_ref = "path:/home/nicole/Documents/mycor.io";
-  devenv_dotfile = "/home/nicole/Documents/mycor.io/.devenv";
+  system = "aarch64-darwin";
+  devenv_root = "/Users/nicole/Documents/mycorrhiza/mycor.io";
+  project_input_ref = "path:/Users/nicole/Documents/mycorrhiza/mycor.io";
+  devenv_dotfile = "/Users/nicole/Documents/mycorrhiza/mycor.io/.devenv";
   devenv_dotfile_path = ./.devenv;
-  devenv_tmpdir = "/run/user/1000";
-  devenv_runtime = "/run/user/1000/devenv-371e11f";
+  devenv_tmpdir = "/var/folders/2g/q29_h0f54kggv1bt57dpnp980000gn/T/";
+  devenv_runtime = "/var/folders/2g/q29_h0f54kggv1bt57dpnp980000gn/T/devenv-172550b";
   devenv_istesting = false;
   devenv_direnvrc_latest_version = 1;
   container_name = null;
   active_profiles = [
   ];
-  hostname = "vermissian";
+  hostname = "cheddar";
   username = "nicole";
-  git_root = "/home/nicole/Documents/mycor.io";
+  git_root = "/Users/nicole/Documents/mycorrhiza/mycor.io";
   secretspec = null;
 };
       devenv =
