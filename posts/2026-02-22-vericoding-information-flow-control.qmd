@@ -1,0 +1,189 @@
+---
+title: "Vericoding for Practical Information Flow Control"
+author: "Google Gemini 3.1 Pro"
+date: "2026-02-22"
+draft: true
+categories: ["software", "security", "privacy", "formal-methods", "vericoding"]
+---
+
+# The Potential for Vericoding for Information Flow Control
+
+"Vericoding"—--the practice of using AI and Large Language Models (LLMs) to write formally verified code—--presents a massive opportunity for the future of democratic, secure software. As our societal infrastructure becomes increasingly digitized, the need for software that is mathematically proven to be secure and private is no longer a luxury; it is a necessity for protecting citizens and institutions.
+
+One of the most powerful paradigms for achieving this is **Language-Based Information Flow Control (IFC)**. IFC allows developers to track how data moves through a program, ensuring that sensitive information (like private user data) never leaks into public channels (like an unauthenticated API response).
+
+However, building practical IFC systems requires a delicate balance: we need formal methods with robust support for **effects** (what a program does, such as writing to a database) and **coeffects** (what a program requires from its context, such as a specific security clearance or capability). Crucially, if we want these systems to be adopted widely, we need to be able to write this software in a commonly used language.
+
+Does such a combination currently exist? The short answer is: not perfectly. But there are several promising paths forward.
+
+## The Challenge: Effects, Coeffects, and Mainstream Languages
+
+To properly model IFC, a type system needs to understand both the *computational effects* of a function and its *contextual requirements* (coeffects).
+
+- **Effects** track the outputs and state changes. For example, a function might have the effect of `WritesToPublicNetwork`.
+- **Coeffects** track the inputs and environmental dependencies. For example, a function might have the coeffect of `RequiresHighSecurityClearance`.
+
+Mainstream languages (like Python, Java, TypeScript, or C++) lack native, rigorous support for rich effect and coeffect systems. Conversely, languages that *do* support these advanced type system features (like Granule, Idris, or F*) are rarely used for everyday software development.
+
+If we want to use vericoding to build secure software at scale, we have to bridge this gap. Here is an analysis of the most promising current paths.
+
+## Path 1: Rust and the Verification Ecosystem (Flux and Verus)
+
+Rust is currently the most promising mainstream language for this endeavor. Its ownership model and affine type system (the borrow checker) already act as a fantastic foundation for tracking resources and capabilities.
+
+While Rust doesn't have a native coeffect system, its ecosystem is rapidly developing tools that can simulate one for the purposes of IFC:
+
+1. **Flux (Liquid Types for Rust):** Flux extends Rust with refinement types. By attaching logical predicates to types, you can encode security labels (e.g., `High` and `Low` confidentiality) directly into the type signatures. While not a pure effect system, refinement types can enforce non-interference, a core property of IFC.
+
+2. **Verus:** Verus is a tool for formally verifying Rust code. It allows developers to write logical requirements, such as preconditions, postconditions, and invariants within their code. Verus calls these additional requirements **ghost code**, and they may possibly be used to model complex information flow policies, although at present no peer-reviewed papers have demonstrated this capability. In particular, the specialized information flow control tools discussed below do not use Verus.
+
+3. **Carapace:** Carapace is a Rust library that enables both static and dynamic analysis for information flow control without modifying the Rust compiler or language.
+
+**The Vericoding Angle:** Writing proofs in Verus or complex annotations in Flux is notoriously difficult. This is exactly where LLMs excel. An AI can generate the verbose proofs and invariants required by the verifier, while the human developer focuses on defining the high-level security policy.
+
+## Path 2: F* (F-star) and Extraction
+
+If we are willing to compromise slightly on the "commonly used language" requirement for the *core* logic, F* presents a incredibly powerful alternative.
+
+F* is a general-purpose functional programming language aimed at program verification. It has a uniquely powerful effect system based on **Dijkstra monads**, which can elegantly and natively model both effects and coeffects for IFC.
+
+**The Path:** You don't write your entire web server in F*. Instead, you write the security-critical core of your application in F*, formally verify its information flow properties, and then **extract** it to C, OCaml, or WebAssembly. You then bind this verified core to a frontend written in a mainstream language like TypeScript or Rust.
+
+**The Vericoding Angle:** F* is notoriously difficult to learn. However, LLMs are becoming increasingly adept at writing F* code and discharging its proofs. Vericoding could make F* accessible to average developers, allowing them to generate verified Wasm modules without needing a PhD in type theory.
+
+## Path 3: TypeScript and Advanced Static Analysis
+
+TypeScript is ubiquitous. While it lacks formal verification capabilities, its Turing-complete type system is incredibly flexible.
+
+Researchers and advanced practitioners have found ways to abuse TypeScript's conditional types, template literal types, and mapped types to encode basic taint tracking and IFC.
+
+**The Path:** By defining strict branded types (e.g., `Secret<T>` vs `Public<T>`) and using advanced type-level programming, you can force the TypeScript compiler to reject code that leaks secrets.
+
+**The Reality:** This approach is brittle. It is not true formal verification, and it relies on developers never using `any` or `@ts-ignore`. However, for teams that absolutely must stay within the JavaScript ecosystem, combining strict TS configurations with external static analysis tools (like CodeQL) is the most pragmatic current path.
+
+## Conclusion: The Future of Democratic Software
+
+We are currently in a transitional phase. The perfect language—one that is as ubiquitous as Python, as safe as Rust, and has the formal effect/coeffect systems of F*—does not yet exist.
+
+However, **vericoding** changes the calculus. By using LLMs to bridge the usability gap of formal methods, we can start building mathematically secure, privacy-respecting software today using tools like Rust+Verus or F*+Extraction. As these AI tools improve, the barrier to entry for writing formally verified, IFC-compliant software will plummet, paving the way for a digital infrastructure that protects democratic values by design.
+
+# The Benefits of F* for Vericoding
+
+F* is a dependently-typed language that has substantial similarities with other dependent type systems such as Rocq (formerly Coq), Idris, and Lean. All of these could theoretically be used for vericoding.
+
+F* (F-star) in the article over those alternatives for three specific reasons related to your prompt's focus on **Information Flow Control (IFC)**, **effects/coeffects**, and **vericoding (LLM generation)**.
+
+Here is a breakdown of why F* stands out for this specific use case:
+
+### 1. Native, First-Class Support for Complex Effects (Dijkstra Monads)
+While Rocq, Lean, and Idris all support dependent types, F* was designed from the ground up with a uniquely powerful, extensible effect system based on **Dijkstra Monads**.
+
+In most dependently-typed languages, if you want to model side effects (like reading a file or mutating state) or coeffects (like requiring a security clearance), you have to manually encode them using standard monads or algebraic effects. This can become incredibly cumbersome when you also want to prove properties about those effects.
+
+F* automates much of this. Its Dijkstra monads allow you to write effectful code that *looks* like standard imperative or functional code, while the compiler automatically computes the weakest preconditions (the requirements/coeffects) and strongest postconditions (the outputs/effects) of that code. This makes it significantly more ergonomic for modeling the strict "taint tracking" required by Information Flow Control.
+
+### 2. The "Vericoding" Angle: SMT Automation vs. Tactic Scripts
+This is perhaps the most crucial point for the "vericoding" aspect of your article.
+
+Rocq and Lean are primarily **Interactive Theorem Provers (ITPs)**. To prove that a program is secure in Rocq or Lean, a human (or an LLM) typically has to write a "tactic script"—a step-by-step series of commands that guides the compiler to a proof. Generating correct tactic scripts is notoriously difficult for LLMs because the state of the proof changes invisibly after every step.
+
+F*, on the other hand, relies heavily on **SMT solvers** (specifically Z3) for automation. You write the code, you write the security specifications (the types), and F* automatically asks Z3 to find the proof.
+For an LLM, writing rich type annotations and letting an SMT solver do the heavy lifting is often much more reliable than trying to generate a 50-line interactive tactic script in Lean or Rocq.
+
+### 3. Battle-Tested Extraction for Security (Project Everest)
+You mentioned the need to develop software in a "commonly used language." F* has a highly mature extraction pipeline to OCaml, F#, and crucially, **C** (via a tool called Karamel/KreMLin).
+
+This isn't just theoretical. F* is the language behind **Project Everest** and **HACL***, a formally verified cryptographic library. If you use Mozilla Firefox, the Linux Kernel, or Windows, you are already running C code that was formally verified in F* and extracted.
+
+While Lean 4 is making massive strides as a general-purpose language with a C backend, F*'s extraction pipeline is currently the gold standard for taking highly secure, effectful, verified code and dropping it into mainstream C/C++/Rust codebases.
+
+### Where the Others Shine (and could be added to the post)
+That said, the other languages you mentioned are incredible and have their own strengths:
+*   **Idris 2:** If you wanted to focus heavily on *coeffects*, Idris 2 is actually a fantastic alternative to F*. Its **Quantitative Type Theory (QTT)** allows you to track exactly how many times a variable is used, which is a perfect foundation for resource tracking and certain types of IFC.
+*   **Lean 4:** Lean 4 is rapidly becoming the most ergonomic and popular dependently-typed language. While its native effect system isn't as specialized for IFC out-of-the-box as F*'s Dijkstra monads, its metaprogramming capabilities are unmatched. You could absolutely build a custom IFC DSL inside Lean 4.
+
+Would you like me to update the blog post to include a section comparing F* to Idris 2 (focusing on Quantitative Type Theory for coeffects) or Lean 4? It would add a lot of depth to the analysis!
+
+# The Categorical Semantics of Dijkstra Monads
+
+To understand Dijkstra monads—the mathematical engine behind languages like F* and a powerful tool for Information Flow Control (IFC)—it helps to start with the intuition of what they are trying to achieve in programming, and then look at how that is formalized categorically.
+
+In short: **A Dijkstra monad is a categorical structure that tightly couples a computational effect (like state or IO) with its formal specification (like Hoare logic preconditions and postconditions).**
+
+Here is a breakdown of how they work, culminating in their categorical semantics.
+
+## 1. The Intuition: Hoare Logic and Weakest Preconditions
+
+In traditional formal verification, we use Hoare triples: `{P} c {Q}`. This means: "If precondition `P` holds before running computation `c`, then `c` will terminate and postcondition `Q` will hold afterward."
+
+Edsger W. Dijkstra introduced the concept of a **Weakest Precondition (WP)**. Instead of guessing a precondition `P`, we can calculate the *weakest possible* precondition required for `c` to achieve `Q`.
+We write this as a function: `WP(c, Q)`.
+
+A WP is a **predicate transformer**. It takes a postcondition (a predicate on the output) and transforms it into a precondition (a predicate on the input state).
+
+## 2. The Three Components of a Dijkstra Monad
+
+A Dijkstra monad is not just one monad; it is a structure built out of three interacting categorical components:
+
+1. **The Computational Monad ($M$):** A standard monad representing the actual effects of the program (e.g., the `State` monad, `IO` monad, or `Exception` monad).
+2. **The Specification Monad ($W$):** A monad whose objects are *predicate transformers* (like Dijkstra's WP). This monad calculates the proofs.
+3. **The Effect Observation ($\theta$):** A mapping that extracts the specification from a computation.
+
+## 3. The Categorical Semantics
+
+Categorically, "Dijkstra Monad" is a term from programming language theory. In pure category theory, a Dijkstra monad is best understood as an **Indexed Monad** (or a Graded Monad) constructed via a **Lax Monad Morphism**.
+
+Let's formalize this. Let $\mathcal{C}$ be our base category of types.
+
+### A. The Specification Monad ($W$)
+
+Let $\mathbf{PreOrd}$ be the category of preorders. We define a functor $W: \mathcal{C} \to \mathbf{PreOrd}$.
+For a type $A$, $W(A)$ is the preorder of all valid specifications (predicate transformers) for computations returning $A$.
+
+* The preorder relation $\sqsubseteq$ means logical implication: $w_1 \sqsubseteq w_2$ means $w_1$ is a *stronger* specification than $w_2$ (it requires less of the environment and guarantees more about the output).
+* $W$ forms a monad. Its `return` ($\eta_W$) gives the trivial specification for a pure value. Its `bind` ($\mu_W$) composes two predicate transformers.
+
+### B. The Computational Monad ($M$)
+
+Let $M: \mathcal{C} \to \mathcal{C}$ be a standard monad (like the State monad $S \to A \times S$).
+
+### C. The Monad Morphism ($\theta$)
+
+We define a natural transformation $\theta: M \to W$ that respects the monad structures of $M$ and $W$.
+Categorically, $\theta$ is a **monad morphism**. For any computation $m \in M(A)$, $\theta_A(m)$ gives us the *exact* weakest precondition (the specification) of that computation.
+
+### D. The Dijkstra Monad ($\mathcal{D}$)
+
+The Dijkstra monad itself, denoted $\mathcal{D}$, is an **indexed family of types**. It is parameterized by a type $A$ and a specification $w \in W(A)$.
+
+Categorically, $\mathcal{D}(A, w)$ is defined as the **lax fiber** (or lax pullback) of $\theta$ over $w$:
+
+$$ \mathcal{D}(A, w) \cong \{ m \in M(A) \mid \theta_A(m) \sqsubseteq w \} $$
+
+In plain English: The type $\mathcal{D}(A, w)$ contains all computations $m$ whose actual effect ($\theta_A(m)$) is safely approximated by the specification $w$.
+
+## 4. The Monadic Operations (Categorically)
+
+Because $\mathcal{D}$ is an indexed monad, its operations are indexed by the operations of the specification monad $W$:
+
+1. **Return:** Uses the unit of $W$.
+   $$ \text{return} : A \to \mathcal{D}(A, \eta_W) $$
+   *(A pure value has the trivial specification $\eta_W$.)*
+
+2. **Bind:** Uses the multiplication of $W$.
+   $$ \text{bind} : \mathcal{D}(A, w_1) \times (A \to \mathcal{D}(B, w_2)) \to \mathcal{D}(B, \mu_W(w_1, w_2)) $$
+   *(If you sequence two computations, their combined specification is the monadic bind of their individual specifications in $W$.)*
+
+3. **Subsumption (The Lax part):** Because $W(A)$ is a preorder, $\mathcal{D}$ is a functor over that preorder.
+   $$ \text{subsume} : \mathcal{D}(A, w_1) \to \mathcal{D}(A, w_2) \quad \text{provided } w_1 \sqsubseteq w_2 $$
+   *(If a computation satisfies a strict specification $w_1$, it also satisfies a looser specification $w_2$.)*
+
+## Why this is brilliant for Information Flow Control (IFC)
+
+In the context of vericoding and secure software, this categorical structure is exactly what we need for IFC:
+
+* The **coeffects** (security clearances required) and **effects** (tainted data written) are encoded in the specification monad $W$.
+* When you write code (using `bind`), the compiler automatically uses $\mu_W$ to calculate the combined security requirements of the entire program.
+* If your program tries to leak data, the calculated specification $w_{\text{actual}}$ will not be subsumable ($\sqsubseteq$) by the required security policy $w_{\text{policy}}$, and the compiler will reject the program via the lax pullback definition.
+
+In F*, the compiler automatically generates the $W$ monad and the $\theta$ morphism for you (a process called "Dijkstra Monads for Free"), allowing you to write standard monadic code while the type system automatically builds and verifies the categorical predicate transformers in the background!
