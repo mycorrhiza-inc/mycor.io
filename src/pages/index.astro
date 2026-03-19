@@ -2,49 +2,78 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const allPosts = await getCollection('posts');
-const posts = allPosts.sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-);
+const allProjects = await getCollection('projects');
+const projects = allProjects.sort((a, b) => a.data.order - b.data.order);
 
-// Group by year
-const byYear = new Map<number, typeof posts>();
-for (const post of posts) {
-  const year = post.data.date.getFullYear();
-  if (!byYear.has(year)) byYear.set(year, []);
-  byYear.get(year)!.push(post);
-}
-const years = [...byYear.keys()].sort((a, b) => b - a);
+const statusColors: Record<string, string> = {
+  concept: 'badge-ghost',
+  MVP: 'badge-info',
+  incubating: 'badge-warning',
+  graduated: 'badge-success',
+};
 ---
 
 <BaseLayout>
-  <div class="max-w-3xl">
-    {years.map((year) => (
-      <section class="mb-12">
-        <h2 class="text-2xl font-bold text-primary mb-6 pb-2 border-b border-base-300">
-          {year}
-        </h2>
-        <ul class="space-y-4">
-          {byYear.get(year)!.map((post) => {
-            const d = post.data.date;
-            const month = d.toLocaleDateString('en-US', { month: 'short' });
-            const day = String(d.getDate()).padStart(2, '0');
-            return (
-              <li class="flex gap-4 items-baseline group">
-                <span class="text-xs text-base-content/35 tabular-nums w-16 shrink-0">
-                  {month} {day}
-                </span>
-                <a
-                  href={`/posts/${post.id}`}
-                  class="text-base-content/85 hover:text-primary transition-colors leading-snug"
-                >
-                  {post.data.title}
-                </a>
-              </li>
-            );
-          })}
-        </ul>
-      </section>
-    ))}
-  </div>
+  <!-- Hero -->
+  <section class="max-w-3xl mb-20 pt-6">
+    <h1 class="text-5xl font-bold mb-6 leading-tight">
+      Open source software<br />
+      for the <span class="text-primary">cooperative</span> and <span class="text-secondary">nonprofit</span> sector.
+    </h1>
+    <div class="space-y-4 text-lg text-base-content/75 max-w-2xl">
+      <p>
+        Cooperatives and nonprofits are trying to solve the world's biggest problems —
+        climate, democracy, economic justice — with software tools designed for corporations.
+        We're building the infrastructure they actually need.
+      </p>
+      <p>
+        mycor.io runs the full product lifecycle — research, design, specification, engineering —
+        as a volunteer organization. Every project combines the technical and social work
+        together, because you can't separate them and succeed at either.
+      </p>
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section class="mb-20">
+    <h2 class="text-xs font-semibold tracking-widest uppercase text-base-content/40 mb-8">
+      Projects
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {projects.map((project) => (
+        <a
+          href={`/projects/${project.id}`}
+          class="group block bg-base-200 border border-base-300 rounded p-6 hover:border-base-content/20 hover:bg-base-300 transition-colors"
+        >
+          <div class="flex items-start justify-between gap-4 mb-2">
+            <h3 class="text-xl font-bold group-hover:text-primary transition-colors">
+              {project.data.title}
+            </h3>
+            <span class={`badge badge-sm shrink-0 mt-1 ${statusColors[project.data.status] ?? 'badge-ghost'}`}>
+              {project.data.status}
+            </span>
+          </div>
+          <p class="text-base-content/65 text-sm leading-relaxed mb-4">
+            {project.data.tagline}
+          </p>
+          <span class="text-xs text-base-content/35">{project.data.target}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- The Notebook -->
+  <section class="max-w-2xl border-t border-base-300 pt-12">
+    <h2 class="text-xs font-semibold tracking-widest uppercase text-base-content/40 mb-4">
+      The Notebook
+    </h2>
+    <p class="text-base-content/65 mb-4">
+      Essays, notes, and working thoughts on technology, democracy, and economic organization —
+      the research behind the projects. Written over the last decade as we've tried to understand
+      what it would take to make this work.
+    </p>
+    <a href="/posts" class="text-primary hover:underline text-sm font-medium">
+      Browse the archive →
+    </a>
+  </section>
 </BaseLayout>
