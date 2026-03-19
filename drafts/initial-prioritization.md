@@ -1,6 +1,63 @@
 # What the fuck is this project?
 
-So as I am writing this I have just spent 2 years trying to do a startup only to have said startup, and you want to figure out why it 
+I have been playing with these sentence descriptions:
+
+`CNCF but for the specialized needs of Cooperatives and Nonprofits`
+
+and maybe a longer description and problem statement 
+
+```
+This organization aims to solve two problems
+- Nonprofits/Cooperatives who have a desperate need for software that will help them in their mission
+and 
+- A bunch of volunteer software developers who have 10 spare volunteer hours a week and want to "destroy capitalism", but are kinda directionless otherwise.
+We are hoping to solve both of these problems by having an organization that does all the components of a traditional startup, such as:
+- Market Research 
+- User Interviews
+- Project Specification
+- Sprint Planning
+- And the actual Software Engineering
+inside of an organization run almost completely by volunteers.
+```
+My main thought for this is that when making modern software you can either
+- *Software as an Investment Vehicle:* You try to sell a vision to VC's, where you convince them that the software can generate enough revenue to make back their investment ~100x. You then use this capital to pay a bunch of software engineers 100k a year 
+- *Other unexplored methodologies:* Lots of very successful software, both including developer tools like neovim, linux, postgres, and even some consumer software like blender, godot, jellyfin. Have successfully developed projects outside the traditional VC models of software dev. 
+
+But yeah I talked to a few people about the best form on setting this up and most of them settled on 
+
+
+## Reflections on Failure
+
+
+
+So as I am writing this I have just spent 2 years trying to do a startup only to have said startup, and you want to figure out why it failed.
+
+I dont think there was anything fundamentally wrong with the seance pivot. The main issues with it were 
+- not pivoting away from kessler sooner so we both had more time to work on it 
+- A major case of Skill Issue Syndrome that preventedus from actually meeting our deadlines.
+- Maybe leaning a bit too much into vibe coding at the detriment of having a really stable underlying base layer and networking stack which would have allowed us to ship sooner instead of adding more features.
+
+Kessler is a much more interesting project since it was fundamentally flawed in so many different ways.
+
+## The desires of activists and nonprofits are actually infinite
+
+There is this impression in the buisness community that people who do nonprofit and government work are less ambitious, but I think that this wrong on a fundamental level. 
+
+- People's desires in the business community are often very personal. I.E. I want to make partner at a firm, get promoted to <some position>, or even start a company that might eventually get valued at more than a billion dollars.  
+- Activists desires are often global, ie world peace, ending fossil fuel emissions, ending hunger, or putting economic investment under democratic control.
+
+The only large difference between these two groups is the ability for both groups to get what they want. But just because nonprofits/activists constantly adjust their expectations down, doesnt mean the desire has gone away.
+
+FOOTNOTE: I actually think that lots of radicals will dismiss large nonprofit organizations because they aren't "ambitious" enough but for almost every single person I have met in these organizations, this is always the result of beginning with a more ambitious project and failing. For example there was this one law firm in portland, who does smaller constitutional challenge lawsuits against  environmental regulations and might say something like. "Well why dont you do something more ambitious like challenge the last 50 years of fossil fuel subsidies on the national level and partner with a bunch of mass mobilization organizations to put pressure oh the court", except the organization spent the first 10 years of their existance doing that ambitious stuff, and only started doing the smaller scale stuff after a bunch of painful failures.
+
+This makes them uniquely shitty customers
+ 
+Typically if a business expresses some amount of desire for a software product, they typically are willing to pay some amount of money for it. Nonprofits when they say "this would be great to have", to a software product, and mean that it would be helpful for the broader political movement, not a thing that they would actually find useful in their day to day work.
+
+So don't let it get to your head. Only take positive feedback seriously if they sign a check and say "I will give this to you once you give me the software".
+
+
+## 
 
 
 # Initial Proposals

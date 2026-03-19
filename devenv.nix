@@ -1,5 +1,4 @@
-{ pkgs, ... }:
-{
+{pkgs, ...}: {
   env.OPENROUTER_MODEL = "google/gemini-3.1-pro-preview";
 
   packages = [
@@ -12,6 +11,9 @@
   };
 
   languages.julia = {
+    enable = true;
+  };
+  languages.javascript = {
     enable = true;
     package = pkgs.nodejs_22;
     corepack.enable = true;
