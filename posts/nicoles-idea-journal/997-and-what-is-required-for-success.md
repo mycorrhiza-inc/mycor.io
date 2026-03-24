@@ -19,8 +19,9 @@ This is all a trap though. Using the high motivation inherent in a startup to ge
 ## You need to get better at things you don't find fun right now.
 
 ## Burning the company down for the sake of you feeling productive.
+Everyone has this innate desire to "be productive", this feeling tends to influence our decisions to work on things that invoke the sensation of feeling productive. When working on something like a thesis this might mean that you spend most of your time tweaking font settings instead of actually writing it.
 
-Typically 
+But when you run a business, there are infinite amount of things you could be doing, but only a small portion of those are going to be things that are crucial to the success of the buisness going forward.
 
 
 # How Do I get better at this.
