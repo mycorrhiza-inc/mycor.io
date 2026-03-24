@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>MYCOR | SOVEREIGN COMMONS</title>
+<!-- Material Symbols -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&amp;family=Space+Grotesk:wght@300..700&amp;family=Inter:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              colors: {
+                "background": "#000000",
+                "tertiary-container": "#909191",
+                "primary-fixed-dim": "#ff4d3d",
+                "inverse-primary": "#ff0000",
+                "tertiary": "#ffffff",
+                "on-primary-fixed": "#000000",
+                "surface-container-low": "#0a0a0a",
+                "on-secondary-fixed-variant": "#002d61",
+                "inverse-surface": "#ffffff",
+                "surface-container": "#121212",
+                "on-primary-fixed-variant": "#ff0000",
+                "primary-container": "#ff2d1a",
+                "tertiary-fixed": "#ffffff",
+                "surface-container-highest": "#1a1a1a",
+                "on-tertiary-fixed": "#000000",
+                "on-tertiary": "#000000",
+                "on-secondary": "#000000",
+                "error-container": "#ff0000",
+                "surface-container-high": "#151515",
+                "on-secondary-container": "#000000",
+                "on-primary": "#000000",
+                "error": "#ff0000",
+                "secondary-container": "#2979ff",
+                "secondary": "#2979ff",
+                "primary": "#ff4d3d",
+                "on-secondary-fixed": "#000000",
+                "on-tertiary-fixed-variant": "#cccccc",
+                "surface": "#000000",
+                "outline": "#ff4d3d",
+                "tertiary-fixed-dim": "#ffffff",
+                "on-tertiary-container": "#000000",
+                "outline-variant": "#333333",
+                "on-surface": "#ffffff",
+                "on-error": "#ffffff",
+                "on-surface-variant": "#dddddd",
+                "secondary-fixed-dim": "#2979ff",
+                "surface-bright": "#1a1a1a",
+                "on-primary-container": "#ffffff",
+                "surface-dim": "#000000",
+                "surface-variant": "#121212",
+                "secondary-fixed": "#82b1ff",
+                "inverse-on-surface": "#000000",
+                "primary-fixed": "#ff8a80",
+                "surface-tint": "#ff4d3d",
+                "surface-container-lowest": "#000000",
+                "on-error-container": "#ffffff",
+                "on-background": "#ffffff"
+              },
+              fontFamily: {
+                "headline": ["Newsreader", "serif"],
+                "body": ["Inter", "sans-serif"],
+                "label": ["Space Grotesk", "monospace"]
+              },
+              borderRadius: {"DEFAULT": "0px", "lg": "0px", "xl": "0px", "full": "9999px"},
+            },
+          },
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .grainy-bg {
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+            opacity: 0.08;
+        }
+        .hard-shadow-primary { box-shadow: 8px 8px 0px 0px #ff4d3d; }
+        .hard-shadow-secondary { box-shadow: 8px 8px 0px 0px #2979ff; }
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+</head>
+<body class="bg-background text-on-background font-body selection:bg-primary selection:text-black">
+<!-- TopNavBar -->
+<header class="bg-black docked full-width top-0 z-50 border-b-4 border-primary flex justify-between items-center w-full px-6 py-4 mx-auto sticky">
+<div class="font-headline font-black text-primary text-3xl tracking-tighter uppercase">MYCOR</div>
+<nav class="hidden md:flex items-center gap-8">
+<a class="text-primary border-b-2 border-primary pb-1 font-label uppercase text-sm tracking-widest hover:bg-primary hover:text-black transition-colors duration-100" href="#">Manifesto</a>
+<a class="text-secondary font-label uppercase text-sm tracking-widest hover:bg-primary hover:text-black transition-colors duration-100" href="#">Commons</a>
+<a class="text-secondary font-label uppercase text-sm tracking-widest hover:bg-primary hover:text-black transition-colors duration-100" href="#">Governance</a>
+<a class="text-secondary font-label uppercase text-sm tracking-widest hover:bg-primary hover:text-black transition-colors duration-100" href="#">Infrastructure</a>
+</nav>
+<button class="bg-primary text-black font-label font-bold px-6 py-2 uppercase tracking-tighter text-sm hover:translate-x-1 hover:translate-y-1 transition-all duration-75 active:bg-secondary active:text-white">
+            JOIN CO-OP
+        </button>
+</header>
+<main class="relative">
+<div class="fixed inset-0 grainy-bg pointer-events-none z-0"></div>
+<!-- Hero Section -->
+<section class="relative min-h-[90vh] flex flex-col justify-center px-6 md:px-20 py-24 z-10">
+<div class="max-w-6xl">
+<span class="inline-block bg-secondary text-white font-label px-3 py-1 text-xs tracking-widest uppercase mb-6">EST. 2024 / PUBLIC GOOD</span>
+<h1 class="font-headline font-black text-6xl md:text-9xl leading-[0.85] tracking-tighter text-primary uppercase mb-8">
+                    SOVEREIGN <br/> COMMONS <br/> <span class="italic text-white">NOT CAPITAL</span>
+</h1>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-end">
+<p class="font-body text-xl md:text-2xl text-on-surface-variant max-w-xl leading-relaxed">
+                        Mycor is a software cooperative owned by the people who build it. We are building the digital infrastructure for the next era of collective autonomy.
+                    </p>
+<div class="flex flex-col gap-4">
+<div class="flex items-center gap-4 border-l-8 border-secondary pl-6 py-2">
+<span class="font-label text-secondary font-bold text-5xl">0%</span>
+<span class="font-label text-xs uppercase tracking-widest text-on-surface">Venture Capital <br/> Influence</span>
+</div>
+<div class="flex items-center gap-4 border-l-8 border-primary pl-6 py-2">
+<span class="font-label text-primary font-bold text-5xl">100%</span>
+<span class="font-label text-xs uppercase tracking-widest text-on-surface">Community <br/> Governance</span>
+</div>
+</div>
+</div>
+</div>
+<div class="absolute bottom-10 right-6 md:right-20 animate-bounce">
+<span class="material-symbols-outlined text-primary text-6xl">south</span>
+</div>
+</section>
+<!-- The Manifesto Block -->
+<section class="bg-black border-y-4 border-secondary px-6 md:px-20 py-32 z-10 relative overflow-hidden">
+<div class="absolute -top-10 -right-10 opacity-20">
+<span class="material-symbols-outlined text-[20rem] text-primary">gavel</span>
+</div>
+<div class="max-w-5xl relative z-10">
+<div class="border-l-[12px] border-primary pl-8 md:pl-16">
+<h2 class="font-label text-primary uppercase tracking-[0.4em] text-sm mb-12">OUR MANIFESTO</h2>
+<blockquote class="font-headline font-bold text-4xl md:text-7xl text-on-surface leading-none italic mb-12">
+                        "The algorithms that shape our lives must be transparent, the data we generate must be ours, and the software we use must be a bridge to community, not a wall for profit."
+                    </blockquote>
+<p class="font-body text-on-surface-variant text-lg md:text-xl max-w-2xl">
+                        We reject the surveillance-industrial complex. We build for resilience, for the long-tail of history, and for the local networks that actually matter. This is not a platform; it is a movement.
+                    </p>
+</div>
+</div>
+</section>
+<!-- Commons Projects Grid (Bento Style) -->
+<section class="px-6 md:px-20 py-32 z-10 relative">
+<h2 class="font-headline font-black text-6xl uppercase text-primary mb-16 tracking-tighter">THE INFRASTRUCTURE</h2>
+<div class="grid grid-cols-1 md:grid-cols-12 gap-6">
+<!-- Project 1 -->
+<div class="md:col-span-8 bg-surface-container-low p-10 border-4 border-outline-variant hover:border-secondary transition-all group">
+<div class="flex justify-between items-start mb-16">
+<span class="material-symbols-outlined text-secondary text-5xl group-hover:scale-110 transition-transform">database</span>
+<span class="font-label text-xs text-outline tracking-widest">STABLE / PROTOCOL</span>
+</div>
+<h3 class="font-headline font-bold text-5xl text-on-surface mb-6">CYBORG COMMONS</h3>
+<p class="font-body text-xl text-on-surface-variant max-w-xl mb-10">A decentralized database layer designed for horizontal cooperatives to share resources without centralized oversight.</p>
+<a class="inline-flex items-center gap-2 font-label text-primary uppercase text-sm font-bold tracking-widest hover:underline decoration-4 underline-offset-8" href="#">EXPLORE REPO <span class="material-symbols-outlined text-sm">arrow_forward</span></a>
+</div>
+<!-- Project 2 -->
+<div class="md:col-span-4 bg-primary text-black p-10 hard-shadow-secondary flex flex-col justify-between border-4 border-black">
+<div>
+<span class="material-symbols-outlined text-5xl mb-6" style="font-variation-settings: 'FILL' 1;">security</span>
+<h3 class="font-headline font-bold text-4xl mb-6 leading-tight">PRIVACY VOID</h3>
+<p class="font-body text-lg leading-relaxed font-medium">An end-to-end encrypted messaging suite for sensitive community coordination.</p>
+</div>
+<button class="mt-8 border-4 border-black py-4 px-6 font-label uppercase font-black text-sm tracking-tighter hover:bg-black hover:text-primary transition-colors">
+                        GET ALPHA ACCESS
+                    </button>
+</div>
+<!-- Project 3 -->
+<div class="md:col-span-4 bg-surface-container-highest p-10 border-4 border-outline-variant hover:border-primary transition-all group">
+<span class="material-symbols-outlined text-primary text-5xl mb-8 group-hover:rotate-12 transition-transform">account_balance_wallet</span>
+<h3 class="font-headline font-bold text-4xl text-on-surface mb-4">COORD-FIN</h3>
+<p class="font-body text-lg text-on-surface-variant">Fair-share compensation tools for open-source contributors.</p>
+</div>
+<!-- Project 4 -->
+<div class="md:col-span-8 bg-surface-container p-10 border-4 border-outline flex flex-col md:flex-row gap-8 items-center">
+<div class="flex-1">
+<h3 class="font-headline font-bold text-4xl text-on-surface mb-6">THE RECURSIVE GOVERNANCE TOOLKIT</h3>
+<p class="font-body text-lg text-on-surface-variant mb-8">Modular voting and proposal frameworks that evolve with your collective's size and needs.</p>
+<div class="flex gap-4">
+<span class="bg-secondary text-white px-4 py-1 font-label text-xs uppercase font-bold">ALPHA</span>
+<span class="bg-surface-container-high text-on-surface-variant px-4 py-1 font-label text-xs uppercase font-bold">OPEN SOURCE</span>
+</div>
+</div>
+<div class="w-full md:w-56 h-56 bg-black border-4 border-outline-variant flex items-center justify-center">
+<span class="material-symbols-outlined text-7xl text-secondary">dynamic_form</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Join the Collective CTA -->
+<section class="px-6 md:px-20 py-32 z-10 relative">
+<div class="bg-secondary p-12 md:p-24 flex flex-col md:flex-row justify-between items-center gap-12 hard-shadow-primary border-4 border-black">
+<div class="max-w-2xl">
+<h2 class="font-headline font-black text-6xl md:text-8xl text-black leading-[0.9] uppercase tracking-tighter mb-8">
+                        READY TO <br/> <span class="italic text-white">RECLAIM</span> THE WEB?
+                    </h2>
+<p class="font-body text-black text-xl md:text-2xl font-bold">
+                        We are looking for engineers, designers, organizers, and thinkers who believe in digital sovereignty. No resume required, only conviction.
+                    </p>
+</div>
+<div class="flex flex-col gap-6 w-full md:w-auto">
+<button class="bg-black text-primary font-label font-bold text-2xl py-8 px-14 uppercase tracking-tighter hover:bg-white hover:text-black transition-all border-4 border-black">
+                        APPLY TO JOIN
+                    </button>
+<a class="text-center font-label text-black uppercase text-sm tracking-widest font-bold underline decoration-[6px] underline-offset-[10px]" href="#">READ THE BYLAWS</a>
+</div>
+</div>
+</section>
+<!-- Stats / Meta section -->
+<section class="px-6 md:px-20 pb-32 grid grid-cols-2 md:grid-cols-4 gap-8">
+<div class="border-t-4 border-outline-variant pt-8">
+<div class="font-label text-secondary text-5xl font-black">1.2K+</div>
+<div class="font-label text-xs uppercase tracking-widest text-on-surface-variant mt-2">Contributors</div>
+</div>
+<div class="border-t-4 border-outline-variant pt-8">
+<div class="font-label text-secondary text-5xl font-black">42</div>
+<div class="font-label text-xs uppercase tracking-widest text-on-surface-variant mt-2">Live Projects</div>
+</div>
+<div class="border-t-4 border-outline-variant pt-8">
+<div class="font-label text-secondary text-5xl font-black">$0.00</div>
+<div class="font-label text-xs uppercase tracking-widest text-on-surface-variant mt-2">VC Extraction</div>
+</div>
+<div class="border-t-4 border-outline-variant pt-8">
+<div class="font-label text-secondary text-5xl font-black">∞</div>
+<div class="font-label text-xs uppercase tracking-widest text-on-surface-variant mt-2">Public Good</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-black full-width bottom-0 border-t-8 border-secondary flex flex-col md:flex-row justify-between items-center w-full px-10 py-16 gap-10 z-20 relative">
+<div class="flex flex-col items-center md:items-start gap-4">
+<div class="font-headline font-black text-secondary text-3xl tracking-tighter uppercase">MYCOR COMMONS</div>
+<div class="font-label text-xs tracking-widest uppercase text-gray-500 max-w-xs text-center md:text-left">
+                © MYCOR SOVEREIGN COMMONS. NO RIGHTS RESERVED. POWER TO THE PEOPLE.
+            </div>
+</div>
+<nav class="flex flex-wrap justify-center gap-10">
+<a class="text-gray-400 font-label text-sm tracking-widest uppercase hover:text-primary hover:italic hover:underline decoration-4 transition-all" href="#">Whitepaper</a>
+<a class="text-gray-400 font-label text-sm tracking-widest uppercase hover:text-primary hover:italic hover:underline decoration-4 transition-all" href="#">Source Code</a>
+<a class="text-gray-400 font-label text-sm tracking-widest uppercase hover:text-primary hover:italic hover:underline decoration-4 transition-all" href="#">Protocol</a>
+<a class="text-gray-400 font-label text-sm tracking-widest uppercase hover:text-primary hover:italic hover:underline decoration-4 transition-all" href="#">Privacy Void</a>
+</nav>
+<div class="flex gap-6">
+<a class="w-12 h-12 border-2 border-outline flex items-center justify-center hover:bg-secondary transition-colors group" href="#">
+<span class="material-symbols-outlined text-on-surface group-hover:text-black text-2xl">terminal</span>
+</a>
+<a class="w-12 h-12 border-2 border-outline flex items-center justify-center hover:bg-primary transition-colors group" href="#">
+<span class="material-symbols-outlined text-on-surface group-hover:text-black text-2xl">share</span>
+</a>
+</div>
+</footer>
+</body></html>
