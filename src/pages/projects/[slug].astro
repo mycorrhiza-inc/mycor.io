@@ -23,15 +23,15 @@ const statusColor = {
 
 <BaseLayout title={project.data.title}>
   <div class="max-w-3xl">
-    <!-- Title section with thick left border -->
-    <div class="border-l-6 border-red pl-8 mb-12">
+    <!-- Title section with thick borders and shadow -->
+    <div class="border-l-8 border-red border-t-4 border-blue pl-8 pt-6 mb-10 shadow-red">
       <h1
-        class="text-6xl font-black mb-4 leading-tight"
+        class="text-7xl font-black mb-4 leading-none cramped"
         style="font-family: 'Playfair Display', Georgia, serif;"
       >
         {project.data.title}
       </h1>
-      <p class="text-xl text-white/75">{project.data.tagline}</p>
+      <p class="text-sm font-bold text-white/85">{project.data.tagline}</p>
     </div>
 
     <!-- Status and target badges -->

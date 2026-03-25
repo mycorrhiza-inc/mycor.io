@@ -20,38 +20,38 @@ const years = [...byYear.keys()].sort((a, b) => b - a);
   <div class="max-w-3xl">
     <div class="mb-12">
       <h1
-        class="text-5xl font-black mb-4"
+        class="text-6xl md:text-7xl font-black mb-4 cramped"
         style="font-family: 'Playfair Display', Georgia, serif;"
       >
         The Notebook
       </h1>
-      <p class="text-white/75">
-        Essays, notes, and working thoughts on technology, democracy, and economic organization —
-        the research behind the projects.
+      <p class="text-sm leading-tight">
+        Essays, notes, and working thoughts on technology, democracy, and economic organization.
+        The research behind the projects.
       </p>
     </div>
 
     {years.map((year) => (
-      <section class="mb-12">
+      <section class="mb-10">
         <h2
-          class="text-3xl font-black text-red mb-6 pb-4 border-b-4 border-blue"
+          class="text-4xl font-black text-red mb-6 pb-3 border-b-4 border-blue border-l-8 border-red pl-4 cramped"
           style="font-family: 'Playfair Display', Georgia, serif;"
         >
           {year}
         </h2>
-        <ul class="space-y-4">
+        <ul class="space-y-2">
           {byYear.get(year)!.map((post) => {
             const d = post.data.date;
             const month = d.toLocaleDateString('en-US', { month: 'short' });
             const day = String(d.getDate()).padStart(2, '0');
             return (
-              <li class="flex gap-4 items-baseline group">
-                <span class="text-xs text-white/40 tabular-nums w-16 shrink-0 font-serif font-bold uppercase">
-                  {month} {day}
+              <li class="flex gap-3 items-baseline group">
+                <span class="text-xs text-red font-serif font-bold uppercase shrink-0">
+                  {month}.{day}
                 </span>
                 <a
                   href={`/posts/${post.id}`}
-                  class="text-white/85 hover:text-red hover:bg-red hover:text-black transition-colors leading-snug border-b-2 border-transparent hover:border-red"
+                  class="text-white/90 hover:text-red hover:bg-red hover:text-black transition-colors leading-tight text-sm border-b-2 border-transparent hover:border-red"
                 >
                   {post.data.title}
                 </a>

@@ -14,38 +14,38 @@ const statusColors: Record<string, string> = {
 ---
 
 <BaseLayout>
-  <!-- Hero: Asymmetric layout with large serif H1 -->
-  <section class="mb-20 pt-10">
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
-      <!-- Left: Large serif heading -->
+  <!-- Hero: Aggressive, dense typography -->
+  <section class="mb-16 pt-6">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-start">
+      <!-- Left: MASSIVE serif heading -->
       <div class="md:col-span-2">
         <h1
-          class="text-6xl md:text-7xl font-black leading-tight mb-6"
+          class="text-7xl md:text-8xl font-black leading-none mb-8 cramped"
           style="font-family: 'Playfair Display', Georgia, serif; letter-spacing: -0.02em;"
         >
-          Open source<br />
-          software for the<br />
-          <span class="text-red">cooperative</span> &<br />
-          <span class="text-blue">nonprofit</span> sector
+          Open <span class="text-red">source</span><br />
+          software for<br />
+          the <span class="text-blue">cooperative</span> &<br />
+          <span class="text-red">nonprofit</span> sector
         </h1>
       </div>
 
-      <!-- Right: Callout box with red border -->
-      <div class="border-4 border-red p-6 md:col-span-1">
-        <div class="text-sm space-y-4 leading-relaxed">
-          <p>
-            Cooperatives and nonprofits solving humanity's biggest problems with corporate software.
+      <!-- Right: Callout box with aggressive shadow -->
+      <div class="border-4 border-red p-6 md:col-span-1 shadow-red">
+        <div class="text-sm space-y-3 leading-tight">
+          <p class="font-bold">
+            Cooperatives & nonprofits solving humanity's biggest problems.
           </p>
-          <p>
+          <p class="text-xs uppercase font-serif font-bold">
             We're building the infrastructure they actually need.
           </p>
         </div>
       </div>
     </div>
 
-    <!-- Main description -->
-    <div class="mt-12 max-w-3xl">
-      <p class="text-lg leading-relaxed">
+    <!-- Main description - denser -->
+    <div class="mt-10 max-w-2xl">
+      <p class="text-base leading-tight">
         mycor.io runs the full product lifecycle — research, design, specification, engineering —
         as a volunteer organization. Every project combines the technical and social work
         together, because you can't separate them and succeed at either.
@@ -53,22 +53,22 @@ const statusColors: Record<string, string> = {
     </div>
   </section>
 
-  <!-- Projects: Asymmetric grid with punk styling -->
-  <section class="mb-20">
-    <h2 class="text-xs font-serif font-bold tracking-widest uppercase mb-8 border-b-4 border-blue pb-4">
-      Projects
+  <!-- Projects: Dense, aggressive grid with shadows -->
+  <section class="mb-16">
+    <h2 class="text-xs font-serif font-bold tracking-widest uppercase mb-8 border-b-4 border-blue pb-4 text-blue">
+      ◆ Projects
     </h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
       {projects.map((project, index) => (
         <a
           href={`/projects/${project.id}`}
-          class={`group block border-4 p-6 transition-all hover:shadow-red ${
-            index % 3 === 0 ? 'md:col-span-2 border-red' : 'border-blue'
+          class={`group block border-4 p-5 transition-all hover:shadow-red ${
+            index % 3 === 0 ? 'md:col-span-2 border-red rotate-1' : 'border-blue -rotate-1'
           }`}
         >
-          <div class="flex items-start justify-between gap-4 mb-4">
+          <div class="flex items-start justify-between gap-3 mb-3">
             <h3
-              class="text-2xl font-bold group-hover:text-red transition-colors"
+              class="text-xl font-bold group-hover:text-red transition-colors leading-tight"
               style="font-family: 'Playfair Display', Georgia, serif;"
             >
               {project.data.title}
@@ -81,22 +81,37 @@ const statusColors: Record<string, string> = {
               {project.data.status}
             </span>
           </div>
-          <p class="text-white/75 text-sm leading-relaxed mb-4">
+          <p class="text-white/80 text-xs leading-tight mb-3">
             {project.data.tagline}
           </p>
-          <span class="text-xs uppercase font-serif font-bold text-blue">{project.data.target}</span>
+          <div class="flex items-center justify-between">
+            <span class="text-xs uppercase font-serif font-bold text-blue">{project.data.target}</span>
+            <span class="text-lg font-bold text-red">→</span>
+          </div>
         </a>
       ))}
     </div>
   </section>
 
-  <!-- The Notebook: Blue top border section -->
-  <section class="max-w-3xl border-t-4 border-blue pt-12">
-    <h2 class="text-xs font-serif font-bold tracking-widest uppercase mb-6">
-      The Notebook
+  <!-- Manifesto-style section -->
+  <section class="border-t-4 border-l-8 border-red pl-6 py-8 mb-16">
+    <blockquote
+      class="text-2xl md:text-3xl font-black italic cramped mb-4"
+      style="font-family: 'Playfair Display', Georgia, serif;"
+    >
+      "The algorithms that shape our lives must be transparent, the data we generate must be ours,
+      and the software we use must be a bridge to community, not a wall for profit."
+    </blockquote>
+    <p class="text-xs uppercase font-serif font-bold text-blue">— democratic ecosocialism manifesto</p>
+  </section>
+
+  <!-- The Notebook: Dense section -->
+  <section class="max-w-3xl border-t-4 border-blue pt-8">
+    <h2 class="text-xs font-serif font-bold tracking-widest uppercase mb-4 text-blue">
+      ◆ The Notebook
     </h2>
-    <div class="space-y-4 leading-relaxed">
-      <p>
+    <div class="space-y-3 leading-tight text-sm">
+      <p class="font-bold">
         Essays, notes, and working thoughts on technology, democracy, and economic organization.
       </p>
       <p>
@@ -106,7 +121,7 @@ const statusColors: Record<string, string> = {
     </div>
     <a
       href="/posts"
-      class="inline-block mt-6 font-serif font-bold text-red hover:bg-red hover:text-black px-2 py-1 border-b-2 border-red transition-colors"
+      class="inline-block mt-6 font-serif font-bold text-red border-b-2 border-red transition-all hover:bg-red hover:text-black px-1 uppercase text-xs"
     >
       Browse the archive →
     </a>

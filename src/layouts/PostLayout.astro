@@ -17,15 +17,15 @@ const formattedDate = date.toLocaleDateString('en-US', {
 
 <BaseLayout title={title}>
   <article class="max-w-3xl">
-    <header class="mb-12 pb-8 border-b-4 border-blue">
+    <header class="mb-10 pb-6 border-b-4 border-blue border-l-8 border-red pl-6">
       <h1
-        class="text-5xl font-black leading-tight mb-6"
+        class="text-6xl md:text-7xl font-black leading-none mb-6 cramped"
         style="font-family: 'Playfair Display', Georgia, serif;"
       >
         {title}
       </h1>
-      <p class="text-sm font-serif font-bold uppercase tracking-widest">
-        {formattedDate} &mdash; {author}
+      <p class="text-xs font-serif font-bold uppercase tracking-widest">
+        {formattedDate} <span class="text-red">●</span> {author}
       </p>
     </header>
     <div class="prose prose-lg max-w-none">

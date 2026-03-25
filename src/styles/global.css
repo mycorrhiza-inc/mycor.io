@@ -27,6 +27,29 @@ body {
   min-height: 100vh;
 }
 
+/* Noise background pattern */
+@supports (background-image: url('data:image/svg+xml')) {
+  .noise-bg::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      repeating-linear-gradient(
+        0deg,
+        rgba(255, 77, 61, 0.03),
+        rgba(255, 77, 61, 0.03) 1px,
+        transparent 1px,
+        transparent 2px
+      );
+    pointer-events: none;
+    z-index: 0;
+  }
+}
+
+body {
+  position: relative;
+}
+
 /* Custom punk utilities */
 @layer utilities {
   /* Thick borders with colors */
@@ -47,19 +70,41 @@ body {
   .bg-red { background-color: var(--color-primary); }
   .bg-blue { background-color: var(--color-secondary); }
 
-  /* Hard shadows with red/blue offsets */
+  /* Hard shadows - aggressive 8px offsets */
   .shadow-red {
-    box-shadow: 4px 4px 0 var(--color-primary);
-  }
-  .shadow-red-lg {
     box-shadow: 8px 8px 0 var(--color-primary);
   }
   .shadow-blue {
-    box-shadow: 4px 4px 0 var(--color-secondary);
-  }
-  .shadow-blue-lg {
     box-shadow: 8px 8px 0 var(--color-secondary);
   }
+  .shadow-red-sm {
+    box-shadow: 4px 4px 0 var(--color-primary);
+  }
+  .shadow-blue-sm {
+    box-shadow: 4px 4px 0 var(--color-secondary);
+  }
+
+  /* Layered shadow effect */
+  .shadow-punk {
+    box-shadow:
+      4px 4px 0 rgba(0, 0, 0, 0.5),
+      8px 8px 0 var(--color-primary);
+  }
+  .shadow-punk-blue {
+    box-shadow:
+      4px 4px 0 rgba(0, 0, 0, 0.5),
+      8px 8px 0 var(--color-secondary);
+  }
+
+  /* Rotations for chaos */
+  .rotate-1 { transform: rotate(1deg); }
+  .rotate-2 { transform: rotate(2deg); }
+  .-rotate-1 { transform: rotate(-1deg); }
+  .-rotate-2 { transform: rotate(-2deg); }
+
+  /* Skew for aggressive look */
+  .skew-x { transform: skewX(-5deg); }
+  .-skew-x { transform: skewX(5deg); }
 
   /* Punk button styles */
   .btn-punk {
@@ -69,6 +114,20 @@ body {
   .btn-punk:hover {
     background-color: var(--color-primary);
     border-color: var(--color-primary);
+    transform: translate(-2px, -2px);
+  }
+
+  /* Dense/cramped text */
+  .cramped {
+    letter-spacing: -0.03em;
+    line-height: 0.9;
+  }
+
+  /* Aggressive text styling */
+  .text-aggressive {
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
   }
 }
 
