@@ -18,9 +18,14 @@ const years = [...byYear.keys()].sort((a, b) => b - a);
 
 <BaseLayout title="The Notebook">
   <div class="max-w-3xl">
-    <div class="mb-10">
-      <h1 class="text-3xl font-bold mb-3">The Notebook</h1>
-      <p class="text-base-content/60">
+    <div class="mb-12">
+      <h1
+        class="text-5xl font-black mb-4"
+        style="font-family: 'Playfair Display', Georgia, serif;"
+      >
+        The Notebook
+      </h1>
+      <p class="text-white/75">
         Essays, notes, and working thoughts on technology, democracy, and economic organization —
         the research behind the projects.
       </p>
@@ -28,7 +33,10 @@ const years = [...byYear.keys()].sort((a, b) => b - a);
 
     {years.map((year) => (
       <section class="mb-12">
-        <h2 class="text-2xl font-bold text-primary mb-6 pb-2 border-b border-base-300">
+        <h2
+          class="text-3xl font-black text-red mb-6 pb-4 border-b-4 border-blue"
+          style="font-family: 'Playfair Display', Georgia, serif;"
+        >
           {year}
         </h2>
         <ul class="space-y-4">
@@ -38,12 +46,12 @@ const years = [...byYear.keys()].sort((a, b) => b - a);
             const day = String(d.getDate()).padStart(2, '0');
             return (
               <li class="flex gap-4 items-baseline group">
-                <span class="text-xs text-base-content/35 tabular-nums w-16 shrink-0">
+                <span class="text-xs text-white/40 tabular-nums w-16 shrink-0 font-serif font-bold uppercase">
                   {month} {day}
                 </span>
                 <a
                   href={`/posts/${post.id}`}
-                  class="text-base-content/85 hover:text-primary transition-colors leading-snug"
+                  class="text-white/85 hover:text-red hover:bg-red hover:text-black transition-colors leading-snug border-b-2 border-transparent hover:border-red"
                 >
                   {post.data.title}
                 </a>

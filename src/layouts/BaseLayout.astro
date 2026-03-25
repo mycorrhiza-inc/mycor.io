@@ -11,7 +11,7 @@ const pageTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
 ---
 
 <!doctype html>
-<html lang="en" data-theme="wthwmt">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -25,20 +25,36 @@ const pageTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
     />
   </head>
   <body style="font-family: 'Inter', system-ui, sans-serif;">
-    <header class="border-b border-base-300">
+    <!-- Header: Punk aesthetic with thick red bottom border -->
+    <header class="border-b-4 border-red">
       <div class="container mx-auto px-4 max-w-5xl">
-        <div class="flex items-center justify-between py-4">
+        <div class="flex items-center justify-between py-6">
           <a
             href="/"
-            class="text-lg font-bold tracking-tight hover:text-primary transition-colors"
-            style="font-family: 'Playfair Display', Georgia, serif;"
+            class="text-3xl font-black transition-colors text-red"
+            style="font-family: 'Playfair Display', Georgia, serif; letter-spacing: 0.05em;"
           >
             mycor.io
           </a>
-          <nav class="flex items-center gap-1">
-            <a href="/" class="btn btn-ghost btn-sm">Home</a>
-            <a href="/posts" class="btn btn-ghost btn-sm">Notebook</a>
-            <a href="/about" class="btn btn-ghost btn-sm">About</a>
+          <nav class="flex items-center gap-8">
+            <a
+              href="/"
+              class="font-serif text-sm font-bold uppercase transition-colors hover:text-red"
+            >
+              Home
+            </a>
+            <a
+              href="/posts"
+              class="font-serif text-sm font-bold uppercase transition-colors hover:text-red"
+            >
+              Notebook
+            </a>
+            <a
+              href="/about"
+              class="font-serif text-sm font-bold uppercase transition-colors hover:text-red"
+            >
+              About
+            </a>
           </nav>
         </div>
       </div>
@@ -48,8 +64,9 @@ const pageTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
       <slot />
     </main>
 
-    <footer class="border-t border-base-300 mt-16">
-      <div class="container mx-auto px-4 max-w-5xl py-6 text-sm text-base-content/40">
+    <!-- Footer: Punk aesthetic with thick blue top border -->
+    <footer class="border-t-4 border-blue mt-16">
+      <div class="container mx-auto px-4 max-w-5xl py-6 text-sm" style="font-family: 'Playfair Display', Georgia, serif;">
         mycor.io — open source software for cooperatives and nonprofits
       </div>
     </footer>

@@ -14,31 +14,49 @@ const { project } = Astro.props;
 const { Content } = await render(project);
 
 const statusColor = {
-  concept: 'badge-ghost',
-  MVP: 'badge-info',
-  incubating: 'badge-warning',
-  graduated: 'badge-success',
-}[project.data.status] ?? 'badge-ghost';
+  concept: 'border-blue text-blue',
+  MVP: 'border-red bg-red text-black',
+  incubating: 'border-blue text-blue',
+  graduated: 'border-red text-red',
+}[project.data.status] ?? 'border-blue text-blue';
 ---
 
 <BaseLayout title={project.data.title}>
-  <div class="max-w-2xl">
-    <div class="border-l-4 border-primary pl-6 mb-8">
-      <h1 class="text-4xl font-bold mb-2">{project.data.title}</h1>
-      <p class="text-xl text-base-content/70">{project.data.tagline}</p>
+  <div class="max-w-3xl">
+    <!-- Title section with thick left border -->
+    <div class="border-l-6 border-red pl-8 mb-12">
+      <h1
+        class="text-6xl font-black mb-4 leading-tight"
+        style="font-family: 'Playfair Display', Georgia, serif;"
+      >
+        {project.data.title}
+      </h1>
+      <p class="text-xl text-white/75">{project.data.tagline}</p>
     </div>
 
-    <div class="flex gap-2 mb-10">
-      <span class={`badge ${statusColor}`}>{project.data.status}</span>
-      <span class="badge badge-outline">{project.data.target}</span>
+    <!-- Status and target badges -->
+    <div class="flex gap-4 mb-12 flex-wrap">
+      <span
+        class={`text-xs font-serif font-bold uppercase border-2 px-3 py-2 ${statusColor}`}
+      >
+        {project.data.status}
+      </span>
+      <span class="text-xs font-serif font-bold uppercase border-2 border-blue text-blue px-3 py-2">
+        {project.data.target}
+      </span>
     </div>
 
+    <!-- Content -->
     <div class="prose prose-lg max-w-none">
       <Content />
     </div>
 
-    <div class="mt-12 pt-6 border-t border-base-300">
-      <a href="/" class="text-sm text-base-content/50 hover:text-primary transition-colors">
+    <!-- Back link -->
+    <div class="mt-16 pt-8 border-t-4 border-blue">
+      <a
+        href="/"
+        class="font-serif font-bold text-red hover:bg-red hover:text-black px-2 py-1 transition-colors"
+      >
         ← All projects
       </a>
     </div>
