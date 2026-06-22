@@ -1,0 +1,18 @@
+---
+draft: true
+title: Relative adjunctions and graded monads
+author: Brad Venner
+date: 2026-06-05
+---
+
+The theory of graded monads and comonads has been used to develop the theory of computational effects and coeffects, respectively. But how far is the graded theory from the ordinary theory of monads as traditionally used in logic and computer science? Graded monads/comonads are special cases of relative monads/comonads. One model is a relative adjunction, in that relative adjunctions give rise to relative monads/comonads, but unlike the symmetrical "absolute adjunction," case relative adjunctions are split into right-relative and left-relative adjunctions give rise to relative monads and comonads, respectively. 
+
+In particular, I'm interested in how much of the story of S4 as an instantiation of Peirce's ideas on modal logic still holds in the relative adjunction case.
+
+My intuition is that it would be worthwhile to develop a formal semiotics in the context of a relative adjunction. There is a naive understanding of this, in that relative adjoint diagrams are triangles and there is a simple mapping from Peirce's notion of triadic relation to this diagram. In particular, some of Peirce's convoluted language on the relationship between the sign and an object and an object and its interpretant may have a relatively natural interpretation as a relative adjunction.
+
+The concept of relative monads was originally formalized by Thorsten Altenkirch and a variety of coauthors, although precursors to the idea existed. One of their leading examples is in formalizing the theory of vector spaces in Agda. There is a potentially interesting link to Peirce here. Boolean algebras are square and fit the notion of an algebra of a monad, as there is a natural notion of endofunctor. Boolean vector spaces could be described as a relative monad using the same model of a vector space as an indexed container as developed by Altenkirch. Similarly, this could be extended to S4 as Heyting algebras and coalgebras are described by monads and comonads considered as possibility and necessity, respectively.
+
+Although Altenkirch's formalization of indexed containers does not seem to be available on Github, there is related work on "generalized containers" by Damato and Altenkirch. However, this doesn't really build on the relative monad idea and doesn't cite the indexed container literature (shockingly despite Gemini's assertion). The indexed container paper has 154 citations on Semantic Scholar as of 6/8/2026. It's not clear if Semantic Scholar distinguishes between the two versions.
+
+Since Akor and McDermott develop their theory of relative monads within double-categorical formal type theory, and the latter is developed by Lynch in DoubleTT, a good project would be to try to formalize relative monads within DoubleTT as implemented in CatColab.

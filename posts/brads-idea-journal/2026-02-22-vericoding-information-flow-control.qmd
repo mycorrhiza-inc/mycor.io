@@ -76,7 +76,7 @@ F* (F-star) in the article over those alternatives for three specific reasons re
 Here is a breakdown of why F* stands out for this specific use case:
 
 ### 1. Native, First-Class Support for Complex Effects (Dijkstra Monads)
-While Rocq, Lean, and Idris all support dependent types, F* was designed from the ground up with a uniquely powerful, extensible effect system based on **Dijkstra Monads**.
+While Rocq, Lean, and Idris all support dependent types, F* was designed from the ground up with a uniquely powerful, extensible effect system based on **va**.
 
 In most dependently-typed languages, if you want to model side effects (like reading a file or mutating state) or coeffects (like requiring a security clearance), you have to manually encode them using standard monads or algebraic effects. This can become incredibly cumbersome when you also want to prove properties about those effects.
 

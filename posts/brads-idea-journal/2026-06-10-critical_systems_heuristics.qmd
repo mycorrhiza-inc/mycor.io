@@ -1,0 +1,58 @@
+---
+draft: true
+title: Critical systems heuristics
+author: Brad Venner
+date: 2026-06-10
+---
+
+Werner Ulrich proposes critical systems heuristics as an essential component in his version of critical systems thinking. I have notes on a couple of his other articles. This entry concentrates on the expository article he wrote with Martin Reynolds of the Open University.
+
+There is a very strong Kantian flavor to this article. It seems fair to classify Ulrich as a neo-Kantian, as this was a pretty popular position when he was developing his original work in the 80's.  
+
+The 12 critical systems heuristics are explicitly drawn from Kant's categories. 
+
+> They are methodologically grounded in a reconstruction of Kantian a priori science, which represents the epistemological basis of Kant’s critical philosophy (see Ulrich 1983 , Chapters 3–5). p. 258
+
+Ulrich references his 1983 book in this quote, which I have not been able to find. I probably won't pursue this based on this article, but it would be interesting to understand how he defends his Kantianism.
+
+Ulrich also seems to propose a Kantian duality between what we know and the "thing-in-itself". 
+
+> Among contemporary systems practitioners – particularly in the two traditions of soft and critical systems thinking - it is widely acknowledged that 'systems' are essentially *conceptual* constructs rather than real-world entities. p. 251
+
+Rather than Kant's noumenon we have Ulrich's "infinitely rich 'real world'". Ulrich states that although "soft systems thinking" wants to compare "situations" with "systems", where the former are naively thought to lie in the real world, the enlightened critical systems thinker knows that both dwell in the phenomenal world 
+
+Since Peirce developed semiotics in part to help bridge Kant's duality, this seems like a better foundation for "critical systems thinking" than Ulrich's and Jackson's rather superficial understanding of the pragmatic tradition. Realist traditions, whether pragmatic, critical or model-based (i.e. semiotic) seem more useful to systems practice.
+
+As an aside, I looked up "semiotic realism" and found Scott Metzger's disseration on "semeiotic realism", which is freely available and attempts to synthesize semiotics, classification of arguments and synechism. I read part of the first chapter last night. Metzger argues against Deely that while Peirce may have been influence by the Latin notion of "signum", his primary influence was through Locke's proposal that led to his analysis of arguments in Aristotle.  
+
+It is unfortunate in a way that scientific philosophy developed in the direction of logical empiricism and systems philosophy given Peirce's lifelong ambition to make philosophy more compatible with science (to cure Dr. Jeckyl/Mr. Hyde, in Deely's colorful metaphor). The good news is that the Intrnet/LLM's are making the sort of knowledge management necessary for the truly transdisciplinary work that Peirce envisioned much more possible. 
+
+Ulrich then proposes three terms to talk about the proximity to reality in decreasing order: maps, designs, and models. Maps are closer to reality for unclear reasons - Ulrich includes the double-helix of DNA which at the time of the writing of this was much closer to a model than a map, IMHO. Designs live in a normative space and are called "ideal maps". I prefer the systems analysis/systems design duality here.
+
+Ulrich moves close to a pragmatic understanding of maps in his discussion of reference systems. He introduces the notion of territory as the "thing in itself," which means the "situation" can be understood as the use of a map within a territory. So object-sign-interpretant would be territory-map-situation. But a map is more than an ordinary sign but is more of a model. Ulrich uses the analogy of a lens for a map, which has some category-theoretic resonances. A map is more like a measurement in the triad measurand-measuring instrument-measurement, with various measuring instruments that transduce distance measures into "values". The dependence of a map on calibrated measuring instruments is somewhat supressed in Ulrich's discussion. Spivak's discussion of a sonar system on a submarine as a model (i.e. including both sensors and actuators) is perhaps a better foundation. The purpose of a map is what you can do with it, and that is to skillfully move about a territory.
+
+Ulrich discusses a distinction between partiality and selectivity. The former concept seems related to Myer's notion of "interface." Mari argues that an interface is a synonym for a property - a mode of interaction of a system with it's environment. This is more of an ontological commitment. Ulrich seems to argue that partiality results from selectivity, i.e. is mind-dependent. But Ulrich does not seem to pursue this "propositional" understanding of partiality. A "boundary judgement" seems to be something like the context-dependence of a particular claim. An example of a claim is "that participatory planning in NRUA-Botswana is good" and this might be revised with the "boundary judgements associated with the claim in a particular context."
+
+Perhaps a good essay to justify this current work would be "critical systems thinking in the generative AI era". 
+
+In the era of AI, a non-psychological understanding of logic is now crucial. A mistaken co-location of logic and consciousness could lead to crucial mistakes in AI governance. The original view of systems theory as a transdiscipline that cut across the human, technical and natural disciplines is more pressing then ever. Although the methodology of critical systems thinking was a valuable and natural reaction to the excessive scientism in "hard" systems theory in the 1960s, has the field moved too far in the psychological understanding of systems? This is one of the benefits of the term systemology, which can at least be given a non-psychological interpretation unlike "systems thinking". AI systems may be taught a non-psychological logic without gaining consciousness.
+
+Before casting this aspersion on critical systems thinking based on Ulrich's work, I need to get a good understanding of Jackson's proposal, as he also explicitly includes an "unqualified" pragmatism and also includes Bogdanov as an influence. Churchman's "systems approach" is closer to the agent-based view of pragmatism without such an explicit reference to consciousness.
+
+Ulrich divides the application of CHS as unfolding and then questioning boundary judgements.
+
+The proposed pathway through CSH begins with purpose. Method validation begins with "fitness for purpose", which is analogous to step 3, "measurement of improvement" in a way, although "improvement" is more epistemological for validation as opposed to development. Method validation requires resources (control) and expertise (knowledge). In this application, legitimacy seems to be in the larger metrology community, but it's well known that measurement is valuable to the extent it creates social goods. Valid measurement produces good environmental outcomes. On the other hand, Rousseau's reflection-analysis-synthesis-practice framework is also a good fit here and is closer to the ISO PDCA framework in spirit.
+
+Is a never-ending quest a hopeless quest?
+
+Ulrich argues that we practice boundary critique every day but not consciously and systematically. This could be more closely aligned with pragmatism by using the concept of habit, as a problematic situation arises when available habits are challenged. Pragmatism as systematic reflection on the habit of changing habits. Habits are thirdness. Peirce includes natural habits in this scheme and biosemiotics extends habits to all living things, but this cuts off pre-biotic natural systems and possibly technical systems.
+
+The examples in this chapter could all be considered part of institutional analysis and design. This viewpoint might be particularly helpful as land-use decisions in Botswana were previously under a common-property regime. Due to time constraints, I only skimmed the rest of the paper but might revisit as I continue to work on TARA. 
+
+The later paper (2023, possibly?) I read by Reynolds opposed Jackson's approach with another author and proposed something like CSH as a transdiscipline. Would be good to go back and look up the other author's name.
+
+Although I'm not totally sold on the theory, I do agree with this paragraph as a statement of the need for action research. I believe that both Ulrich and Jackson have papers on action research.
+
+> Thus seen, boundary critique ultimately becomes a Socratic professional stance rather than an explicit technique. It encourages a new methodological modesty that expresses itself in the way we qualify our claims and deal with those of others. Such a stance will also make a difference in the way we meet people concerned about a situation who have no special expertise and skills: we will understand and let them feel that we are prepared to meet them on an equal footing. Rather than putting them in a situation of incompetence, as professional practice often does, we will treat them as competent partners in exploring the context that matters (Ulrich 2000) . When it comes to the contextual assumptions informing our views, ordinary citizens have no disadvantage as compared to the experts.
+
+Perhaps the biggest weakness in this paper is the failure to name capitalism as the overarching "reference system". The focus on "professional practice" betrays its idealist Kantian roots. 

@@ -1,0 +1,18 @@
+---
+draft: true
+title: Hypostatic abstraction in double categories
+author: Brad Venner
+date: 2026-06-02
+---
+
+I've had the idea for more than a year that double categories could provide a good model of hypostatic abstraction as developed by Peirce. 
+
+(J. Zeman discusses Peirce's concept in detail)[https://web.archive.org/web/20150618181742/http://users.clas.ufl.edu/jzeman/peirce_on_abstraction.htm]
+
+Gemini states that hypostatic abstraction is also known as positive reification. It moves from a "concrete" form of being (A is B), in a subject-object form, to an "abstract" form where two subjects are related (A has B-ness). So it promotes a "predicate" to a "subject" and unifies it under a relation.
+
+One categorification of this idea is the formation of an exponential object. This process takes a morphism between objects (A -| B) and transforms it into an exponential object (-| B^A). In a cartesian closed category, this operation is adjoint to the formation of a product. An exponential object is also called an "internal hom", in contrast to the turnstile that is an "external hom". In set, the notion of "morphism" is thought of as an object in a set, and the "hom-set" is the set of all functions between two objects.  
+
+Peirce developed his notion of hypostatic abstraction long before category theory. One project would be to examine his writings and see to what extent can his examples be formulated 
+
+Reification takes hypostatic abstraction too far. Whitehead called this the *fallacy of misplaced concreteness*. Once the quality is transformed into a subject, the "necessary" form of being can conceptually be separated. This allows the transformation of an "inalienable" quality (such as a person's labor) into something that potentially can be alienated.
