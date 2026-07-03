@@ -1,0 +1,14 @@
+---
+draft: true
+title: "Notes on Higher-Order Knowledge Representations for Agentic Scientific Reasoning"
+author: "Brad Venner"
+date: "2026-07-02"
+---
+
+I've been thinking about record metadata for both work reasons and for use in TARA. This morning I thought I should do a quick review on using graph databases for record metadata. Since I've looked at a few papers on higher-order networks recently, I searched on "higher order knowledge graph" and found this paper by Isabella Stewart and Markus Buehler from the MIT Civil and Environmental Engineering Department. Stewart is a second-year PhD candidate that reminds me of Elena. I think that it would be great to invite her to speak at a joint NEIC/R8 webinar.
+
+I really like this paper. It really ties a lot of things together for me that I've been thinking about. Although hypergraph networks are "old hat" in the categorical systems literature or in higher-order network theory, I think the combination of theory and the development of their actual knowledge base that really clicks for me. It's a shame that Mycorrhiza didn't get to the knowledge base development part of the project as it seems like the techniques in this paper could be applied to that project.
+
+It's also a callback to my work with Aplexsys. A hypergraph is formally equivalent to a Chu space over (1+1). The incidence matrix of a hypergraph is a rectangular matrix with entries of 0 or 1. 
+
+There's also a link to my current work on mereology.

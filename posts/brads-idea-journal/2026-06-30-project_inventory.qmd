@@ -1,0 +1,33 @@
+---
+draft: true
+title: "Project Inventory"
+author: "Brad Venner"
+date: "2026-06-30"
+---
+
+Thought it might be good to write down some current project ideas that I haven't yet systematically developed as a program. As I approach retirement and accept my inherent limitations in both time and ability, it's probably wise to focus on ideas that have the greatest potential to either join with existing programs or could mobilize people as a separate program. 
+
+Although I think several of these project ideas could be considered under the broad framework of democratic ecosocialism (the former name of this "idea journal"), I haven't really related some of them to my "former" program. I based my previous program on Peirce's broad classification of philosophy as divided into phaneroscopy (firstness), metaphysics (secondness) and axiology (thirdness). I developed a couple stub Github repositories based on this classification, with categorical-semiotics corresponding to firstness and semiotics-values corresponding to thirdness. 
+
+Is this program obsolete in the language agent era? Many of the projects outlined below have been influenced by the availability of language agents to actually implement software products, and also the feeling that general philosophical frameworks are now less valuable. On the other hand, one way to understand my increasing interest in systems approaches is to address metaphysics, and the program could be understood as semiotics-math, semiotics-science, and semiotics-values.
+
+Another major change since I outlined the program is my increasing interest in Marxism. This can be seen in the repository pragmatic-ecosocialism, which had it's initial commit about 9 years ago, or 2017. This was after Bernie's presidential run. This interest was related to my previous interest in critical theory, particularly Apel and Habermas with their interest in pragmatism. It would be interesting to see when I bought my first Apel book, and whether it was before or after Bernie. Rob Bryer's project on Marxism and accounting also seemed important at the time. Lawvere's subtle hints about his Hegelianism also seem important, particularly to the categorical-semiotics project, which now seems like it needs a great deal more Lawverism. More generally, bringing a more Hegelian, Marxist or critical perspective to some of these projects seems like an important step.  
+
+I've also read quite a bit of Dewey and some secondary literature centered around his work, such as Roberto Frega. Dewey didn't grab me as much as Peirce, and I found his writing to be somewhat imprecise, but Dewey does dissipate some of Peirce's more transcendental aspects, such as the community of inquiry. The fact that the program was so heavily influenced by Peirce probably has given it a more transcendental quality (philospher's have only interpreted the world), while I'd now like to focus more on the pragmatic aspects (the point is to change it).
+
+Anyway, I'm well over my time limit, so I'll try to finish with a bulleted list. Perhaps I can revisit these as sections later. The question is whether to develop a new program, stick with a portfolio of projects that are not unified as a program, or update the previous program with some of these projects. The first two are reasonably well fleshed out and I have conceived of them as potential college courses. I should probably go through the idea journal, perhaps with Claude's help, and see if there are any other projects that should go on this list.
+
+1. Transdisciplinary action research assistant
+
+2. Measurement systems
+
+3. Semiotics, systems, dialectics
+
+4. Creative economic democracy
+
+5. Modeling and simulation of social-technical systems (part of creative economic democracy?)
+
+6. Self-organization as agency (part of semiotics, systems, dialectics?)
+
+7. Behavioral and structural mereology (potentially related to measurement systems)
+
